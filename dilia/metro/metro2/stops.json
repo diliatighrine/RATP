@@ -1,0 +1,494 @@
+{
+  "stops": [
+    {
+      "stop_id": "2338",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.84942390087223",
+      "stop_lon": "2.3970250382993576",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2058",
+      "stop_code": "",
+      "stop_name": "\"Avron\"",
+      "stop_desc": "\"Terre-plein face au 35 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.851193819213286",
+      "stop_lon": "2.398239140823123",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2160",
+      "stop_code": "",
+      "stop_name": "\"Alexandre-Dumas\"",
+      "stop_desc": "\"111 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.85640839965758",
+      "stop_lon": "2.3944997576092732",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2398",
+      "stop_code": "",
+      "stop_name": "\"Philippe Auguste\"",
+      "stop_desc": "\"212 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.85837884146994",
+      "stop_lon": "2.3897347327397043",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2394",
+      "stop_code": "",
+      "stop_name": "\"Père-Lachaise\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.86316120506396",
+      "stop_lon": "2.3872604001843536",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2351",
+      "stop_code": "",
+      "stop_name": "\"Ménilmontant\"",
+      "stop_desc": "\"Ménilmontant (139/148 boulevard de) - 75111\"",
+      "stop_lat": "48.865705787623",
+      "stop_lon": "2.3844293751632057",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2079",
+      "stop_code": "",
+      "stop_name": "\"Couronnes\"",
+      "stop_desc": "\"Belleville (37 boulevard de) - 75111\"",
+      "stop_lat": "48.86932916949657",
+      "stop_lon": "2.3805363661617247",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2548",
+      "stop_code": "",
+      "stop_name": "\"Belleville\"",
+      "stop_desc": "\"Terre-plein face au 1 boulevard de la Villette - 75119\"",
+      "stop_lat": "48.87228732058717",
+      "stop_lon": "2.3767376773224687",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2168",
+      "stop_code": "",
+      "stop_name": "\"Colonel Fabien\"",
+      "stop_desc": "\"Tterre-plein face au 83 boulevard de la Villette - 75110\"",
+      "stop_lat": "48.87818498179219",
+      "stop_lon": "2.3701745466363584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2296",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88276854674882",
+      "stop_lon": "2.36994579899074",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2484",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88418929420877",
+      "stop_lon": "2.367030441974567",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2235",
+      "stop_code": "",
+      "stop_name": "\"La Chapelle\"",
+      "stop_desc": "\"Rue du Faubourg Saint Denis - 75110\"",
+      "stop_lat": "48.884388698358165",
+      "stop_lon": "2.3592765642767297",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2547",
+      "stop_code": "",
+      "stop_name": "\"Barbès-Rochechouart\"",
+      "stop_desc": "\"Boulevard de la Chapelle - 75109\"",
+      "stop_lat": "48.88368010927906",
+      "stop_lon": "2.3495328036519307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2096",
+      "stop_code": "",
+      "stop_name": "\"Anvers\"",
+      "stop_desc": "\"68 boulevard Rochechouart - 75118\"",
+      "stop_lat": "48.882871690180586",
+      "stop_lon": "2.344163572800391",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2401",
+      "stop_code": "",
+      "stop_name": "\"Pigalle\"",
+      "stop_desc": "\"26 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88242252841757",
+      "stop_lon": "2.337254682101535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2071",
+      "stop_code": "",
+      "stop_name": "\"Blanche\"",
+      "stop_desc": "\"Terre-plein face au 59 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88377051883179",
+      "stop_lon": "2.332485148274094",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2405",
+      "stop_code": "",
+      "stop_name": "\"Place de Clichy\"",
+      "stop_desc": "\"Terre-plein face au 7 place de Clichy - 75109\"",
+      "stop_lat": "48.88345565159549",
+      "stop_lon": "2.3273749934103556",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1707",
+      "stop_code": "",
+      "stop_name": "\"Rome\"",
+      "stop_desc": "\"60 boulevard des Batignolles - 75117\"",
+      "stop_lat": "48.88207083393704",
+      "stop_lon": "2.3203983393099863",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1629",
+      "stop_code": "",
+      "stop_name": "\"Villiers\"",
+      "stop_desc": "\"Parc de Monceau - 75117\"",
+      "stop_lat": "48.88132429394468",
+      "stop_lon": "2.3165967615088174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1822",
+      "stop_code": "",
+      "stop_name": "\"Monceau\"",
+      "stop_desc": "\"1 Place de la République Dominicaine - 75108\"",
+      "stop_lat": "48.88057689074842",
+      "stop_lon": "2.309415946164807",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1989",
+      "stop_code": "",
+      "stop_name": "\"Courcelles\"",
+      "stop_desc": "\"Boulevard de Courcelles - 75108\"",
+      "stop_lat": "48.87927215163157",
+      "stop_lon": "2.303298546682486",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1684",
+      "stop_code": "",
+      "stop_name": "\"Ternes\"",
+      "stop_desc": "\"Salle Pleyel - 75117\"",
+      "stop_lat": "48.87822804050767",
+      "stop_lon": "2.2981214325821844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2148",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.87399384072475",
+      "stop_lon": "2.294663961825911",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2504",
+      "stop_code": "",
+      "stop_name": "\"Victor Hugo\"",
+      "stop_desc": "\"4 place Victor Hugo - 75116\"",
+      "stop_lat": "48.869864912484076",
+      "stop_lon": "2.285226207250439",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1736",
+      "stop_code": "",
+      "stop_name": "\"Porte Dauphine (Maréchal de Lattre de Tassigny)\"",
+      "stop_desc": "\"Boulevard Amiral Bruix - 75116\"",
+      "stop_lat": "48.87179221641751",
+      "stop_lon": "2.27486996119569",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2504",
+      "stop_code": "",
+      "stop_name": "\"Victor Hugo\"",
+      "stop_desc": "\"4 place Victor Hugo - 75116\"",
+      "stop_lat": "48.869864912484076",
+      "stop_lon": "2.285226207250439",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2148",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.87399384072475",
+      "stop_lon": "2.294663961825911",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1684",
+      "stop_code": "",
+      "stop_name": "\"Ternes\"",
+      "stop_desc": "\"Salle Pleyel - 75117\"",
+      "stop_lat": "48.87822804050767",
+      "stop_lon": "2.2981214325821844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1989",
+      "stop_code": "",
+      "stop_name": "\"Courcelles\"",
+      "stop_desc": "\"Boulevard de Courcelles - 75108\"",
+      "stop_lat": "48.87927215163157",
+      "stop_lon": "2.303298546682486",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1822",
+      "stop_code": "",
+      "stop_name": "\"Monceau\"",
+      "stop_desc": "\"1 Place de la République Dominicaine - 75108\"",
+      "stop_lat": "48.88057689074842",
+      "stop_lon": "2.309415946164807",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1629",
+      "stop_code": "",
+      "stop_name": "\"Villiers\"",
+      "stop_desc": "\"Parc de Monceau - 75117\"",
+      "stop_lat": "48.88132429394468",
+      "stop_lon": "2.3165967615088174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1707",
+      "stop_code": "",
+      "stop_name": "\"Rome\"",
+      "stop_desc": "\"60 boulevard des Batignolles - 75117\"",
+      "stop_lat": "48.88207083393704",
+      "stop_lon": "2.3203983393099863",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2405",
+      "stop_code": "",
+      "stop_name": "\"Place de Clichy\"",
+      "stop_desc": "\"Terre-plein face au 7 place de Clichy - 75109\"",
+      "stop_lat": "48.88345565159549",
+      "stop_lon": "2.3273749934103556",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2071",
+      "stop_code": "",
+      "stop_name": "\"Blanche\"",
+      "stop_desc": "\"Terre-plein face au 59 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88377051883179",
+      "stop_lon": "2.332485148274094",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2401",
+      "stop_code": "",
+      "stop_name": "\"Pigalle\"",
+      "stop_desc": "\"26 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88242252841757",
+      "stop_lon": "2.337254682101535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2096",
+      "stop_code": "",
+      "stop_name": "\"Anvers\"",
+      "stop_desc": "\"68 boulevard Rochechouart - 75118\"",
+      "stop_lat": "48.882871690180586",
+      "stop_lon": "2.344163572800391",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2547",
+      "stop_code": "",
+      "stop_name": "\"Barbès-Rochechouart\"",
+      "stop_desc": "\"Boulevard de la Chapelle - 75109\"",
+      "stop_lat": "48.88368010927906",
+      "stop_lon": "2.3495328036519307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2235",
+      "stop_code": "",
+      "stop_name": "\"La Chapelle\"",
+      "stop_desc": "\"Rue du Faubourg Saint Denis - 75110\"",
+      "stop_lat": "48.884388698358165",
+      "stop_lon": "2.3592765642767297",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2484",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88418929420877",
+      "stop_lon": "2.367030441974567",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2296",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88276854674882",
+      "stop_lon": "2.36994579899074",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2168",
+      "stop_code": "",
+      "stop_name": "\"Colonel Fabien\"",
+      "stop_desc": "\"Tterre-plein face au 83 boulevard de la Villette - 75110\"",
+      "stop_lat": "48.87818498179219",
+      "stop_lon": "2.3701745466363584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2548",
+      "stop_code": "",
+      "stop_name": "\"Belleville\"",
+      "stop_desc": "\"Terre-plein face au 1 boulevard de la Villette - 75119\"",
+      "stop_lat": "48.87228732058717",
+      "stop_lon": "2.3767376773224687",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2079",
+      "stop_code": "",
+      "stop_name": "\"Couronnes\"",
+      "stop_desc": "\"Belleville (37 boulevard de) - 75111\"",
+      "stop_lat": "48.86932916949657",
+      "stop_lon": "2.3805363661617247",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2351",
+      "stop_code": "",
+      "stop_name": "\"Ménilmontant\"",
+      "stop_desc": "\"Ménilmontant (139/148 boulevard de) - 75111\"",
+      "stop_lat": "48.865705787623",
+      "stop_lon": "2.3844293751632057",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2394",
+      "stop_code": "",
+      "stop_name": "\"Père-Lachaise\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.86316120506396",
+      "stop_lon": "2.3872604001843536",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2398",
+      "stop_code": "",
+      "stop_name": "\"Philippe Auguste\"",
+      "stop_desc": "\"212 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.85837884146994",
+      "stop_lon": "2.3897347327397043",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2160",
+      "stop_code": "",
+      "stop_name": "\"Alexandre-Dumas\"",
+      "stop_desc": "\"111 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.85640839965758",
+      "stop_lon": "2.3944997576092732",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2058",
+      "stop_code": "",
+      "stop_name": "\"Avron\"",
+      "stop_desc": "\"Terre-plein face au 35 boulevard de Charonne - 75111\"",
+      "stop_lat": "48.851193819213286",
+      "stop_lon": "2.398239140823123",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2338",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.84942390087223",
+      "stop_lon": "2.3970250382993576",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

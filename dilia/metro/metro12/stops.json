@@ -1,0 +1,574 @@
+{
+  "stops": [
+    {
+      "stop_id": "3901292",
+      "stop_code": "",
+      "stop_name": "\"Front Populaire\"",
+      "stop_desc": "\"Place du Front Populaire - 93001\"",
+      "stop_lat": "48.90666658787472",
+      "stop_lon": "2.3652301358543797",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2421",
+      "stop_code": "",
+      "stop_name": "\"Porte de la Chapelle\"",
+      "stop_desc": "\"Rue Raymond Queneau - 75118\"",
+      "stop_lat": "48.89795934324147",
+      "stop_lon": "2.3592550695796524",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2282",
+      "stop_code": "",
+      "stop_name": "\"Marx-Dormoy\"",
+      "stop_desc": "\"4 rue de la Chapelle - 75118\"",
+      "stop_lat": "48.890374081221125",
+      "stop_lon": "2.3597970086706117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1883",
+      "stop_code": "",
+      "stop_name": "\"Marcadet-Poissonniers\"",
+      "stop_desc": "\"88 boulevard Barbès - 75118\"",
+      "stop_lat": "48.89160682271851",
+      "stop_lon": "2.349548310988923",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1906",
+      "stop_code": "",
+      "stop_name": "\"Jules Joffrin\"",
+      "stop_desc": "\"2 place Jules Joffrin - 75118\"",
+      "stop_lat": "48.89249697693026",
+      "stop_lon": "2.3443284105515048",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1920",
+      "stop_code": "",
+      "stop_name": "\"Lamarck-Caulaincourt\"",
+      "stop_desc": "\"Lamarck (53/53 bis rue) - 75118\"",
+      "stop_lat": "48.8897381077178",
+      "stop_lon": "2.339149086674118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2156",
+      "stop_code": "",
+      "stop_name": "\"Abbesses\"",
+      "stop_desc": "\"Place des Abbesses - 75118\"",
+      "stop_lat": "48.8843997149084",
+      "stop_lon": "2.338399384171042",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2402",
+      "stop_code": "",
+      "stop_name": "\"Pigalle\"",
+      "stop_desc": "\"26 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88202708962622",
+      "stop_lon": "2.337213801747862",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1720",
+      "stop_code": "",
+      "stop_name": "\"Saint-Georges\"",
+      "stop_desc": "\"Place Saint-Georges - 75109\"",
+      "stop_lat": "48.878593955236205",
+      "stop_lon": "2.3378269689170192",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2308",
+      "stop_code": "",
+      "stop_name": "\"Notre-Dame de Lorette\"",
+      "stop_desc": "\"Rue de Chateaudun - 75109\"",
+      "stop_lat": "48.876050554237366",
+      "stop_lon": "2.337908692037609",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1686",
+      "stop_code": "",
+      "stop_name": "\"Trinité-d'Estienne d'Orves\"",
+      "stop_desc": "\"50 rue de Chateaudun - 75109\"",
+      "stop_lat": "48.8763290374387",
+      "stop_lon": "2.331804568510596",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1723",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.875420977789275",
+      "stop_lon": "2.3266952720717047",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2336",
+      "stop_code": "",
+      "stop_name": "\"Madeleine\"",
+      "stop_desc": "\"Rue De Sèze - 75108\"",
+      "stop_lat": "48.8697947152178",
+      "stop_lon": "2.3246120120222655",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1982",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.8654893908901",
+      "stop_lon": "2.321411789213801",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2052",
+      "stop_code": "",
+      "stop_name": "\"Assemblée Nationale\"",
+      "stop_desc": "\"Angle avec le 239 bd Saint-Germain et la rue de Courty - 75107\"",
+      "stop_lat": "48.86145390429487",
+      "stop_lon": "2.3203096905073557",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1669",
+      "stop_code": "",
+      "stop_name": "\"Solférino\"",
+      "stop_desc": "\"Rue de Solférino - 75107\"",
+      "stop_lat": "48.858533359508236",
+      "stop_lon": "2.323089248787209",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1710",
+      "stop_code": "",
+      "stop_name": "\"Rue du Bac\"",
+      "stop_desc": "\"Terre-plein face au 2 boulevard Raspail - 75107\"",
+      "stop_lat": "48.85589133781551",
+      "stop_lon": "2.325704993899314",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1667",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Babylone\"",
+      "stop_desc": "\"Square Boucicaut - 75107\"",
+      "stop_lat": "48.85157746899621",
+      "stop_lon": "2.3268907883428853",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1646",
+      "stop_code": "",
+      "stop_name": "\"Rennes\"",
+      "stop_desc": "\"Terre-plein face au 78 boulevard Raspail - 75106\"",
+      "stop_lat": "48.848198268824774",
+      "stop_lon": "2.3280217486281134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2309",
+      "stop_code": "",
+      "stop_name": "\"Notre-Dame des Champs\"",
+      "stop_desc": "\"Terre-plein face au 112 boulevard Raspail - 75106\"",
+      "stop_lat": "48.84478304833005",
+      "stop_lon": "2.3284444832927207",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1826",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.844027636151914",
+      "stop_lon": "2.323569797217576",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1938",
+      "stop_code": "",
+      "stop_name": "\"Falguière\"",
+      "stop_desc": "\"138 rue du Cherche-Midi - 75115\"",
+      "stop_lat": "48.84432338300201",
+      "stop_lon": "2.317564676180599",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2392",
+      "stop_code": "",
+      "stop_name": "\"Pasteur\"",
+      "stop_desc": "\"183 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.8428305421094",
+      "stop_lon": "2.3126633077591134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1632",
+      "stop_code": "",
+      "stop_name": "\"Volontaires\"",
+      "stop_desc": "\"25 rue des Volontaires - 75115\"",
+      "stop_lat": "48.84141844267774",
+      "stop_lon": "2.307993649386661",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2501",
+      "stop_code": "",
+      "stop_name": "\"Vaugirard (Adolphe Chérioux)\"",
+      "stop_desc": "\"Square de Vergenne - 75115\"",
+      "stop_lat": "48.83943928123955",
+      "stop_lon": "2.3010780424739252",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1984",
+      "stop_code": "",
+      "stop_name": "\"Convention\"",
+      "stop_desc": "\"337 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.83713694956265",
+      "stop_lon": "2.296396090155559",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2428",
+      "stop_code": "",
+      "stop_name": "\"Porte de Versailles\"",
+      "stop_desc": "\"Palais des Sports - 75115\"",
+      "stop_lat": "48.832253452749",
+      "stop_lon": "2.287864137819189",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1986",
+      "stop_code": "",
+      "stop_name": "\"Corentin-Celton\"",
+      "stop_desc": "\"Rue Ernest Renan - 92040\"",
+      "stop_lat": "48.82682988739414",
+      "stop_lon": "2.278966861574341",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2337",
+      "stop_code": "",
+      "stop_name": "\"Mairie d'Issy\"",
+      "stop_desc": "\"Rue du Général Leclerc - 92040\"",
+      "stop_lat": "48.82434652601842",
+      "stop_lon": "2.2735658296006465",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1986",
+      "stop_code": "",
+      "stop_name": "\"Corentin-Celton\"",
+      "stop_desc": "\"Rue Ernest Renan - 92040\"",
+      "stop_lat": "48.82682988739414",
+      "stop_lon": "2.278966861574341",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2428",
+      "stop_code": "",
+      "stop_name": "\"Porte de Versailles\"",
+      "stop_desc": "\"Palais des Sports - 75115\"",
+      "stop_lat": "48.832253452749",
+      "stop_lon": "2.287864137819189",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1984",
+      "stop_code": "",
+      "stop_name": "\"Convention\"",
+      "stop_desc": "\"337 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.83713694956265",
+      "stop_lon": "2.296396090155559",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2501",
+      "stop_code": "",
+      "stop_name": "\"Vaugirard (Adolphe Chérioux)\"",
+      "stop_desc": "\"Square de Vergenne - 75115\"",
+      "stop_lat": "48.83943928123955",
+      "stop_lon": "2.3010780424739252",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1632",
+      "stop_code": "",
+      "stop_name": "\"Volontaires\"",
+      "stop_desc": "\"25 rue des Volontaires - 75115\"",
+      "stop_lat": "48.84141844267774",
+      "stop_lon": "2.307993649386661",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2392",
+      "stop_code": "",
+      "stop_name": "\"Pasteur\"",
+      "stop_desc": "\"183 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.8428305421094",
+      "stop_lon": "2.3126633077591134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1938",
+      "stop_code": "",
+      "stop_name": "\"Falguière\"",
+      "stop_desc": "\"138 rue du Cherche-Midi - 75115\"",
+      "stop_lat": "48.84432338300201",
+      "stop_lon": "2.317564676180599",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1826",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.844027636151914",
+      "stop_lon": "2.323569797217576",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2309",
+      "stop_code": "",
+      "stop_name": "\"Notre-Dame des Champs\"",
+      "stop_desc": "\"Terre-plein face au 112 boulevard Raspail - 75106\"",
+      "stop_lat": "48.84478304833005",
+      "stop_lon": "2.3284444832927207",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1646",
+      "stop_code": "",
+      "stop_name": "\"Rennes\"",
+      "stop_desc": "\"Terre-plein face au 78 boulevard Raspail - 75106\"",
+      "stop_lat": "48.848198268824774",
+      "stop_lon": "2.3280217486281134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1667",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Babylone\"",
+      "stop_desc": "\"Square Boucicaut - 75107\"",
+      "stop_lat": "48.85157746899621",
+      "stop_lon": "2.3268907883428853",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1710",
+      "stop_code": "",
+      "stop_name": "\"Rue du Bac\"",
+      "stop_desc": "\"Terre-plein face au 2 boulevard Raspail - 75107\"",
+      "stop_lat": "48.85589133781551",
+      "stop_lon": "2.325704993899314",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1669",
+      "stop_code": "",
+      "stop_name": "\"Solférino\"",
+      "stop_desc": "\"Rue de Solférino - 75107\"",
+      "stop_lat": "48.858533359508236",
+      "stop_lon": "2.323089248787209",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2052",
+      "stop_code": "",
+      "stop_name": "\"Assemblée Nationale\"",
+      "stop_desc": "\"Angle avec le 239 bd Saint-Germain et la rue de Courty - 75107\"",
+      "stop_lat": "48.86145390429487",
+      "stop_lon": "2.3203096905073557",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1982",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.8654893908901",
+      "stop_lon": "2.321411789213801",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2336",
+      "stop_code": "",
+      "stop_name": "\"Madeleine\"",
+      "stop_desc": "\"Rue De Sèze - 75108\"",
+      "stop_lat": "48.8697947152178",
+      "stop_lon": "2.3246120120222655",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1723",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.875420977789275",
+      "stop_lon": "2.3266952720717047",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1686",
+      "stop_code": "",
+      "stop_name": "\"Trinité-d'Estienne d'Orves\"",
+      "stop_desc": "\"50 rue de Chateaudun - 75109\"",
+      "stop_lat": "48.8763290374387",
+      "stop_lon": "2.331804568510596",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2308",
+      "stop_code": "",
+      "stop_name": "\"Notre-Dame de Lorette\"",
+      "stop_desc": "\"Rue de Chateaudun - 75109\"",
+      "stop_lat": "48.876050554237366",
+      "stop_lon": "2.337908692037609",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1720",
+      "stop_code": "",
+      "stop_name": "\"Saint-Georges\"",
+      "stop_desc": "\"Place Saint-Georges - 75109\"",
+      "stop_lat": "48.878593955236205",
+      "stop_lon": "2.3378269689170192",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2402",
+      "stop_code": "",
+      "stop_name": "\"Pigalle\"",
+      "stop_desc": "\"26 boulevard de Clichy - 75118\"",
+      "stop_lat": "48.88202708962622",
+      "stop_lon": "2.337213801747862",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2156",
+      "stop_code": "",
+      "stop_name": "\"Abbesses\"",
+      "stop_desc": "\"Place des Abbesses - 75118\"",
+      "stop_lat": "48.8843997149084",
+      "stop_lon": "2.338399384171042",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1920",
+      "stop_code": "",
+      "stop_name": "\"Lamarck-Caulaincourt\"",
+      "stop_desc": "\"Lamarck (53/53 bis rue) - 75118\"",
+      "stop_lat": "48.8897381077178",
+      "stop_lon": "2.339149086674118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1906",
+      "stop_code": "",
+      "stop_name": "\"Jules Joffrin\"",
+      "stop_desc": "\"2 place Jules Joffrin - 75118\"",
+      "stop_lat": "48.89249697693026",
+      "stop_lon": "2.3443284105515048",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1883",
+      "stop_code": "",
+      "stop_name": "\"Marcadet-Poissonniers\"",
+      "stop_desc": "\"88 boulevard Barbès - 75118\"",
+      "stop_lat": "48.89160682271851",
+      "stop_lon": "2.349548310988923",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2282",
+      "stop_code": "",
+      "stop_name": "\"Marx-Dormoy\"",
+      "stop_desc": "\"4 rue de la Chapelle - 75118\"",
+      "stop_lat": "48.890374081221125",
+      "stop_lon": "2.3597970086706117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2421",
+      "stop_code": "",
+      "stop_name": "\"Porte de la Chapelle\"",
+      "stop_desc": "\"Rue Raymond Queneau - 75118\"",
+      "stop_lat": "48.89795934324147",
+      "stop_lon": "2.3592550695796524",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3901292",
+      "stop_code": "",
+      "stop_name": "\"Front Populaire\"",
+      "stop_desc": "\"Place du Front Populaire - 93001\"",
+      "stop_lat": "48.90666658787472",
+      "stop_lon": "2.3652301358543797",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

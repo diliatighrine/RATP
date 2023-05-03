@@ -1,0 +1,514 @@
+{
+  "stops": [
+    {
+      "stop_id": "7647744",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ASNIERES - MARGUERITE LONG\"",
+      "stop_desc": "\"BOULEVARD BERTHIER - 75117\"",
+      "stop_lat": "48.88980512735677",
+      "stop_lon": "2.303100842722527",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647743",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CLICHY - TRIBUNAL DE PARIS\"",
+      "stop_desc": "\"BOULEVARD BERTHIER - 75117\"",
+      "stop_lat": "48.89454407630223",
+      "stop_lon": "2.3144379407682028",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647741",
+      "stop_code": "",
+      "stop_name": "\"HONORE DE BALZAC\"",
+      "stop_desc": "\"BOULEVARD BESSIERES - 75117\"",
+      "stop_lat": "48.89622544895564",
+      "stop_lon": "2.3189352705220907",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647739",
+      "stop_code": "",
+      "stop_name": "\"EPINETTES - POUCHET\"",
+      "stop_desc": "\"BOULEVARD BESSIERES - 75117\"",
+      "stop_lat": "48.89743948601333",
+      "stop_lon": "2.3249596701197275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647737",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE SAINT-OUEN\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.897502802687974",
+      "stop_lon": "2.3298940230775522",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647735",
+      "stop_code": "",
+      "stop_name": "\"ANGELIQUE COMPOINT - PORTE DE MONTMARTRE\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89771871483139",
+      "stop_lon": "2.3384678332191733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647733",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CLIGNANCOURT - PUCES DE SAINT-OUEN\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89790717662924",
+      "stop_lon": "2.34533784000039",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647731",
+      "stop_code": "",
+      "stop_name": "\"DIANE ARBUS - PORTE DES POISSONNIERS\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.898203116856564",
+      "stop_lon": "2.351976200235749",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647729",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE LA CHAPELLE\"",
+      "stop_desc": "\"FACE 58 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89836376395667",
+      "stop_lon": "2.35925524128409",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647727",
+      "stop_code": "",
+      "stop_name": "\"COLETTE BESSON\"",
+      "stop_desc": "\"17-19 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.898426076934854",
+      "stop_lon": "2.3622813706471204",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647725",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'AUBERVILLIERS\"",
+      "stop_desc": "\"1-3 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.8985323439321",
+      "stop_lon": "2.368919778586098",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647723",
+      "stop_code": "",
+      "stop_name": "\"ROSA PARKS\"",
+      "stop_desc": "\"VOIE NOUVELLE - 75119\"",
+      "stop_lat": "48.89730909234759",
+      "stop_lon": "2.372490300970134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647721",
+      "stop_code": "",
+      "stop_name": "\"CANAL SAINT-DENIS\"",
+      "stop_desc": "\"137 BOULEVARD MACDONALD - 75119\"",
+      "stop_lat": "48.89876241284092",
+      "stop_lon": "2.3803837445906018",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647719",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE LA VILLETTE - CITE DES SCIENCES ET DE L'INDUSTRIE\"",
+      "stop_desc": "\"81 BOULEVARD MACDONALD - 75119\"",
+      "stop_lat": "48.89744790977127",
+      "stop_lon": "2.3865301587901095",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647717",
+      "stop_code": "",
+      "stop_name": "\"ELLA FITZGERALD - GRANDS MOULINS DE PANTIN\"",
+      "stop_desc": "\"16-18 RUE DE LA CLOTURE - 75119\"",
+      "stop_lat": "48.897372166976474",
+      "stop_lon": "2.395090241448971",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647715",
+      "stop_code": "",
+      "stop_name": "\"DELPHINE SEYRIG\"",
+      "stop_desc": "\"FACE 7-15 RUE DELPHINE SEYRIG - 93055\"",
+      "stop_lat": "48.893928771873036",
+      "stop_lon": "2.3977442319891407",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647713",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE PANTIN - PARC DE LA VILLETTE\"",
+      "stop_desc": "\"179 BIS BOULEVARD SERURIER - 75119\"",
+      "stop_lat": "48.88874424503188",
+      "stop_lon": "2.3955848701158775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647711",
+      "stop_code": "",
+      "stop_name": "\"BUTTE DU CHAPEAU ROUGE\"",
+      "stop_desc": "\"BOULEVARD D'INDOCHINE - 75119\"",
+      "stop_lat": "48.88501408966721",
+      "stop_lon": "2.3965209747909855",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647709",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL ROBERT DEBRE\"",
+      "stop_desc": "\"FACE 1 BOULEVARD D'ALGERIE - 75119\"",
+      "stop_lat": "48.879268920288126",
+      "stop_lon": "2.4010110065026677",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647707",
+      "stop_code": "",
+      "stop_name": "\"PORTE DES LILAS\"",
+      "stop_desc": "\"164-166 BD MORTIER - 75120\"",
+      "stop_lat": "48.87673109494634",
+      "stop_lon": "2.4070984366803896",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647706",
+      "stop_code": "",
+      "stop_name": "\"ADRIENNE BOLLAND\"",
+      "stop_desc": "\"109 BOULEVARD MORTIER - 75120\"",
+      "stop_lat": "48.87233553231549",
+      "stop_lon": "2.408400442346118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647704",
+      "stop_code": "",
+      "stop_name": "\"SEVERINE\"",
+      "stop_desc": "\"51 BOULEVARD MORTIER - 75120\"",
+      "stop_lat": "48.86734733439899",
+      "stop_lon": "2.408775040084198",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647702",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE BAGNOLET\"",
+      "stop_desc": "\"211-221 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.863545777166586",
+      "stop_lon": "2.4086063337580583",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647700",
+      "stop_code": "",
+      "stop_name": "\"MARIE DE MIRIBEL\"",
+      "stop_desc": "\"139-145 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.85879989853992",
+      "stop_lon": "2.4094851486951954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647698",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE MONTREUIL\"",
+      "stop_desc": "\"65 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.85318212034523",
+      "stop_lon": "2.4105123851418995",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647696",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VINCENNES\"",
+      "stop_desc": "\"103 COURS DE VINCENNES - 75120\"",
+      "stop_lat": "48.84729595599754",
+      "stop_lon": "2.409469129917919",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647698",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE MONTREUIL\"",
+      "stop_desc": "\"65 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.85318212034523",
+      "stop_lon": "2.4105123851418995",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "ƒ7647700",
+      "stop_code": "",
+      "stop_name": "\"MARIE DE MIRIBEL\"",
+      "stop_desc": "\"139-145 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.85879989853992",
+      "stop_lon": "2.4094851486951954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647702",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE BAGNOLET\"",
+      "stop_desc": "\"211-221 BOULEVARD DAVOUT - 75120\"",
+      "stop_lat": "48.863545777166586",
+      "stop_lon": "2.4086063337580583",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647704",
+      "stop_code": "",
+      "stop_name": "\"SEVERINE\"",
+      "stop_desc": "\"51 BOULEVARD MORTIER - 75120\"",
+      "stop_lat": "48.86734733439899",
+      "stop_lon": "2.408775040084198",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647706",
+      "stop_code": "",
+      "stop_name": "\"ADRIENNE BOLLAND\"",
+      "stop_desc": "\"109 BOULEVARD MORTIER - 75120\"",
+      "stop_lat": "48.87233553231549",
+      "stop_lon": "2.408400442346118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647707",
+      "stop_code": "",
+      "stop_name": "\"PORTE DES LILAS\"",
+      "stop_desc": "\"164-166 BD MORTIER - 75120\"",
+      "stop_lat": "48.87673109494634",
+      "stop_lon": "2.4070984366803896",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647709",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL ROBERT DEBRE\"",
+      "stop_desc": "\"FACE 1 BOULEVARD D'ALGERIE - 75119\"",
+      "stop_lat": "48.879268920288126",
+      "stop_lon": "2.4010110065026677",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647711",
+      "stop_code": "",
+      "stop_name": "\"BUTTE DU CHAPEAU ROUGE\"",
+      "stop_desc": "\"BOULEVARD D'INDOCHINE - 75119\"",
+      "stop_lat": "48.88501408966721",
+      "stop_lon": "2.3965209747909855",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647713",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE PANTIN - PARC DE LA VILLETTE\"",
+      "stop_desc": "\"179 BIS BOULEVARD SERURIER - 75119\"",
+      "stop_lat": "48.88874424503188",
+      "stop_lon": "2.3955848701158775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647715",
+      "stop_code": "",
+      "stop_name": "\"DELPHINE SEYRIG\"",
+      "stop_desc": "\"FACE 7-15 RUE DELPHINE SEYRIG - 93055\"",
+      "stop_lat": "48.893928771873036",
+      "stop_lon": "2.3977442319891407",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647717",
+      "stop_code": "",
+      "stop_name": "\"ELLA FITZGERALD - GRANDS MOULINS DE PANTIN\"",
+      "stop_desc": "\"16-18 RUE DE LA CLOTURE - 75119\"",
+      "stop_lat": "48.897372166976474",
+      "stop_lon": "2.395090241448971",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647719",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE LA VILLETTE - CITE DES SCIENCES ET DE L'INDUSTRIE\"",
+      "stop_desc": "\"81 BOULEVARD MACDONALD - 75119\"",
+      "stop_lat": "48.89744790977127",
+      "stop_lon": "2.3865301587901095",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647721",
+      "stop_code": "",
+      "stop_name": "\"CANAL SAINT-DENIS\"",
+      "stop_desc": "\"137 BOULEVARD MACDONALD - 75119\"",
+      "stop_lat": "48.89876241284092",
+      "stop_lon": "2.3803837445906018",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647723",
+      "stop_code": "",
+      "stop_name": "\"ROSA PARKS\"",
+      "stop_desc": "\"VOIE NOUVELLE - 75119\"",
+      "stop_lat": "48.89730909234759",
+      "stop_lon": "2.372490300970134",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647725",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'AUBERVILLIERS\"",
+      "stop_desc": "\"1-3 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.8985323439321",
+      "stop_lon": "2.368919778586098",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "77647727",
+      "stop_code": "",
+      "stop_name": "\"COLETTE BESSON\"",
+      "stop_desc": "\"17-19 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.898426076934854",
+      "stop_lon": "2.3622813706471204",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647729",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE LA CHAPELLE\"",
+      "stop_desc": "\"FACE 58 BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89836376395667",
+      "stop_lon": "2.35925524128409",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "647731",
+      "stop_code": "",
+      "stop_name": "\"DIANE ARBUS - PORTE DES POISSONNIERS\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.898203116856564",
+      "stop_lon": "2.351976200235749",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647733",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CLIGNANCOURT - PUCES DE SAINT-OUEN\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89790717662924",
+      "stop_lon": "2.34533784000039",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647735",
+      "stop_code": "",
+      "stop_name": "\"ANGELIQUE COMPOINT - PORTE DE MONTMARTRE\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.89771871483139",
+      "stop_lon": "2.3384678332191733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647737",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE SAINT-OUEN\"",
+      "stop_desc": "\"BOULEVARD NEY - 75118\"",
+      "stop_lat": "48.897502802687974",
+      "stop_lon": "2.3298940230775522",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647739",
+      "stop_code": "",
+      "stop_name": "\"EPINETTES - POUCHET\"",
+      "stop_desc": "\"BOULEVARD BESSIERES - 75117\"",
+      "stop_lat": "48.89743948601333",
+      "stop_lon": "2.3249596701197275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647741",
+      "stop_code": "",
+      "stop_name": "\"HONORE DE BALZAC\"",
+      "stop_desc": "\"BOULEVARD BESSIERES - 75117\"",
+      "stop_lat": "48.89622544895564",
+      "stop_lon": "2.3189352705220907",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647743",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CLICHY - TRIBUNAL DE PARIS\"",
+      "stop_desc": "\"BOULEVARD BERTHIER - 75117\"",
+      "stop_lat": "48.89454407630223",
+      "stop_lon": "2.3144379407682028",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "7647744",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ASNIERES - MARGUERITE LONG\"",
+      "stop_desc": "\"BOULEVARD BERTHIER - 75117\"",
+      "stop_lat": "48.88980512735677",
+      "stop_lon": "2.303100842722527",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "stops": [
+    {
+      "stop_id": "1695",
+      "stop_code": "",
+      "stop_name": "\"Villejuif-Louis Aragon\"",
+      "stop_desc": "\"Boulevard Maxime Gorky - 94076\"",
+      "stop_lat": "48.786638011119834",
+      "stop_lon": "2.367110527381649",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2506",
+      "stop_code": "",
+      "stop_name": "\"Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)\"",
+      "stop_desc": "\"Boulevard Maxime Gorky - 94076\"",
+      "stop_lat": "48.79599413239317",
+      "stop_lon": "2.3682314519156806",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2519",
+      "stop_code": "",
+      "stop_name": "\"Villejuif-Léo Lagrange\"",
+      "stop_desc": "\"Rue du Dauphin - 94076\"",
+      "stop_lat": "48.80376966328267",
+      "stop_lon": "2.3639093063890435",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1925",
+      "stop_code": "",
+      "stop_name": "\"Le Kremlin-Bicêtre\"",
+      "stop_desc": "\"Hôpital Kremlin Bicêtre - 94043\"",
+      "stop_lat": "48.810385125129486",
+      "stop_lon": "2.3618306830911315",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1876",
+      "stop_code": "",
+      "stop_name": "\"Maison Blanche\"",
+      "stop_desc": "\"144 avenue d' Italie - 75113\"",
+      "stop_lat": "48.82287877506322",
+      "stop_lon": "2.358079894290851",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1685",
+      "stop_code": "",
+      "stop_name": "\"Tolbiac\"",
+      "stop_desc": "\"Avenue d'Italie - 75113\"",
+      "stop_lat": "48.82615945391136",
+      "stop_lon": "2.3570194661891253",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1648",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.831552302643125",
+      "stop_lon": "2.3553334432190454",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1854",
+      "stop_code": "",
+      "stop_name": "\"Les Gobelins\"",
+      "stop_desc": "\"Manufacture des Gobelins - 75113\"",
+      "stop_lat": "48.83612743975252",
+      "stop_lon": "2.3520811178355734",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2139",
+      "stop_code": "",
+      "stop_name": "\"Censier-Daubenton\"",
+      "stop_desc": "\"96 rue Monge - 75105\"",
+      "stop_lat": "48.840594300001605",
+      "stop_lon": "2.351755612946688",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1649",
+      "stop_code": "",
+      "stop_name": "\"Place Monge (Jardin des Plantes)\"",
+      "stop_desc": "\"Arènes de Lutèce - 75105\"",
+      "stop_lat": "48.843164692766834",
+      "stop_lon": "2.3521103624150967",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2232",
+      "stop_code": "",
+      "stop_name": "\"Jussieu\"",
+      "stop_desc": "\"39 rue Liné - 75105\"",
+      "stop_lat": "48.8459684322046",
+      "stop_lon": "2.3548073926942186",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1681",
+      "stop_code": "",
+      "stop_name": "\"Sully-Morland\"",
+      "stop_desc": "\"Préfecture de Paris - 75104\"",
+      "stop_lat": "48.85079359474211",
+      "stop_lon": "2.3612369937142983",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2344",
+      "stop_code": "",
+      "stop_name": "\"Pont Marie (Cité des Arts)\"",
+      "stop_desc": "\"quai de l'Hôtel de Ville - 75104\"",
+      "stop_lat": "48.85346358569476",
+      "stop_lon": "2.357383972809163",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1966",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85720364550444",
+      "stop_lon": "2.3472247110558406",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2345",
+      "stop_code": "",
+      "stop_name": "\"Pont Neuf\"",
+      "stop_desc": "\"quai du Louvre - 75101\"",
+      "stop_lat": "48.85853410228574",
+      "stop_lon": "2.3421172386659985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2384",
+      "stop_code": "",
+      "stop_name": "\"Palais-Royal (Musée du Louvre)\"",
+      "stop_desc": "\"Terre-plein face au 93 rue de Rivoli - 75101\"",
+      "stop_lat": "48.86338738506552",
+      "stop_lon": "2.3354838367723683",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2435",
+      "stop_code": "",
+      "stop_name": "\"Pyramides\"",
+      "stop_desc": "\"Rue de l'Echelle - 75101\"",
+      "stop_lat": "48.86649698703855",
+      "stop_lon": "2.334094215259097",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2314",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.870559216544876",
+      "stop_lon": "2.332554482049589",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1971",
+      "stop_code": "",
+      "stop_name": "\"Chaussée d'Antin (La Fayette)\"",
+      "stop_desc": "\"Rue La Fayette - 75109\"",
+      "stop_lat": "48.872985824665165",
+      "stop_lon": "2.33342622405285",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2316",
+      "stop_code": "",
+      "stop_name": "\"Le Peletier\"",
+      "stop_desc": "\"Rue de la Victoire - 75109\"",
+      "stop_lat": "48.87496305802612",
+      "stop_lon": "2.3401567908492056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2134",
+      "stop_code": "",
+      "stop_name": "\"Cadet\"",
+      "stop_desc": "\"Terre-plein face au 65 rue La Fayette - 75109\"",
+      "stop_lat": "48.875825718038186",
+      "stop_lon": "2.343345124573273",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2373",
+      "stop_code": "",
+      "stop_name": "\"Poissonnière\"",
+      "stop_desc": "\"Terre-plein face au 96/98 rue La Fayette - 75110\"",
+      "stop_lat": "48.877353095288015",
+      "stop_lon": "2.349381423952599",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2209",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.8764170528791",
+      "stop_lon": "2.3589870464563276",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2085",
+      "stop_code": "",
+      "stop_name": "\"Château Landon\"",
+      "stop_desc": "\"188 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.87845656683119",
+      "stop_lon": "2.3620537162488993",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1860",
+      "stop_code": "",
+      "stop_name": "\"Louis Blanc\"",
+      "stop_desc": "\"234 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.88090042815109",
+      "stop_lon": "2.365107218264337",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2486",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88407198636439",
+      "stop_lon": "2.3688700627777948",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2448",
+      "stop_code": "",
+      "stop_name": "\"Riquet\"",
+      "stop_desc": "\"Avenue de Flandre - 75119\"",
+      "stop_lat": "48.8883932319013",
+      "stop_lon": "2.374433108884994",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2093",
+      "stop_code": "",
+      "stop_name": "\"Crimée\"",
+      "stop_desc": "\"Rue de Crimée - 75119\"",
+      "stop_lat": "48.89028877504466",
+      "stop_lon": "2.3767786489253644",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1985",
+      "stop_code": "",
+      "stop_name": "\"Corentin-Cariou\"",
+      "stop_desc": "\"avenue Corentin Cariou - 75119\"",
+      "stop_lat": "48.89468154198812",
+      "stop_lon": "2.382302193974242",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2422",
+      "stop_code": "",
+      "stop_name": "\"Porte de la Villette\"",
+      "stop_desc": "\"Cité des Sciences - La Géode - Le Zénith - 75119\"",
+      "stop_lat": "48.89752915689145",
+      "stop_lon": "2.3856442301273044",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2055",
+      "stop_code": "",
+      "stop_name": "\"Aubervilliers Pantin (4 Chemins)\"",
+      "stop_desc": "\"80 avenue Jean Jaurès - 93001\"",
+      "stop_lat": "48.903898047529474",
+      "stop_lon": "2.3924800786724747",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2199",
+      "stop_code": "",
+      "stop_name": "\"Fort d'Aubervilliers\"",
+      "stop_desc": "\"Gare routière - 93001\"",
+      "stop_lat": "48.91405674514657",
+      "stop_lon": "2.403576334511007",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2236",
+      "stop_code": "",
+      "stop_name": "\"La Courneuve-8-Mai-1945\"",
+      "stop_desc": "\"Place du 8 Mai 1945 - 93027\"",
+      "stop_lat": "48.92051450668569",
+      "stop_lon": "2.410225779120198",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2199",
+      "stop_code": "",
+      "stop_name": "\"Fort d'Aubervilliers\"",
+      "stop_desc": "\"Gare routière - 93001\"",
+      "stop_lat": "48.91405674514657",
+      "stop_lon": "2.403576334511007",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2055",
+      "stop_code": "",
+      "stop_name": "\"Aubervilliers Pantin (4 Chemins)\"",
+      "stop_desc": "\"80 avenue Jean Jaurès - 93001\"",
+      "stop_lat": "48.903898047529474",
+      "stop_lon": "2.3924800786724747",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2422",
+      "stop_code": "",
+      "stop_name": "\"Porte de la Villette\"",
+      "stop_desc": "\"Cité des Sciences - La Géode - Le Zénith - 75119\"",
+      "stop_lat": "48.89752915689145",
+      "stop_lon": "2.3856442301273044",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1985",
+      "stop_code": "",
+      "stop_name": "\"Corentin-Cariou\"",
+      "stop_desc": "\"avenue Corentin Cariou - 75119\"",
+      "stop_lat": "48.89468154198812",
+      "stop_lon": "2.382302193974242",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2093",
+      "stop_code": "",
+      "stop_name": "\"Crimée\"",
+      "stop_desc": "\"Rue de Crimée - 75119\"",
+      "stop_lat": "48.89028877504466",
+      "stop_lon": "2.3767786489253644",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2448",
+      "stop_code": "",
+      "stop_name": "\"Riquet\"",
+      "stop_desc": "\"Avenue de Flandre - 75119\"",
+      "stop_lat": "48.8883932319013",
+      "stop_lon": "2.374433108884994",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2486",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88407198636439",
+      "stop_lon": "2.3688700627777948",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1860",
+      "stop_code": "",
+      "stop_name": "\"Louis Blanc\"",
+      "stop_desc": "\"234 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.88090042815109",
+      "stop_lon": "2.365107218264337",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2085",
+      "stop_code": "",
+      "stop_name": "\"Château Landon\"",
+      "stop_desc": "\"188 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.87845656683119",
+      "stop_lon": "2.3620537162488993",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2209",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.8764170528791",
+      "stop_lon": "2.3589870464563276",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2373",
+      "stop_code": "",
+      "stop_name": "\"Poissonnière\"",
+      "stop_desc": "\"Terre-plein face au 96/98 rue La Fayette - 75110\"",
+      "stop_lat": "48.877353095288015",
+      "stop_lon": "2.349381423952599",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2134",
+      "stop_code": "",
+      "stop_name": "\"Cadet\"",
+      "stop_desc": "\"Terre-plein face au 65 rue La Fayette - 75109\"",
+      "stop_lat": "48.875825718038186",
+      "stop_lon": "2.343345124573273",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2316",
+      "stop_code": "",
+      "stop_name": "\"Le Peletier\"",
+      "stop_desc": "\"Rue de la Victoire - 75109\"",
+      "stop_lat": "48.87496305802612",
+      "stop_lon": "2.3401567908492056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1971",
+      "stop_code": "",
+      "stop_name": "\"Chaussée d'Antin (La Fayette)\"",
+      "stop_desc": "\"Rue La Fayette - 75109\"",
+      "stop_lat": "48.872985824665165",
+      "stop_lon": "2.33342622405285",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2314",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.870559216544876",
+      "stop_lon": "2.332554482049589",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2435",
+      "stop_code": "",
+      "stop_name": "\"Pyramides\"",
+      "stop_desc": "\"Rue de l'Echelle - 75101\"",
+      "stop_lat": "48.86649698703855",
+      "stop_lon": "2.334094215259097",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2384",
+      "stop_code": "",
+      "stop_name": "\"Palais-Royal (Musée du Louvre)\"",
+      "stop_desc": "\"Terre-plein face au 93 rue de Rivoli - 75101\"",
+      "stop_lat": "48.86338738506552",
+      "stop_lon": "2.3354838367723683",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2345",
+      "stop_code": "",
+      "stop_name": "\"Pont Neuf\"",
+      "stop_desc": "\"quai du Louvre - 75101\"",
+      "stop_lat": "48.85853410228574",
+      "stop_lon": "2.3421172386659985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1966",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85720364550444",
+      "stop_lon": "2.3472247110558406",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2344",
+      "stop_code": "",
+      "stop_name": "\"Pont Marie (Cité des Arts)\"",
+      "stop_desc": "\"quai de l'Hôtel de Ville - 75104\"",
+      "stop_lat": "48.85346358569476",
+      "stop_lon": "2.357383972809163",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1681",
+      "stop_code": "",
+      "stop_name": "\"Sully-Morland\"",
+      "stop_desc": "\"Préfecture de Paris - 75104\"",
+      "stop_lat": "48.85079359474211",
+      "stop_lon": "2.3612369937142983",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2232",
+      "stop_code": "",
+      "stop_name": "\"Jussieu\"",
+      "stop_desc": "\"39 rue Liné - 75105\"",
+      "stop_lat": "48.8459684322046",
+      "stop_lon": "2.3548073926942186",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1649",
+      "stop_code": "",
+      "stop_name": "\"Place Monge (Jardin des Plantes)\"",
+      "stop_desc": "\"Arènes de Lutèce - 75105\"",
+      "stop_lat": "48.843164692766834",
+      "stop_lon": "2.3521103624150967",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2139",
+      "stop_code": "",
+      "stop_name": "\"Censier-Daubenton\"",
+      "stop_desc": "\"96 rue Monge - 75105\"",
+      "stop_lat": "48.840594300001605",
+      "stop_lon": "2.351755612946688",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1854",
+      "stop_code": "",
+      "stop_name": "\"Les Gobelins\"",
+      "stop_desc": "\"Manufacture des Gobelins - 75113\"",
+      "stop_lat": "48.83612743975252",
+      "stop_lon": "2.3520811178355734",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1648",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.831552302643125",
+      "stop_lon": "2.3553334432190454",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1685",
+      "stop_code": "",
+      "stop_name": "\"Tolbiac\"",
+      "stop_desc": "\"Avenue d'Italie - 75113\"",
+      "stop_lat": "48.82615945391136",
+      "stop_lon": "2.3570194661891253",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1876",
+      "stop_code": "",
+      "stop_name": "\"Maison Blanche\"",
+      "stop_desc": "\"144 avenue d' Italie - 75113\"",
+      "stop_lat": "48.82287877506322",
+      "stop_lon": "2.358079894290851",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2347",
+      "stop_code": "",
+      "stop_name": "\"Porte d'Italie\"",
+      "stop_desc": "\"Boulevard Masséna - 75113\"",
+      "stop_lat": "48.8187170251155",
+      "stop_lon": "2.360500832805366",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1740",
+      "stop_code": "",
+      "stop_name": "\"Porte de Choisy\"",
+      "stop_desc": "\"130 boulevard Masséna - 75113\"",
+      "stop_lat": "48.81990244616168",
+      "stop_lon": "2.364965598290819",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1734",
+      "stop_code": "",
+      "stop_name": "\"Porte d'Ivry\"",
+      "stop_desc": "\"Avenue d'Ivry - 75113\"",
+      "stop_lat": "48.82135736230755",
+      "stop_lon": "2.369308237223248",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2400",
+      "stop_code": "",
+      "stop_name": "\"Pierre et Marie Curie\"",
+      "stop_desc": "\"117-119 avenue Maurice Thorez - 94041\"",
+      "stop_lat": "48.81591718160038",
+      "stop_lon": "2.377878816483871",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1871",
+      "stop_code": "",
+      "stop_name": "\"Mairie d'Ivry\"",
+      "stop_desc": "\"Centre Commercial - 94041\"",
+      "stop_lat": "48.81121453549021",
+      "stop_lon": "2.383508928732683",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "stops": [
+      {
+      "stop_id": "4799028",
+      "stop_code": "",
+      "stop_name": "\"EPINAY - ORGEMONT\"",
+      "stop_desc": "\"67 RUE FELIX MERLIN - 93031\"",
+      "stop_lat": "48.9554433351439",
+      "stop_lon": "2.295429359107739",
+      "location_type": "0",
+      "parent_station": ""
+    },
+     {
+      "stop_id": "4799026",
+      "stop_code": "",
+      "stop_name": "\"EPINAY-SUR-SEINE - GARE\"",
+      "stop_desc": "\"PONT DE LA RESISTANCE - 93031\"",
+      "stop_lat": "48.955939666503006",
+      "stop_lon": "2.3018017525380583",
+      "location_type": "0",
+      "parent_station": ""
+    },
+     {
+      "stop_id": "4799025",
+      "stop_code": "",
+      "stop_name": "\"GILBERT BONNEMAISON\"",
+      "stop_desc": "\"AVENUE SALVADOR ALLENDE - 93031\"",
+      "stop_lat": "48.95534827408044",
+      "stop_lon": "2.308202171211966",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4799023",
+      "stop_code": "",
+      "stop_name": "\"LACEPEDE\"",
+      "stop_desc": "\"0 AV DE LATTRE DE TASSIGNY - 93031\"",
+      "stop_lat": "48.955933078469805",
+      "stop_lon": "2.311094845503062",
+      "location_type": "0",
+      "parent_station": ""
+    },
+  
+
+
+    {
+      "stop_id": "4799020",
+      "stop_code": "",
+      "stop_name": "\"ROSE BERTIN (CENTRE COMMERCIAL L'ILO)\"",
+      "stop_desc": "\"0 AVENUE DE LATTRE DE TASSIGNY - 93031\"",
+      "stop_lat": "48.95355240902295",
+      "stop_lon": "2.3150805668929446",
+      "location_type": "0",
+      "parent_station": ""
+    },
+  
+{
+      "stop_id": "4799018",
+      "stop_code": "",
+      "stop_name": "\"LES BEATUS\"",
+      "stop_desc": "\"57 AVENUE DE LA REPUBLIQUE - 93031\"",
+      "stop_lat": "48.951621247232545",
+      "stop_lon": "2.3212216896653497",
+      "location_type": "0",
+      "parent_station": ""
+    },
+
+
+  {
+      "stop_id": "4799016",
+      "stop_code": "",
+      "stop_name": "\"LES MOBILES\"",
+      "stop_desc": "\"163 AVENUE DE LA REPUBLIQUE - 93031\"",
+      "stop_lat": "48.95022903676928",
+      "stop_lon": "2.328194579942107",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    
+   {
+      "stop_id": "4799014",
+      "stop_code": "",
+      "stop_name": "\"BLUMENTHAL\"",
+      "stop_desc": "\"AVENUE DE LA REPUBLIQUE - 93031\"",
+      "stop_lat": "48.94793774656713",
+      "stop_lon": "2.339069352523681",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    
+ {
+      "stop_id": "4798995",
+      "stop_code": "",
+      "stop_name": "\"DELAUNAY-BELLEVILLE\"",
+      "stop_desc": "\"RUE DE LA POTERIE - 93066\"",
+      "stop_lat": "48.945834450109686",
+      "stop_lon": "2.3471189884455885",
+      "location_type": "0",
+      "parent_station": ""
+    },
+   
+
+    {
+      "stop_id": "4799010",
+      "stop_code": "",
+      "stop_name": "\"PAUL ELUARD\"",
+      "stop_desc": "\"0 RUE MAURICE THOREZ - 93066\"",
+      "stop_lat": "48.939678642523866",
+      "stop_lon": "2.34515337428564",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    
+
+     {
+      "stop_id": "4798991",
+      "stop_code": "",
+      "stop_name": "\"SAINT-DENIS - GARE\"",
+      "stop_desc": "\"BOULEVARD MARCEL SEMBAT - 93066\"",
+      "stop_lat": "48.93574226391828",
+      "stop_lon": "2.34711706578437",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4798989",
+      "stop_code": "",
+      "stop_name": "\"PIERRE DE GEYTER\"",
+      "stop_desc": "\"BOULEVARD MARCEL SEMBAT - 93066\"",
+      "stop_lat": "48.931949229258834",
+      "stop_lon": "2.3525995902413137",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4798987",
+      "stop_code": "",
+      "stop_name": "\"SAINT-DENIS - PORTE DE PARIS\"",
+      "stop_desc": "\"RUE DANIELLE CASANOVA - 93066\"",
+      "stop_lat": "48.929504123733714",
+      "stop_lon": "2.357154383164802",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4798989",
+      "stop_code": "",
+      "stop_name": "\"PIERRE DE GEYTER\"",
+      "stop_desc": "\"BOULEVARD MARCEL SEMBAT - 93066\"",
+      "stop_lat": "48.931949229258834",
+      "stop_lon": "2.3525995902413137",
+      "location_type": "0",
+      "parent_station": ""
+    },
+
+     {
+      "stop_id": "4798991",
+      "stop_code": "",
+      "stop_name": "\"SAINT-DENIS - GARE\"",
+      "stop_desc": "\"BOULEVARD MARCEL SEMBAT - 93066\"",
+      "stop_lat": "48.93574226391828",
+      "stop_lon": "2.34711706578437",
+      "location_type": "0",
+      "parent_station": ""
+    },
+      {
+      "stop_id": "4799010",
+      "stop_code": "",
+      "stop_name": "\"PAUL ELUARD\"",
+      "stop_desc": "\"0 RUE MAURICE THOREZ - 93066\"",
+      "stop_lat": "48.939678642523866",
+      "stop_lon": "2.34515337428564",
+      "location_type": "0",
+      "parent_station": ""
+    },
+ {
+      "stop_id": "4798995",
+      "stop_code": "",
+      "stop_name": "\"DELAUNAY-BELLEVILLE\"",
+      "stop_desc": "\"RUE DE LA POTERIE - 93066\"",
+      "stop_lat": "48.945834450109686",
+      "stop_lon": "2.3471189884455885",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4798997",
+      "stop_code": "",
+      "stop_name": "\"CESAR\"",
+      "stop_desc": "\"AVENUE DIVISION LECLERC - 93079\"",
+      "stop_lat": "48.94951033462527",
+      "stop_lon": "2.3423031647045156",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4798998",
+      "stop_code": "",
+      "stop_name": "\"JEAN VILAR\"",
+      "stop_desc": "\"AVENUE DIVISION LECLERC - 93079\"",
+      "stop_lat": "48.95279043728249",
+      "stop_lon": "2.3434496990029876",
+      "location_type": "0",
+      "parent_station": ""
+    },
+   
+  
+   
+  
+   
+ 
+   
+   
+  
+    
+   
+  
+    
+   
+  
+   
+    
+ 
+  
+    {
+      "stop_id": "4799000",
+      "stop_code": "",
+      "stop_name": "\"PABLO NERUDA\"",
+      "stop_desc": "\"0 AVENUE DE LA DIVISION LECLERC - 93079\"",
+      "stop_lat": "48.956142470533194",
+      "stop_lon": "2.3436002094431267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4799003",
+      "stop_code": "",
+      "stop_name": "\"VILLETANEUSE-UNIVERSITE\"",
+      "stop_desc": "\"0 RUE DU 19 MARS 1962 - 93079\"",
+      "stop_lat": "48.95939574111999",
+      "stop_lon": "2.341526241443334",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

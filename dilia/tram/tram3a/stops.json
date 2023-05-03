@@ -1,0 +1,494 @@
+{
+  "stops": [
+    {
+      "stop_id": "3813548",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VINCENNES\"",
+      "stop_desc": "\"112 CRS DE VINCENNES - 75112\"",
+      "stop_lat": "48.84686443202718",
+      "stop_lon": "2.4096727924318846",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813547",
+      "stop_code": "",
+      "stop_name": "\"ALEXANDRA DAVID-NEEL\"",
+      "stop_desc": "\"FACE 70 BD SOULT - 75112\"",
+      "stop_lat": "48.84352994061545",
+      "stop_lon": "2.4098723877108132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813545",
+      "stop_code": "",
+      "stop_name": "\"MONTEMPOIVRE\"",
+      "stop_desc": "\"61 BD SOULT - 75112\"",
+      "stop_lat": "48.83989967563712",
+      "stop_lon": "2.4087099699960133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813543",
+      "stop_code": "",
+      "stop_name": "\"PORTE DOREE\"",
+      "stop_desc": "\"117 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.835173857132695",
+      "stop_lon": "2.405912492947947",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813541",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CHARENTON\"",
+      "stop_desc": "\"15 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.832077386194484",
+      "stop_lon": "2.398094150060432",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813539",
+      "stop_code": "",
+      "stop_name": "\"BARON LE ROY\"",
+      "stop_desc": "\"FACE 30 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.830246602615105",
+      "stop_lon": "2.3925786626962755",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813537",
+      "stop_code": "",
+      "stop_name": "\"AVENUE DE FRANCE\"",
+      "stop_desc": "\"BD DU GENERAL JEAN SIMON - 75113\"",
+      "stop_lat": "48.82557787011093",
+      "stop_lon": "2.38093545833066",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813535",
+      "stop_code": "",
+      "stop_name": "\"MARYSE BASTIE\"",
+      "stop_desc": "\"7-9 BD DU GENERAL JEAN SIMON - 75113\"",
+      "stop_lat": "48.82437487935594",
+      "stop_lon": "2.3770687385249265",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813533",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'IVRY\"",
+      "stop_desc": "\"72 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.8218964457047",
+      "stop_lon": "2.3699618979128303",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813531",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CHOISY\"",
+      "stop_desc": "\"FACE 128 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.81992070046206",
+      "stop_lon": "2.3637406652017106",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813529",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ITALIE\"",
+      "stop_desc": "\"164 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.81907662022131",
+      "stop_lon": "2.3600518554779444",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813527",
+      "stop_code": "",
+      "stop_name": "\"POTERNE DES PEUPLIERS\"",
+      "stop_desc": "\"FACE 53 BOULEVARD KELLERMANN - 75113\"",
+      "stop_lat": "48.82074982358182",
+      "stop_lon": "2.350089563262102",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813525",
+      "stop_code": "",
+      "stop_name": "\"STADE CHARLETY - PORTE DE GENTILLY\"",
+      "stop_desc": "\"FACE 97 BOULEVARD KELLERMANN - 75113\"",
+      "stop_lat": "48.81955485090162",
+      "stop_lon": "2.345720335955469",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813523",
+      "stop_code": "",
+      "stop_name": "\"CITE UNIVERSITAIRE\"",
+      "stop_desc": "\"FACE 15 BIS BD JOURDAN - 75114\"",
+      "stop_lat": "48.82062468519013",
+      "stop_lon": "2.338084930375419",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813521",
+      "stop_code": "",
+      "stop_name": "\"MONTSOURIS\"",
+      "stop_desc": "\"38 BD JOURDAN - 75114\"",
+      "stop_lat": "48.821658208843665",
+      "stop_lon": "2.3333619539764574",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813518",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ORLEANS\"",
+      "stop_desc": "\"FACE 201 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.8228351420323",
+      "stop_lon": "2.3261615200679633",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813517",
+      "stop_code": "",
+      "stop_name": "\"JEAN MOULIN\"",
+      "stop_desc": "\"FACE 139 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.824847497722445",
+      "stop_lon": "2.319001300339279",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813515",
+      "stop_code": "",
+      "stop_name": "\"DIDOT\"",
+      "stop_desc": "\"FACE 83 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.82608682166155",
+      "stop_lon": "2.3134879669297725",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813513",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VANVES\"",
+      "stop_desc": "\"FACE 17 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.827648999329945",
+      "stop_lon": "2.3062181750371833",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813511",
+      "stop_code": "",
+      "stop_name": "\"BRANCION\"",
+      "stop_desc": "\"FACE 167 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.828806922967175",
+      "stop_lon": "2.3009765518628895",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813509",
+      "stop_code": "",
+      "stop_name": "\"GEORGES BRASSENS\"",
+      "stop_desc": "\"58 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.83020701227299",
+      "stop_lon": "2.2949721630550806",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813507",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VERSAILLES - PARC DES EXPOSITIONS\"",
+      "stop_desc": "\"FACE 75 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.832864761854",
+      "stop_lon": "2.288231130535906",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813505",
+      "stop_code": "",
+      "stop_name": "\"DESNOUETTES\"",
+      "stop_desc": "\"29 BOULEVARD VICTOR - 75115\"",
+      "stop_lat": "48.83475004437327",
+      "stop_lon": "2.283341791320841",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813503",
+      "stop_code": "",
+      "stop_name": "\"BALARD\"",
+      "stop_desc": "\"12 BOULEVARD VICTOR - 75115\"",
+      "stop_lat": "48.83648174358046",
+      "stop_lon": "2.2772677810199293",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813501",
+      "stop_code": "",
+      "stop_name": "\"PONT GARIGLIANO - HOPITAL EUROPEEN GEORGE POMPIDOU\"",
+      "stop_desc": "\"BD DU GENERAL MARTIAL VALIN - 75115\"",
+      "stop_lat": "48.837880583044004",
+      "stop_lon": "2.271180173513267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813503",
+      "stop_code": "",
+      "stop_name": "\"BALARD\"",
+      "stop_desc": "\"12 BOULEVARD VICTOR - 75115\"",
+      "stop_lat": "48.83648174358046",
+      "stop_lon": "2.2772677810199293",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813505",
+      "stop_code": "",
+      "stop_name": "\"DESNOUETTES\"",
+      "stop_desc": "\"29 BOULEVARD VICTOR - 75115\"",
+      "stop_lat": "48.83475004437327",
+      "stop_lon": "2.283341791320841",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813507",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VERSAILLES - PARC DES EXPOSITIONS\"",
+      "stop_desc": "\"FACE 75 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.832864761854",
+      "stop_lon": "2.288231130535906",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813509",
+      "stop_code": "",
+      "stop_name": "\"GEORGES BRASSENS\"",
+      "stop_desc": "\"58 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.83020701227299",
+      "stop_lon": "2.2949721630550806",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813511",
+      "stop_code": "",
+      "stop_name": "\"BRANCION\"",
+      "stop_desc": "\"FACE 167 BOULEVARD LEFEBVRE - 75115\"",
+      "stop_lat": "48.828806922967175",
+      "stop_lon": "2.3009765518628895",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813513",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VANVES\"",
+      "stop_desc": "\"FACE 17 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.827648999329945",
+      "stop_lon": "2.3062181750371833",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813515",
+      "stop_code": "",
+      "stop_name": "\"DIDOT\"",
+      "stop_desc": "\"FACE 83 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.82608682166155",
+      "stop_lon": "2.3134879669297725",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813517",
+      "stop_code": "",
+      "stop_name": "\"JEAN MOULIN\"",
+      "stop_desc": "\"FACE 139 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.824847497722445",
+      "stop_lon": "2.319001300339279",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813518",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ORLEANS\"",
+      "stop_desc": "\"FACE 201 BOULEVARD BRUNE - 75114\"",
+      "stop_lat": "48.8228351420323",
+      "stop_lon": "2.3261615200679633",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813521",
+      "stop_code": "",
+      "stop_name": "\"MONTSOURIS\"",
+      "stop_desc": "\"38 BD JOURDAN - 75114\"",
+      "stop_lat": "48.821658208843665",
+      "stop_lon": "2.3333619539764574",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813523",
+      "stop_code": "",
+      "stop_name": "\"CITE UNIVERSITAIRE\"",
+      "stop_desc": "\"FACE 15 BIS BD JOURDAN - 75114\"",
+      "stop_lat": "48.82062468519013",
+      "stop_lon": "2.338084930375419",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813525",
+      "stop_code": "",
+      "stop_name": "\"STADE CHARLETY - PORTE DE GENTILLY\"",
+      "stop_desc": "\"FACE 97 BOULEVARD KELLERMANN - 75113\"",
+      "stop_lat": "48.81955485090162",
+      "stop_lon": "2.345720335955469",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813527",
+      "stop_code": "",
+      "stop_name": "\"POTERNE DES PEUPLIERS\"",
+      "stop_desc": "\"FACE 53 BOULEVARD KELLERMANN - 75113\"",
+      "stop_lat": "48.82074982358182",
+      "stop_lon": "2.350089563262102",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813529",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ITALIE\"",
+      "stop_desc": "\"164 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.81907662022131",
+      "stop_lon": "2.3600518554779444",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813531",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CHOISY\"",
+      "stop_desc": "\"FACE 128 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.81992070046206",
+      "stop_lon": "2.3637406652017106",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813533",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'IVRY\"",
+      "stop_desc": "\"72 BOULEVARD MASSENA - 75113\"",
+      "stop_lat": "48.8218964457047",
+      "stop_lon": "2.3699618979128303",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813535",
+      "stop_code": "",
+      "stop_name": "\"MARYSE BASTIE\"",
+      "stop_desc": "\"7-9 BD DU GENERAL JEAN SIMON - 75113\"",
+      "stop_lat": "48.82437487935594",
+      "stop_lon": "2.3770687385249265",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813537",
+      "stop_code": "",
+      "stop_name": "\"AVENUE DE FRANCE\"",
+      "stop_desc": "\"BD DU GENERAL JEAN SIMON - 75113\"",
+      "stop_lat": "48.82557787011093",
+      "stop_lon": "2.38093545833066",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813539",
+      "stop_code": "",
+      "stop_name": "\"BARON LE ROY\"",
+      "stop_desc": "\"FACE 30 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.830246602615105",
+      "stop_lon": "2.3925786626962755",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813541",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE CHARENTON\"",
+      "stop_desc": "\"15 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.832077386194484",
+      "stop_lon": "2.398094150060432",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813543",
+      "stop_code": "",
+      "stop_name": "\"PORTE DOREE\"",
+      "stop_desc": "\"117 BD PONIATOWSKI - 75112\"",
+      "stop_lat": "48.835173857132695",
+      "stop_lon": "2.405912492947947",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813545",
+      "stop_code": "",
+      "stop_name": "\"MONTEMPOIVRE\"",
+      "stop_desc": "\"61 BD SOULT - 75112\"",
+      "stop_lat": "48.83989967563712",
+      "stop_lon": "2.4087099699960133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813547",
+      "stop_code": "",
+      "stop_name": "\"ALEXANDRA DAVID-NEEL\"",
+      "stop_desc": "\"FACE 70 BD SOULT - 75112\"",
+      "stop_lat": "48.84352994061545",
+      "stop_lon": "2.4098723877108132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3813548",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VINCENNES\"",
+      "stop_desc": "\"112 CRS DE VINCENNES - 75112\"",
+      "stop_lat": "48.84686443202718",
+      "stop_lon": "2.4096727924318846",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

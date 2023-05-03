@@ -1,0 +1,735 @@
+{
+  "stops": [
+    {
+      "stop_id": "9048843",
+      "stop_code": "",
+      "stop_name": "\"GARE DE NOISY-LE-SEC\"",
+      "stop_desc": "\"118 RUE JEAN JAURES - 93053\"",
+      "stop_lat": "48.895803742745834",
+      "stop_lon": "2.4604190621222712",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048844",
+      "stop_code": "",
+      "stop_name": "\"PETIT NOISY\"",
+      "stop_desc": "\"72 AVENUE GALLIENI - 93053\"",
+      "stop_lat": "48.9000225902207",
+      "stop_lon": "2.4652682831624073",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048845",
+      "stop_code": "",
+      "stop_name": "\"PONT DE BONDY\"",
+      "stop_desc": "\"ROUTE DE STAINS - 93053\"",
+      "stop_lat": "48.90472660332895",
+      "stop_lon": "2.470051374623267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048846",
+      "stop_code": "",
+      "stop_name": "\"AUGUSTE DELAUNE\"",
+      "stop_desc": "\"279 AVENUE PAUL VAILLANT-COUTURIER - 93008\"",
+      "stop_lat": "48.906723201996506",
+      "stop_lon": "2.4603086863758756",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048847",
+      "stop_code": "",
+      "stop_name": "\"JEAN ROSTAND\"",
+      "stop_desc": "\"247 AVENUE PAUL VAILLANT-COUTURIER - 93008\"",
+      "stop_lat": "48.90783468930384",
+      "stop_lon": "2.4542716481242177",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048848",
+      "stop_code": "",
+      "stop_name": "\"BOBIGNY - PABLO PICASSO\"",
+      "stop_desc": "\"RUE CARNOT - 93008\"",
+      "stop_lat": "48.90664360045724",
+      "stop_lon": "2.449919944861118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048849",
+      "stop_code": "",
+      "stop_name": "\"HOTEL DE VILLE DE BOBIGNY\"",
+      "stop_desc": "\"BOULEVARD LENINE - 93008\"",
+      "stop_lat": "48.90667646849791",
+      "stop_lon": "2.443485109369775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048850",
+      "stop_code": "",
+      "stop_name": "\"LIBERATION\"",
+      "stop_desc": "\"142 AVENUE JEAN JAURES - 93008\"",
+      "stop_lat": "48.90698613782764",
+      "stop_lon": "2.4387686025565873",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048851",
+      "stop_code": "",
+      "stop_name": "\"LA FERME\"",
+      "stop_desc": "\"188 AVENUE JEAN JAURES - 93008\"",
+      "stop_lat": "48.90973714291589",
+      "stop_lon": "2.4376287301070017",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048852",
+      "stop_code": "",
+      "stop_name": "\"ESCADRILLE NORMANDIE-NIEMEN\"",
+      "stop_desc": "\"RUE DE STALINGRAD - 93008\"",
+      "stop_lat": "48.91290273857398",
+      "stop_lon": "2.4350305950504136",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048853",
+      "stop_code": "",
+      "stop_name": "\"GASTON ROULAUD\"",
+      "stop_desc": "\"FACE 73BIS RUE DE STALINGRAD - 93008\"",
+      "stop_lat": "48.91425405192409",
+      "stop_lon": "2.4309698355406733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048854",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL AVICENNE\"",
+      "stop_desc": "\"124 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91586668357142",
+      "stop_lon": "2.425791189982239",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048855",
+      "stop_code": "",
+      "stop_name": "\"DRANCY - AVENIR\"",
+      "stop_desc": "\"230 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91808349481733",
+      "stop_lon": "2.4172859438420677",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048856",
+      "stop_code": "",
+      "stop_name": "\"MAURICE LACHATRE\"",
+      "stop_desc": "\"286 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91909197580446",
+      "stop_lon": "2.4143420096346087",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048857",
+      "stop_code": "",
+      "stop_name": "\"LA COURNEUVE - 8 MAI 1945\"",
+      "stop_desc": "\"PLACE DU 8 MAI 1945 - 93027\"",
+      "stop_lat": "48.920549824355035",
+      "stop_lon": "2.411248597997996",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048858",
+      "stop_code": "",
+      "stop_name": "\"DANTON\"",
+      "stop_desc": "\"97 AVENUE JEAN JAURES - 93027\"",
+      "stop_lat": "48.92283520846237",
+      "stop_lon": "2.40676511780942",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048859",
+      "stop_code": "",
+      "stop_name": "\"STADE GEO ANDRE\"",
+      "stop_desc": "\"31 AVENUE JEAN JAURES - 93027\"",
+      "stop_lat": "48.92444651157094",
+      "stop_lon": "2.402075826672901",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048860",
+      "stop_code": "",
+      "stop_name": "\"HOTEL DE VILLE DE LA COURNEUVE\"",
+      "stop_desc": "\"76 RUE DE LA CONVENTION - 93027\"",
+      "stop_lat": "48.92741682316744",
+      "stop_lon": "2.3929143192774025",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048861",
+      "stop_code": "",
+      "stop_name": "\"LA COURNEUVE - SIX ROUTES\"",
+      "stop_desc": "\"RUE DE SAINT-DENIS - 93027\"",
+      "stop_lat": "48.9302423872842",
+      "stop_lon": "2.3843790473947437",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048862",
+      "stop_code": "",
+      "stop_name": "\"COSMONAUTES\"",
+      "stop_desc": "\"63 ROUTE DE LA COURNEUVE - 93066\"",
+      "stop_lat": "48.931817367638416",
+      "stop_lon": "2.3782152526584133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048863",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL DELAFONTAINE\"",
+      "stop_desc": "\"ROUTE DE LA COURNEUVE - 93066\"",
+      "stop_lat": "48.93361694655068",
+      "stop_lon": "2.3711918916110073",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048864",
+      "stop_code": "",
+      "stop_name": "\"CIMETIERE DE SAINT-DENIS\"",
+      "stop_desc": "\"BOULEVARD DE LA COMMUNE DE PARIS - 93066\"",
+      "stop_lat": "48.9364226573768",
+      "stop_lon": "2.3640730779531007",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048865",
+      "stop_code": "",
+      "stop_name": "\"BASILIQUE DE SAINT-DENIS\"",
+      "stop_desc": "\"3 RUE EDOUARD VAILLANT - 93066\"",
+      "stop_lat": "48.93761835474619",
+      "stop_lon": "2.3620002027025153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048866",
+      "stop_code": "",
+      "stop_name": "\"MARCHE DE SAINT-DENIS\"",
+      "stop_desc": "\"FACE 3 BOULEVARD CARNOT - 93066\"",
+      "stop_lat": "48.938635015545344",
+      "stop_lon": "2.3556436660955438",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048867",
+      "stop_code": "",
+      "stop_name": "\"THEATRE GERARD PHILIPE\"",
+      "stop_desc": "\"FACE46 BIS BOULEVARD JULES GUESDE - 93066\"",
+      "stop_lat": "48.93725177469419",
+      "stop_lon": "2.3500502359001296",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048868",
+      "stop_code": "",
+      "stop_name": "\"GARE DE SAINT-DENIS\"",
+      "stop_desc": "\"RUE DU PORT - 93066\"",
+      "stop_lat": "48.93603896968559",
+      "stop_lon": "2.34524830601216",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048869",
+      "stop_code": "",
+      "stop_name": "\"L'ILE-SAINT-DENIS\"",
+      "stop_desc": "\"1 RUE MECHIN - 93039\"",
+      "stop_lat": "48.93588643026154",
+      "stop_lon": "2.339969233050552",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048870",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE VILLENEUVE-LA GARENNE\"",
+      "stop_desc": "\"12 AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93577857776938",
+      "stop_lon": "2.3341172700973267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048871",
+      "stop_code": "",
+      "stop_name": "\"LA NOUE\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93513110836804",
+      "stop_lon": "2.326805864324871",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048872",
+      "stop_code": "",
+      "stop_name": "\"CHEMIN DES RENIERS\"",
+      "stop_desc": "\"102 AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93477106412093",
+      "stop_lon": "2.321595204519359",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048873",
+      "stop_code": "",
+      "stop_name": "\"PARC DES CHANTERAINES\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92036\"",
+      "stop_lat": "48.93408672982138",
+      "stop_lon": "2.313520246800056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048874",
+      "stop_code": "",
+      "stop_name": "\"GARE DE GENNEVILLIERS\"",
+      "stop_desc": "\"35 AVENUE DU GENERAL DE GAULLE - 92036\"",
+      "stop_lat": "48.933438207423734",
+      "stop_lon": "2.3070277562941333",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048875",
+      "stop_code": "",
+      "stop_name": "\"TIMBAUD\"",
+      "stop_desc": "\"12 RUE PIERRE TIMBAUD - 92036\"",
+      "stop_lat": "48.93349938568873",
+      "stop_lon": "2.3008350121717913",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048876",
+      "stop_code": "",
+      "stop_name": "\"LE VILLAGE\"",
+      "stop_desc": "\"92 RUE PIERRE TIMBAUD - 92036\"",
+      "stop_lat": "48.93339847895917",
+      "stop_lon": "2.2946423865699295",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048877",
+      "stop_code": "",
+      "stop_name": "\"LE LUTH\"",
+      "stop_desc": "\"28 AVENUE LUCIEN LANTERNIER - 92036\"",
+      "stop_lat": "48.9317335355189",
+      "stop_lon": "2.2884512588242454",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048878",
+      "stop_code": "",
+      "stop_name": "\"LES COURTILLES\"",
+      "stop_desc": "\"AVENUE DE LA REDOUTE - 92004\"",
+      "stop_lat": "48.93011362688258",
+      "stop_lon": "2.283187962763052",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048879",
+      "stop_code": "",
+      "stop_name": "\"ASNIERES - QUATRE ROUTES\"",
+      "stop_desc": "\"AVENUE DE LA REDOUTE - 92004\"",
+      "stop_lat": "48.927404367022376",
+      "stop_lon": "2.2745983948653143",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048878",
+      "stop_code": "",
+      "stop_name": "\"LES COURTILLES\"",
+      "stop_desc": "\"AVENUE DE LA REDOUTE - 92004\"",
+      "stop_lat": "48.93011362688258",
+      "stop_lon": "2.283187962763052",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048877",
+      "stop_code": "",
+      "stop_name": "\"LE LUTH\"",
+      "stop_desc": "\"28 AVENUE LUCIEN LANTERNIER - 92036\"",
+      "stop_lat": "48.9317335355189",
+      "stop_lon": "2.2884512588242454",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048876",
+      "stop_code": "",
+      "stop_name": "\"LE VILLAGE\"",
+      "stop_desc": "\"92 RUE PIERRE TIMBAUD - 92036\"",
+      "stop_lat": "48.93339847895917",
+      "stop_lon": "2.2946423865699295",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048875",
+      "stop_code": "",
+      "stop_name": "\"TIMBAUD\"",
+      "stop_desc": "\"12 RUE PIERRE TIMBAUD - 92036\"",
+      "stop_lat": "48.93349938568873",
+      "stop_lon": "2.3008350121717913",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048874",
+      "stop_code": "",
+      "stop_name": "\"GARE DE GENNEVILLIERS\"",
+      "stop_desc": "\"35 AVENUE DU GENERAL DE GAULLE - 92036\"",
+      "stop_lat": "48.933438207423734",
+      "stop_lon": "2.3070277562941333",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048873",
+      "stop_code": "",
+      "stop_name": "\"PARC DES CHANTERAINES\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92036\"",
+      "stop_lat": "48.93408672982138",
+      "stop_lon": "2.313520246800056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048872",
+      "stop_code": "",
+      "stop_name": "\"CHEMIN DES RENIERS\"",
+      "stop_desc": "\"102 AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93477106412093",
+      "stop_lon": "2.321595204519359",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048871",
+      "stop_code": "",
+      "stop_name": "\"LA NOUE\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93513110836804",
+      "stop_lon": "2.326805864324871",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048870",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE VILLENEUVE-LA GARENNE\"",
+      "stop_desc": "\"12 AVENUE DE VERDUN - 92078\"",
+      "stop_lat": "48.93577857776938",
+      "stop_lon": "2.3341172700973267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048869",
+      "stop_code": "",
+      "stop_name": "\"L'ILE-SAINT-DENIS\"",
+      "stop_desc": "\"1 RUE MECHIN - 93039\"",
+      "stop_lat": "48.93588643026154",
+      "stop_lon": "2.339969233050552",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048868",
+      "stop_code": "",
+      "stop_name": "\"GARE DE SAINT-DENIS\"",
+      "stop_desc": "\"RUE DU PORT - 93066\"",
+      "stop_lat": "48.93603896968559",
+      "stop_lon": "2.34524830601216",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048867",
+      "stop_code": "",
+      "stop_name": "\"THEATRE GERARD PHILIPE\"",
+      "stop_desc": "\"FACE46 BIS BOULEVARD JULES GUESDE - 93066\"",
+      "stop_lat": "48.93725177469419",
+      "stop_lon": "2.3500502359001296",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048866",
+      "stop_code": "",
+      "stop_name": "\"MARCHE DE SAINT-DENIS\"",
+      "stop_desc": "\"FACE 3 BOULEVARD CARNOT - 93066\"",
+      "stop_lat": "48.938635015545344",
+      "stop_lon": "2.3556436660955438",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048865",
+      "stop_code": "",
+      "stop_name": "\"BASILIQUE DE SAINT-DENIS\"",
+      "stop_desc": "\"3 RUE EDOUARD VAILLANT - 93066\"",
+      "stop_lat": "48.93761835474619",
+      "stop_lon": "2.3620002027025153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048864",
+      "stop_code": "",
+      "stop_name": "\"CIMETIERE DE SAINT-DENIS\"",
+      "stop_desc": "\"BOULEVARD DE LA COMMUNE DE PARIS - 93066\"",
+      "stop_lat": "48.9364226573768",
+      "stop_lon": "2.3640730779531007",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048863",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL DELAFONTAINE\"",
+      "stop_desc": "\"ROUTE DE LA COURNEUVE - 93066\"",
+      "stop_lat": "48.93361694655068",
+      "stop_lon": "2.3711918916110073",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048862",
+      "stop_code": "",
+      "stop_name": "\"COSMONAUTES\"",
+      "stop_desc": "\"63 ROUTE DE LA COURNEUVE - 93066\"",
+      "stop_lat": "48.931817367638416",
+      "stop_lon": "2.3782152526584133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048861",
+      "stop_code": "",
+      "stop_name": "\"LA COURNEUVE - SIX ROUTES\"",
+      "stop_desc": "\"RUE DE SAINT-DENIS - 93027\"",
+      "stop_lat": "48.9302423872842",
+      "stop_lon": "2.3843790473947437",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048860",
+      "stop_code": "",
+      "stop_name": "\"HOTEL DE VILLE DE LA COURNEUVE\"",
+      "stop_desc": "\"76 RUE DE LA CONVENTION - 93027\"",
+      "stop_lat": "48.92741682316744",
+      "stop_lon": "2.3929143192774025",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048859",
+      "stop_code": "",
+      "stop_name": "\"STADE GEO ANDRE\"",
+      "stop_desc": "\"31 AVENUE JEAN JAURES - 93027\"",
+      "stop_lat": "48.92444651157094",
+      "stop_lon": "2.402075826672901",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048858",
+      "stop_code": "",
+      "stop_name": "\"DANTON\"",
+      "stop_desc": "\"97 AVENUE JEAN JAURES - 93027\"",
+      "stop_lat": "48.92283520846237",
+      "stop_lon": "2.40676511780942",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048857",
+      "stop_code": "",
+      "stop_name": "\"LA COURNEUVE - 8 MAI 1945\"",
+      "stop_desc": "\"PLACE DU 8 MAI 1945 - 93027\"",
+      "stop_lat": "48.920549824355035",
+      "stop_lon": "2.411248597997996",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048856",
+      "stop_code": "",
+      "stop_name": "\"MAURICE LACHATRE\"",
+      "stop_desc": "\"286 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91909197580446",
+      "stop_lon": "2.4143420096346087",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048855",
+      "stop_code": "",
+      "stop_name": "\"DRANCY - AVENIR\"",
+      "stop_desc": "\"230 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91808349481733",
+      "stop_lon": "2.4172859438420677",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048854",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL AVICENNE\"",
+      "stop_desc": "\"124 RUE DE STALINGRAD - 93029\"",
+      "stop_lat": "48.91586668357142",
+      "stop_lon": "2.425791189982239",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048853",
+      "stop_code": "",
+      "stop_name": "\"GASTON ROULAUD\"",
+      "stop_desc": "\"FACE 73BIS RUE DE STALINGRAD - 93008\"",
+      "stop_lat": "48.91425405192409",
+      "stop_lon": "2.4309698355406733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048852",
+      "stop_code": "",
+      "stop_name": "\"ESCADRILLE NORMANDIE-NIEMEN\"",
+      "stop_desc": "\"RUE DE STALINGRAD - 93008\"",
+      "stop_lat": "48.91290273857398",
+      "stop_lon": "2.4350305950504136",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048851",
+      "stop_code": "",
+      "stop_name": "\"LA FERME\"",
+      "stop_desc": "\"188 AVENUE JEAN JAURES - 93008\"",
+      "stop_lat": "48.90973714291589",
+      "stop_lon": "2.4376287301070017",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048850",
+      "stop_code": "",
+      "stop_name": "\"LIBERATION\"",
+      "stop_desc": "\"142 AVENUE JEAN JAURES - 93008\"",
+      "stop_lat": "48.90698613782764",
+      "stop_lon": "2.4387686025565873",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048849",
+      "stop_code": "",
+      "stop_name": "\"HOTEL DE VILLE DE BOBIGNY\"",
+      "stop_desc": "\"BOULEVARD LENINE - 93008\"",
+      "stop_lat": "48.90667646849791",
+      "stop_lon": "2.443485109369775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048848",
+      "stop_code": "",
+      "stop_name": "\"BOBIGNY - PABLO PICASSO\"",
+      "stop_desc": "\"RUE CARNOT - 93008\"",
+      "stop_lat": "48.90664360045724",
+      "stop_lon": "2.449919944861118",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048847",
+      "stop_code": "",
+      "stop_name": "\"JEAN ROSTAND\"",
+      "stop_desc": "\"247 AVENUE PAUL VAILLANT-COUTURIER - 93008\"",
+      "stop_lat": "48.90783468930384",
+      "stop_lon": "2.4542716481242177",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048846",
+      "stop_code": "",
+      "stop_name": "\"AUGUSTE DELAUNE\"",
+      "stop_desc": "\"279 AVENUE PAUL VAILLANT-COUTURIER - 93008\"",
+      "stop_lat": "48.906723201996506",
+      "stop_lon": "2.4603086863758756",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048845",
+      "stop_code": "",
+      "stop_name": "\"PONT DE BONDY\"",
+      "stop_desc": "\"ROUTE DE STAINS - 93053\"",
+      "stop_lat": "48.90472660332895",
+      "stop_lon": "2.470051374623267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048844",
+      "stop_code": "",
+      "stop_name": "\"PETIT NOISY\"",
+      "stop_desc": "\"72 AVENUE GALLIENI - 93053\"",
+      "stop_lat": "48.9000225902207",
+      "stop_lon": "2.4652682831624073",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "9048843",
+      "stop_code": "",
+      "stop_name": "\"GARE DE NOISY-LE-SEC\"",
+      "stop_desc": "\"118 RUE JEAN JAURES - 93053\"",
+      "stop_lat": "48.895803742745834",
+      "stop_lon": "2.4604190621222712",
+      "location_type": "0",
+      "parent_station": ""
+    }
+
+  ]
+}

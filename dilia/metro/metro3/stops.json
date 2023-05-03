@@ -1,0 +1,494 @@
+{
+  "stops": [
+    {
+      "stop_id": "2204",
+      "stop_code": "",
+      "stop_name": "\"Gallieni (Parc de Bagnolet)\"",
+      "stop_desc": "\"Gare routière - 93006\"",
+      "stop_lat": "48.864834901238424",
+      "stop_lon": "2.416604379961874",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2415",
+      "stop_code": "",
+      "stop_name": "\"Porte de Bagnolet\"",
+      "stop_desc": "\"Rue de la Py - 75120\"",
+      "stop_lat": "48.864336535483645",
+      "stop_lon": "2.4088253760377283",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1950",
+      "stop_code": "",
+      "stop_name": "\"Gambetta\"",
+      "stop_desc": "\"Père-Lachaise - 75120\"",
+      "stop_lat": "48.864782700687876",
+      "stop_lon": "2.398445833771861",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1785",
+      "stop_code": "",
+      "stop_name": "\"Père-Lachaise\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.862945661667425",
+      "stop_lon": "2.3868924045430804",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2471",
+      "stop_code": "",
+      "stop_name": "\"Rue Saint-Maur\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.86408940574645",
+      "stop_lon": "2.3808997885521195",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1779",
+      "stop_code": "",
+      "stop_name": "\"Parmentier\"",
+      "stop_desc": "\"48 avenue de la République - 75111\"",
+      "stop_lat": "48.86525985667316",
+      "stop_lon": "2.3747570817167682",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1766",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86725794359829",
+      "stop_lon": "2.3640373036390545",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1683",
+      "stop_code": "",
+      "stop_name": "\"Temple\"",
+      "stop_desc": "\"Rue du Temple - 75103\"",
+      "stop_lat": "48.866764167814516",
+      "stop_lon": "2.3615713270327316",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2099",
+      "stop_code": "",
+      "stop_name": "\"Arts-et-Métiers\"",
+      "stop_desc": "\"Rue des Vertus - 75103\"",
+      "stop_lat": "48.865551863634785",
+      "stop_lon": "2.356108155120312",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1765",
+      "stop_code": "",
+      "stop_name": "\"Réaumur-Sébastopol\"",
+      "stop_desc": "\"Square Emile Chantemps - 75102\"",
+      "stop_lat": "48.86628035856129",
+      "stop_lon": "2.352484796837845",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2542",
+      "stop_code": "",
+      "stop_name": "\"Sentier\"",
+      "stop_desc": "\"97 rue Réaumur - 75102\"",
+      "stop_lat": "48.8673503814313",
+      "stop_lon": "2.3475672354150805",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2196",
+      "stop_code": "",
+      "stop_name": "\"Bourse\"",
+      "stop_desc": "\"Rue Notre-Dame des Victoires - 75102\"",
+      "stop_lat": "48.86876179259638",
+      "stop_lon": "2.3406741288121005",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1760",
+      "stop_code": "",
+      "stop_name": "\"Quatre Septembre\"",
+      "stop_desc": "\"20 rue du Quatre Septembre - 75102\"",
+      "stop_lat": "48.86966057219203",
+      "stop_lon": "2.3363282816417112",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2313",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.870720976292084",
+      "stop_lon": "2.3322547435729586",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2285",
+      "stop_code": "",
+      "stop_name": "\"Havre-Caumartin\"",
+      "stop_desc": "\"bd Haussmann - 75109\"",
+      "stop_lat": "48.8734618906704",
+      "stop_lon": "2.3284804844734768",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1722",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.87568150641968",
+      "stop_lon": "2.325591584819959",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1935",
+      "stop_code": "",
+      "stop_name": "\"Europe\"",
+      "stop_desc": "\"1 rue de Madrid - 75108\"",
+      "stop_lat": "48.87906043921274",
+      "stop_lon": "2.3229746324058937",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2510",
+      "stop_code": "",
+      "stop_name": "\"Villiers\"",
+      "stop_desc": "\"Parc de Monceau - 75117\"",
+      "stop_lat": "48.88140510041144",
+      "stop_lon": "2.316147050907411",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2277",
+      "stop_code": "",
+      "stop_name": "\"Malesherbes\"",
+      "stop_desc": "\"Place du Général Catroux - 75117\"",
+      "stop_lat": "48.88253647289218",
+      "stop_lon": "2.311009243005514",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2514",
+      "stop_code": "",
+      "stop_name": "\"Wagram\"",
+      "stop_desc": "\"Place Monseigneur Loutil - 75117\"",
+      "stop_lat": "48.883712476037346",
+      "stop_lon": "2.3055577575143036",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1786",
+      "stop_code": "",
+      "stop_name": "\"Pereire\"",
+      "stop_desc": "\"Square Albert Besnard - 75117\"",
+      "stop_lat": "48.8850310612536",
+      "stop_lon": "2.2971351115061647",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2416",
+      "stop_code": "",
+      "stop_name": "\"Porte de Champerret\"",
+      "stop_desc": "\"Place Stuart-Merrill - 75117\"",
+      "stop_lat": "48.88573915969202",
+      "stop_lon": "2.2918606206755348",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2329",
+      "stop_code": "",
+      "stop_name": "\"Louise Michel\"",
+      "stop_desc": "\"Rue Anatole France - 92044\"",
+      "stop_lat": "48.889269622246026",
+      "stop_lon": "2.2880551248039036",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2044",
+      "stop_code": "",
+      "stop_name": "\"Anatole-France\"",
+      "stop_desc": "\"Rue Voltaire - 92044\"",
+      "stop_lat": "48.892018626328884",
+      "stop_lon": "2.2855174447944844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1802",
+      "stop_code": "",
+      "stop_name": "\"Pont de Levallois-Bécon\"",
+      "stop_desc": "\"Rue Baudin - 92044\"",
+      "stop_lat": "48.89730990517954",
+      "stop_lon": "2.2807686428069003",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2044",
+      "stop_code": "",
+      "stop_name": "\"Anatole-France\"",
+      "stop_desc": "\"Rue Voltaire - 92044\"",
+      "stop_lat": "48.892018626328884",
+      "stop_lon": "2.2855174447944844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2329",
+      "stop_code": "",
+      "stop_name": "\"Louise Michel\"",
+      "stop_desc": "\"Rue Anatole France - 92044\"",
+      "stop_lat": "48.889269622246026",
+      "stop_lon": "2.2880551248039036",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2416",
+      "stop_code": "",
+      "stop_name": "\"Porte de Champerret\"",
+      "stop_desc": "\"Place Stuart-Merrill - 75117\"",
+      "stop_lat": "48.88573915969202",
+      "stop_lon": "2.2918606206755348",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1786",
+      "stop_code": "",
+      "stop_name": "\"Pereire\"",
+      "stop_desc": "\"Square Albert Besnard - 75117\"",
+      "stop_lat": "48.8850310612536",
+      "stop_lon": "2.2971351115061647",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2514",
+      "stop_code": "",
+      "stop_name": "\"Wagram\"",
+      "stop_desc": "\"Place Monseigneur Loutil - 75117\"",
+      "stop_lat": "48.883712476037346",
+      "stop_lon": "2.3055577575143036",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2277",
+      "stop_code": "",
+      "stop_name": "\"Malesherbes\"",
+      "stop_desc": "\"Place du Général Catroux - 75117\"",
+      "stop_lat": "48.88253647289218",
+      "stop_lon": "2.311009243005514",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2510",
+      "stop_code": "",
+      "stop_name": "\"Villiers\"",
+      "stop_desc": "\"Parc de Monceau - 75117\"",
+      "stop_lat": "48.88140510041144",
+      "stop_lon": "2.316147050907411",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1935",
+      "stop_code": "",
+      "stop_name": "\"Europe\"",
+      "stop_desc": "\"1 rue de Madrid - 75108\"",
+      "stop_lat": "48.87906043921274",
+      "stop_lon": "2.3229746324058937",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1722",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.87568150641968",
+      "stop_lon": "2.325591584819959",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2285",
+      "stop_code": "",
+      "stop_name": "\"Havre-Caumartin\"",
+      "stop_desc": "\"bd Haussmann - 75109\"",
+      "stop_lat": "48.8734618906704",
+      "stop_lon": "2.3284804844734768",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2313",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.870720976292084",
+      "stop_lon": "2.3322547435729586",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1760",
+      "stop_code": "",
+      "stop_name": "\"Quatre Septembre\"",
+      "stop_desc": "\"20 rue du Quatre Septembre - 75102\"",
+      "stop_lat": "48.86966057219203",
+      "stop_lon": "2.3363282816417112",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2196",
+      "stop_code": "",
+      "stop_name": "\"Bourse\"",
+      "stop_desc": "\"Rue Notre-Dame des Victoires - 75102\"",
+      "stop_lat": "48.86876179259638",
+      "stop_lon": "2.3406741288121005",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2542",
+      "stop_code": "",
+      "stop_name": "\"Sentier\"",
+      "stop_desc": "\"97 rue Réaumur - 75102\"",
+      "stop_lat": "48.8673503814313",
+      "stop_lon": "2.3475672354150805",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1765",
+      "stop_code": "",
+      "stop_name": "\"Réaumur-Sébastopol\"",
+      "stop_desc": "\"Square Emile Chantemps - 75102\"",
+      "stop_lat": "48.86628035856129",
+      "stop_lon": "2.352484796837845",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2099",
+      "stop_code": "",
+      "stop_name": "\"Arts-et-Métiers\"",
+      "stop_desc": "\"Rue des Vertus - 75103\"",
+      "stop_lat": "48.865551863634785",
+      "stop_lon": "2.356108155120312",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1683",
+      "stop_code": "",
+      "stop_name": "\"Temple\"",
+      "stop_desc": "\"Rue du Temple - 75103\"",
+      "stop_lat": "48.866764167814516",
+      "stop_lon": "2.3615713270327316",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1766",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86725794359829",
+      "stop_lon": "2.3640373036390545",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1779",
+      "stop_code": "",
+      "stop_name": "\"Parmentier\"",
+      "stop_desc": "\"48 avenue de la République - 75111\"",
+      "stop_lat": "48.86525985667316",
+      "stop_lon": "2.3747570817167682",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2471",
+      "stop_code": "",
+      "stop_name": "\"Rue Saint-Maur\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.86408940574645",
+      "stop_lon": "2.3808997885521195",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1785",
+      "stop_code": "",
+      "stop_name": "\"Père-Lachaise\"",
+      "stop_desc": "\"Avenue de la République - 75111\"",
+      "stop_lat": "48.862945661667425",
+      "stop_lon": "2.3868924045430804",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1950",
+      "stop_code": "",
+      "stop_name": "\"Gambetta\"",
+      "stop_desc": "\"Père-Lachaise - 75120\"",
+      "stop_lat": "48.864782700687876",
+      "stop_lon": "2.398445833771861",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2415",
+      "stop_code": "",
+      "stop_name": "\"Porte de Bagnolet\"",
+      "stop_desc": "\"Rue de la Py - 75120\"",
+      "stop_lat": "48.864336535483645",
+      "stop_lon": "2.4088253760377283",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2204",
+      "stop_code": "",
+      "stop_name": "\"Gallieni (Parc de Bagnolet)\"",
+      "stop_desc": "\"Gare routière - 93006\"",
+      "stop_lat": "48.864834901238424",
+      "stop_lon": "2.416604379961874",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

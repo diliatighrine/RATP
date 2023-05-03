@@ -1,0 +1,784 @@
+{
+  "stops": [
+    {
+      "stop_id": "1885",
+      "stop_code": "",
+      "stop_name": "\"Marne-la-Vallée Chessy\"",
+      "stop_desc": "\"Parc Disneyland - 77111\"",
+      "stop_lat": "48.87016777436163",
+      "stop_lon": "2.782492052599299",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "161469",
+      "stop_code": "",
+      "stop_name": "\"Val d'europe\"",
+      "stop_desc": "\"Place Jean Monnet - 77449\"",
+      "stop_lat": "48.85549704826123",
+      "stop_lon": "2.7736084332189748",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2012",
+      "stop_code": "",
+      "stop_name": "\"Bussy-Saint-Georges\"",
+      "stop_desc": "\"Rocade de la Gare - 77058\"",
+      "stop_lat": "48.83665082820275",
+      "stop_lon": "2.709854058543625",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2516",
+      "stop_code": "",
+      "stop_name": "\"Torcy\"",
+      "stop_desc": "\"Rue Léon Blum - 77468\"",
+      "stop_lat": "48.83959713753761",
+      "stop_lon": "2.6545815811820037",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1859",
+      "stop_code": "",
+      "stop_name": "\"Lognes\"",
+      "stop_desc": "\"Johan Scarron (rue quartier du Mandinet Lognes) - 77258\"",
+      "stop_lat": "48.83907532767992",
+      "stop_lon": "2.6338690555739257",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1839",
+      "stop_code": "",
+      "stop_name": "\"Noisiel\"",
+      "stop_desc": "\"centre quartier du Luzard - 77337\"",
+      "stop_lat": "48.84348503430221",
+      "stop_lon": "2.616614613852153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2307",
+      "stop_code": "",
+      "stop_name": "\"Noisy-Champs\"",
+      "stop_desc": "\"Entrée Ouest de la Gare - 93051\"",
+      "stop_lat": "48.84307613366186",
+      "stop_lon": "2.5818763988415916",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2532",
+      "stop_code": "",
+      "stop_name": "\"Noisy-le-Grand (Mont d'Est)\"",
+      "stop_desc": "\"Esplanade des Arcades - 93051\"",
+      "stop_lat": "48.840882627372274",
+      "stop_lon": "2.549350971449035",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2010",
+      "stop_code": "",
+      "stop_name": "\"Bry-sur-Marne\"",
+      "stop_desc": "\"Gallieni (boulevard) - 94015\"",
+      "stop_lat": "48.84442645483315",
+      "stop_lon": "2.5263936672560128",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1837",
+      "stop_code": "",
+      "stop_name": "\"Neuilly-Plaisance\"",
+      "stop_desc": "\"Boulevard Gallieni - 93049\"",
+      "stop_lat": "48.85346032384484",
+      "stop_lon": "2.5137606489199347",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1689",
+      "stop_code": "",
+      "stop_name": "\"Val de Fontenay\"",
+      "stop_desc": "\"ZUP de Fontenay - 94033\"",
+      "stop_lat": "48.854043248483144",
+      "stop_lon": "2.488553014023377",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1631",
+      "stop_code": "",
+      "stop_name": "\"Vincennes\"",
+      "stop_desc": "\"Rue de Montreuil - 94080\"",
+      "stop_lat": "48.84732387116057",
+      "stop_lon": "2.433531596877892",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1835",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.8484448200751",
+      "stop_lon": "2.3959072371423282",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2211",
+      "stop_code": "",
+      "stop_name": "\"Gare de Lyon\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84447215598317",
+      "stop_lon": "2.373911421295138",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1967",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.86146371055862",
+      "stop_lon": "2.346844131603014",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2102",
+      "stop_code": "",
+      "stop_name": "\"Auber\"",
+      "stop_desc": "\"Rue des Mathurins - 75109\"",
+      "stop_lat": "48.87260817994105",
+      "stop_lon": "2.3297068164482293",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2545",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Avenue Friedland - 75117\"",
+      "stop_lat": "48.87390409859685",
+      "stop_lon": "2.2950319010471305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2238",
+      "stop_code": "",
+      "stop_name": "\"La Défense (Grande Arche)\"",
+      "stop_desc": "\"Rue des Longues Raies - 92062\"",
+      "stop_lat": "48.89200565400341",
+      "stop_lon": "2.2369831238174327",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1829",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Préfecture\"",
+      "stop_desc": "\"Rue des Longues Raies - 92050\"",
+      "stop_lat": "48.89565993203451",
+      "stop_lon": "2.2231003280556174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1830",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Université\"",
+      "stop_desc": "\"Rue de la Folie - 92050\"",
+      "stop_lat": "48.90098901400317",
+      "stop_lon": "2.213791712188878",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1831",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Ville\"",
+      "stop_desc": "\"Rue Maurice Thorez - 92050\"",
+      "stop_lat": "48.89532514729429",
+      "stop_lon": "2.1958404738707524",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1713",
+      "stop_code": "",
+      "stop_name": "\"Rueil-Malmaison\"",
+      "stop_desc": "\"Gare routière - 92063\"",
+      "stop_lat": "48.88716813740421",
+      "stop_lon": "2.1706233782820132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1970",
+      "stop_code": "",
+      "stop_name": "\"Chatou-Croissy\"",
+      "stop_desc": "\"Place Maurice Berteaux - 78146\"",
+      "stop_lat": "48.88519601564846",
+      "stop_lon": "2.155639305649673",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2317",
+      "stop_code": "",
+      "stop_name": "\"Le Vésinet-Centre\"",
+      "stop_desc": "\"Rue Maurice Berteaux - 78650\"",
+      "stop_lat": "48.89009570633796",
+      "stop_lon": "2.1343746143232596",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1851",
+      "stop_code": "",
+      "stop_name": "\"Le Vésinet-Le Pecq\"",
+      "stop_desc": "\"Avenue Georges Bizet - 78650\"",
+      "stop_lat": "48.89835089406469",
+      "stop_lon": "2.121828925443024",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2480",
+      "stop_code": "",
+      "stop_name": "\"Saint-Germain-en-Laye\"",
+      "stop_desc": "\"Rue de la Salle - 78551\"",
+      "stop_lat": "48.898478198699756",
+      "stop_lon": "2.094538804113546",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1851",
+      "stop_code": "",
+      "stop_name": "\"Le Vésinet-Le Pecq\"",
+      "stop_desc": "\"Avenue Georges Bizet - 78650\"",
+      "stop_lat": "48.89835089406469",
+      "stop_lon": "2.121828925443024",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2317",
+      "stop_code": "",
+      "stop_name": "\"Le Vésinet-Centre\"",
+      "stop_desc": "\"Rue Maurice Berteaux - 78650\"",
+      "stop_lat": "48.89009570633796",
+      "stop_lon": "2.1343746143232596",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1970",
+      "stop_code": "",
+      "stop_name": "\"Chatou-Croissy\"",
+      "stop_desc": "\"Place Maurice Berteaux - 78146\"",
+      "stop_lat": "48.88519601564846",
+      "stop_lon": "2.155639305649673",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1713",
+      "stop_code": "",
+      "stop_name": "\"Rueil-Malmaison\"",
+      "stop_desc": "\"Gare routière - 92063\"",
+      "stop_lat": "48.88716813740421",
+      "stop_lon": "2.1706233782820132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1831",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Ville\"",
+      "stop_desc": "\"Rue Maurice Thorez - 92050\"",
+      "stop_lat": "48.89532514729429",
+      "stop_lon": "2.1958404738707524",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1830",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Université\"",
+      "stop_desc": "\"Rue de la Folie - 92050\"",
+      "stop_lat": "48.90098901400317",
+      "stop_lon": "2.213791712188878",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1829",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Préfecture\"",
+      "stop_desc": "\"Rue des Longues Raies - 92050\"",
+      "stop_lat": "48.89565993203451",
+      "stop_lon": "2.2231003280556174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2238",
+      "stop_code": "",
+      "stop_name": "\"La Défense (Grande Arche)\"",
+      "stop_desc": "\"Rue des Longues Raies - 92062\"",
+      "stop_lat": "48.89200565400341",
+      "stop_lon": "2.2369831238174327",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2545",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Avenue Friedland - 75117\"",
+      "stop_lat": "48.87390409859685",
+      "stop_lon": "2.2950319010471305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2102",
+      "stop_code": "",
+      "stop_name": "\"Auber\"",
+      "stop_desc": "\"Rue des Mathurins - 75109\"",
+      "stop_lat": "48.87260817994105",
+      "stop_lon": "2.3297068164482293",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1967",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.86146371055862",
+      "stop_lon": "2.346844131603014",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2211",
+      "stop_code": "",
+      "stop_name": "\"Gare de Lyon\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84447215598317",
+      "stop_lon": "2.373911421295138",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1835",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.8484448200751",
+      "stop_lon": "2.3959072371423282",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1631",
+      "stop_code": "",
+      "stop_name": "\"Vincennes\"",
+      "stop_desc": "\"Rue de Montreuil - 94080\"",
+      "stop_lat": "48.84732387116057",
+      "stop_lon": "2.433531596877892",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2198",
+      "stop_code": "",
+      "stop_name": "\"Fontenay-sous-Bois\"",
+      "stop_desc": "\"Place Moreau David - 94033\"",
+      "stop_lat": "48.8434118592224",
+      "stop_lon": "2.464815403274336",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1838",
+      "stop_code": "",
+      "stop_name": "\"Nogent-sur-Marne\"",
+      "stop_desc": "\"Sortie Parking - 94052\"",
+      "stop_lat": "48.83510877417377",
+      "stop_lon": "2.4716839161590887",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2300",
+      "stop_code": "",
+      "stop_name": "\"Joinville-le-Pont\"",
+      "stop_desc": "\"Hippodrome de Vincennes - 94042\"",
+      "stop_lat": "48.821069678359656",
+      "stop_lon": "2.4638349563053548",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2481",
+      "stop_code": "",
+      "stop_name": "\"Saint-Maur Créteil\"",
+      "stop_desc": "\"Rue Leroux - 94068\"",
+      "stop_lat": "48.80641960896216",
+      "stop_lon": "2.47204505094563",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2315",
+      "stop_code": "",
+      "stop_name": "\"Le Parc de Saint-Maur\"",
+      "stop_desc": "\"Place de la Louvière - 94068\"",
+      "stop_lat": "48.80528001222769",
+      "stop_lon": "2.48559432484478",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2143",
+      "stop_code": "",
+      "stop_name": "\"Champigny\"",
+      "stop_desc": "\"Rue La Fayette - 94068\"",
+      "stop_lat": "48.80703580209233",
+      "stop_lon": "2.509901668386353",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2244",
+      "stop_code": "",
+      "stop_name": "\"La Varenne-Chennevières\"",
+      "stop_desc": "\"Place de la Gare de la Varenne - 94068\"",
+      "stop_lat": "48.79493354483859",
+      "stop_lon": "2.5130447577249475",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2490",
+      "stop_code": "",
+      "stop_name": "\"Sucy Bonneuil\"",
+      "stop_desc": "\"Portes de Sucy - 94071\"",
+      "stop_lat": "48.77105153303763",
+      "stop_lon": "2.507511268345535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2074",
+      "stop_code": "",
+      "stop_name": "\"Boissy-Saint-Léger\"",
+      "stop_desc": "\"Place de la Gare - 94004\"",
+      "stop_lat": "48.752988644666615",
+      "stop_lon": "2.5052228459567494",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2490",
+      "stop_code": "",
+      "stop_name": "\"Sucy Bonneuil\"",
+      "stop_desc": "\"Portes de Sucy - 94071\"",
+      "stop_lat": "48.77105153303763",
+      "stop_lon": "2.507511268345535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2244",
+      "stop_code": "",
+      "stop_name": "\"La Varenne-Chennevières\"",
+      "stop_desc": "\"Place de la Gare de la Varenne - 94068\"",
+      "stop_lat": "48.79493354483859",
+      "stop_lon": "2.5130447577249475",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2143",
+      "stop_code": "",
+      "stop_name": "\"Champigny\"",
+      "stop_desc": "\"Rue La Fayette - 94068\"",
+      "stop_lat": "48.80703580209233",
+      "stop_lon": "2.509901668386353",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2315",
+      "stop_code": "",
+      "stop_name": "\"Le Parc de Saint-Maur\"",
+      "stop_desc": "\"Place de la Louvière - 94068\"",
+      "stop_lat": "48.80528001222769",
+      "stop_lon": "2.48559432484478",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2481",
+      "stop_code": "",
+      "stop_name": "\"Saint-Maur Créteil\"",
+      "stop_desc": "\"Rue Leroux - 94068\"",
+      "stop_lat": "48.80641960896216",
+      "stop_lon": "2.47204505094563",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2300",
+      "stop_code": "",
+      "stop_name": "\"Joinville-le-Pont\"",
+      "stop_desc": "\"Hippodrome de Vincennes - 94042\"",
+      "stop_lat": "48.821069678359656",
+      "stop_lon": "2.4638349563053548",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1838",
+      "stop_code": "",
+      "stop_name": "\"Nogent-sur-Marne\"",
+      "stop_desc": "\"Sortie Parking - 94052\"",
+      "stop_lat": "48.83510877417377",
+      "stop_lon": "2.4716839161590887",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2198",
+      "stop_code": "",
+      "stop_name": "\"Fontenay-sous-Bois\"",
+      "stop_desc": "\"Place Moreau David - 94033\"",
+      "stop_lat": "48.8434118592224",
+      "stop_lon": "2.464815403274336",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1631",
+      "stop_code": "",
+      "stop_name": "\"Vincennes\"",
+      "stop_desc": "\"Rue de Montreuil - 94080\"",
+      "stop_lat": "48.84732387116057",
+      "stop_lon": "2.433531596877892",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1835",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.8484448200751",
+      "stop_lon": "2.3959072371423282",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2211",
+      "stop_code": "",
+      "stop_name": "\"Gare de Lyon\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84447215598317",
+      "stop_lon": "2.373911421295138",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1967",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.86146371055862",
+      "stop_lon": "2.346844131603014",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2102",
+      "stop_code": "",
+      "stop_name": "\"Auber\"",
+      "stop_desc": "\"Rue des Mathurins - 75109\"",
+      "stop_lat": "48.87260817994105",
+      "stop_lon": "2.3297068164482293",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2545",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Avenue Friedland - 75117\"",
+      "stop_lat": "48.87390409859685",
+      "stop_lon": "2.2950319010471305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2238",
+      "stop_code": "",
+      "stop_name": "\"La Défense (Grande Arche)\"",
+      "stop_desc": "\"Rue des Longues Raies - 92062\"",
+      "stop_lat": "48.89200565400341",
+      "stop_lon": "2.2369831238174327",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1829",
+      "stop_code": "",
+      "stop_name": "\"Nanterre-Préfecture\"",
+      "stop_desc": "\"Rue des Longues Raies - 92050\"",
+      "stop_lat": "48.89565993203451",
+      "stop_lon": "2.2231003280556174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2290",
+      "stop_code": "",
+      "stop_name": "\"Houilles Carrières-sur-Seine\"",
+      "stop_desc": "\"Quatre septembre (1 rue du) - 78311\"",
+      "stop_lat": "48.920645595306866",
+      "stop_lon": "2.1844117553489246",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2523",
+      "stop_code": "",
+      "stop_name": "\"Sartrouville\"",
+      "stop_desc": "\"Fusilles (Place des) - 78586\"",
+      "stop_lat": "48.93751218318358",
+      "stop_lon": "2.157311047020583",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1878",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Laffitte\"",
+      "stop_desc": "\"Liberation (Place de la) - 78358\"",
+      "stop_lat": "48.94604723230418",
+      "stop_lon": "2.144251676642267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2776542",
+      "stop_code": "",
+      "stop_name": "\"Achères Grand Cormier\"",
+      "stop_desc": "\"Gare (Place de la) - 78005\"",
+      "stop_lat": "48.95538833370657",
+      "stop_lon": "2.0924570116886043",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1801",
+      "stop_code": "",
+      "stop_name": "\"Poissy\"",
+      "stop_desc": "\"George Pompidou (Place) - 78498\"",
+      "stop_lat": "48.933164262405",
+      "stop_lon": "2.041083510970564",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2776542",
+      "stop_code": "",
+      "stop_name": "\"Achères Grand Cormier\"",
+      "stop_desc": "\"Gare (Place de la) - 78005\"",
+      "stop_lat": "48.95538833370657",
+      "stop_lon": "2.0924570116886043",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1878",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Laffitte\"",
+      "stop_desc": "\"Liberation (Place de la) - 78358\"",
+      "stop_lat": "48.94604723230418",
+      "stop_lon": "2.144251676642267",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2158",
+      "stop_code": "",
+      "stop_name": "\"Achères-Ville\"",
+      "stop_desc": "\"Avenue de Conflans - 78005\"",
+      "stop_lat": "48.97024803923824",
+      "stop_lon": "2.0776719250412707",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1983",
+      "stop_code": "",
+      "stop_name": "\"Conflans-Fin d'Oise\"",
+      "stop_desc": "\"Clemenceau (Place) - 78172\"",
+      "stop_lat": "48.989148509616854",
+      "stop_lon": "2.0743544773118536",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "48434",
+      "stop_code": "",
+      "stop_name": "\"Neuville-Université\"",
+      "stop_desc": "\"Gare de Neuville-Universite - 95450\"",
+      "stop_lat": "49.01428325736642",
+      "stop_lon": "2.0783798256237693",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2140",
+      "stop_code": "",
+      "stop_name": "\"Cergy-Préfecture\"",
+      "stop_desc": "\"Boulevard de l'Oise - 95127\"",
+      "stop_lat": "49.03594383494343",
+      "stop_lon": "2.0801437572429307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2022",
+      "stop_code": "",
+      "stop_name": "\"Cergy-Saint-Christophe\"",
+      "stop_desc": "\"Rue des Pas Perdus - 95127\"",
+      "stop_lat": "49.04976500165793",
+      "stop_lon": "2.0343451169898716",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "48429",
+      "stop_code": "",
+      "stop_name": "\"Cergy-Le-Haut\"",
+      "stop_desc": "\"Gare de Cergy-Le-haut - 95127\"",
+      "stop_lat": "49.04883536512254",
+      "stop_lon": "2.0122584189440045",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "stops": [
+    {
+      "stop_id": "4009396",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VERSAILLES\"",
+      "stop_desc": "\"FACE 3 AV ERNEST RENAN - 75115\"",
+      "stop_lat": "48.83220830468481",
+      "stop_lon": "2.2873604738640747",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009395",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ISSY\"",
+      "stop_desc": "\"2 R D'ORADOUR-SUR-GLANE - 92040\"",
+      "stop_lat": "48.831729140204494",
+      "stop_lon": "2.281030622016106",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009393",
+      "stop_code": "",
+      "stop_name": "\"SUZANNE LENGLEN\"",
+      "stop_desc": "\"PL DES MARTYRS DE LA RESISTANCE DE LA PORTE DE SEVRES - 75115\"",
+      "stop_lat": "48.83359623031152",
+      "stop_lon": "2.276290904035924",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009391",
+      "stop_code": "",
+      "stop_name": "\"HENRI FARMAN\"",
+      "stop_desc": "\"CW / 15 - 75115\"",
+      "stop_lat": "48.83486087794618",
+      "stop_lon": "2.2714018491811037",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009389",
+      "stop_code": "",
+      "stop_name": "\"ISSY - VAL DE SEINE\"",
+      "stop_desc": "\"MAIL FELIX AMIOT - 92040\"",
+      "stop_lat": "48.82957110434357",
+      "stop_lon": "2.2628187515649514",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009387",
+      "stop_code": "",
+      "stop_name": "\"JACQUES-HENRI LARTIGUE\"",
+      "stop_desc": "\"14 R JACQUES-HENRI LARTIGUE - 92040\"",
+      "stop_lat": "48.824788174246734",
+      "stop_lon": "2.260457165641521",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009385",
+      "stop_code": "",
+      "stop_name": "\"LES MOULINEAUX\"",
+      "stop_desc": "\"R JEAN-JACQUES ROUSSEAU - 92040\"",
+      "stop_lat": "48.82155533833698",
+      "stop_lon": "2.2513018060643315",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009383",
+      "stop_code": "",
+      "stop_name": "\"MEUDON SUR-SEINE\"",
+      "stop_desc": "\"SEN DESLANDES - 92048\"",
+      "stop_lat": "48.819235722798865",
+      "stop_lon": "2.2386888948067147",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009398",
+      "stop_code": "",
+      "stop_name": "\"BRIMBORION\"",
+      "stop_desc": "\"CHEMIN DES LACETS - 92072\"",
+      "stop_lat": "48.82196200459944",
+      "stop_lon": "2.2317148741993775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009380",
+      "stop_code": "",
+      "stop_name": "\"MUSEE DE SEVRES\"",
+      "stop_desc": "\"QUAI DE SEVRES - 92072\"",
+      "stop_lat": "48.82860707343412",
+      "stop_lon": "2.2253578108257597",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009378",
+      "stop_code": "",
+      "stop_name": "\"PARC DE ST-CLOUD\"",
+      "stop_desc": "\"3 R DANTAN - 92064\"",
+      "stop_lat": "48.843046818026124",
+      "stop_lon": "2.2218816775770205",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009376",
+      "stop_code": "",
+      "stop_name": "\"LES MILONS\"",
+      "stop_desc": "\"BD SENARD - 92064\"",
+      "stop_lat": "48.85002041379945",
+      "stop_lon": "2.2211443924745797",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009374",
+      "stop_code": "",
+      "stop_name": "\"LES COTEAUX\"",
+      "stop_desc": "\"BD SENARD - 92064\"",
+      "stop_lat": "48.8572907373632",
+      "stop_lon": "2.22059692463471",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009372",
+      "stop_code": "",
+      "stop_name": "\"SURESNES LONGCHAMP\"",
+      "stop_desc": "\"15 PAS LA GARE DE LONGCHAMP - 92073\"",
+      "stop_lat": "48.868121418686826",
+      "stop_lon": "2.221485308565549",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009370",
+      "stop_code": "",
+      "stop_name": "\"BELVEDERE\"",
+      "stop_desc": "\"R ROGER SALENGRO - 92073\"",
+      "stop_lat": "48.87608853557523",
+      "stop_lon": "2.226045596755733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009368",
+      "stop_code": "",
+      "stop_name": "\"PUTEAUX\"",
+      "stop_desc": "\"2 CHE DE LA STATION - 92062\"",
+      "stop_lat": "48.88288960092865",
+      "stop_lon": "2.233457732430217",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009366",
+      "stop_code": "",
+      "stop_name": "\"LA DEFENSE\"",
+      "stop_desc": "\"PL CARPEAUX - 92062\"",
+      "stop_lat": "48.893012707696634",
+      "stop_lon": "2.237567251699199",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009364",
+      "stop_code": "",
+      "stop_name": "\"FAUBOURG DE L'ARCHE\"",
+      "stop_desc": "\"20 BD DE LA MISSION MARCHAND - 92026\"",
+      "stop_lat": "48.89687952795178",
+      "stop_lon": "2.2404086291518763",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009362",
+      "stop_code": "",
+      "stop_name": "\"LES FAUVELLES\"",
+      "stop_desc": "\"FACE 7 BD NATIONAL - 92035\"",
+      "stop_lat": "48.90245089074918",
+      "stop_lon": "2.239607550870101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009360",
+      "stop_code": "",
+      "stop_name": "\"CHARLEBOURG\"",
+      "stop_desc": "\"90 BD NATIONAL - 92035\"",
+      "stop_lat": "48.907725514741244",
+      "stop_lon": "2.23864326147143",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009358",
+      "stop_code": "",
+      "stop_name": "\"JACQUELINE AURIOL\"",
+      "stop_desc": "\"68 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.91081341466561",
+      "stop_lon": "2.2343289250336604",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009356",
+      "stop_code": "",
+      "stop_name": "\"VICTOR BASCH\"",
+      "stop_desc": "\"FACE 117 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.91425128733748",
+      "stop_lon": "2.2296179266323435",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009353",
+      "stop_code": "",
+      "stop_name": "\"PARC PIERRE LAGRAVERE\"",
+      "stop_desc": "\"195 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.917580644023914",
+      "stop_lon": "2.224402000398648",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009352",
+      "stop_code": "",
+      "stop_name": "\"PONT DE BEZONS\"",
+      "stop_desc": "\"R JULIUS ET ETHEL ROSENBERG - 95063\"",
+      "stop_lat": "48.92337067632719",
+      "stop_lon": "2.217666012118316",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009353",
+      "stop_code": "",
+      "stop_name": "\"PARC PIERRE LAGRAVERE\"",
+      "stop_desc": "\"195 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.917580644023914",
+      "stop_lon": "2.224402000398648",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009356",
+      "stop_code": "",
+      "stop_name": "\"VICTOR BASCH\"",
+      "stop_desc": "\"FACE 117 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.91425128733748",
+      "stop_lon": "2.2296179266323435",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009358",
+      "stop_code": "",
+      "stop_name": "\"JACQUELINE AURIOL\"",
+      "stop_desc": "\"68 BD CHARLES DE GAULLE - 92025\"",
+      "stop_lat": "48.91081341466561",
+      "stop_lon": "2.2343289250336604",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009360",
+      "stop_code": "",
+      "stop_name": "\"CHARLEBOURG\"",
+      "stop_desc": "\"90 BD NATIONAL - 92035\"",
+      "stop_lat": "48.907725514741244",
+      "stop_lon": "2.23864326147143",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009362",
+      "stop_code": "",
+      "stop_name": "\"LES FAUVELLES\"",
+      "stop_desc": "\"FACE 7 BD NATIONAL - 92035\"",
+      "stop_lat": "48.90245089074918",
+      "stop_lon": "2.239607550870101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009364",
+      "stop_code": "",
+      "stop_name": "\"FAUBOURG DE L'ARCHE\"",
+      "stop_desc": "\"20 BD DE LA MISSION MARCHAND - 92026\"",
+      "stop_lat": "48.89687952795178",
+      "stop_lon": "2.2404086291518763",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009366",
+      "stop_code": "",
+      "stop_name": "\"LA DEFENSE\"",
+      "stop_desc": "\"PL CARPEAUX - 92062\"",
+      "stop_lat": "48.893012707696634",
+      "stop_lon": "2.237567251699199",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009368",
+      "stop_code": "",
+      "stop_name": "\"PUTEAUX\"",
+      "stop_desc": "\"2 CHE DE LA STATION - 92062\"",
+      "stop_lat": "48.88288960092865",
+      "stop_lon": "2.233457732430217",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009370",
+      "stop_code": "",
+      "stop_name": "\"BELVEDERE\"",
+      "stop_desc": "\"R ROGER SALENGRO - 92073\"",
+      "stop_lat": "48.87608853557523",
+      "stop_lon": "2.226045596755733",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009372",
+      "stop_code": "",
+      "stop_name": "\"SURESNES LONGCHAMP\"",
+      "stop_desc": "\"15 PAS LA GARE DE LONGCHAMP - 92073\"",
+      "stop_lat": "48.868121418686826",
+      "stop_lon": "2.221485308565549",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009374",
+      "stop_code": "",
+      "stop_name": "\"LES COTEAUX\"",
+      "stop_desc": "\"BD SENARD - 92064\"",
+      "stop_lat": "48.8572907373632",
+      "stop_lon": "2.22059692463471",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009376",
+      "stop_code": "",
+      "stop_name": "\"LES MILONS\"",
+      "stop_desc": "\"BD SENARD - 92064\"",
+      "stop_lat": "48.85002041379945",
+      "stop_lon": "2.2211443924745797",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009378",
+      "stop_code": "",
+      "stop_name": "\"PARC DE ST-CLOUD\"",
+      "stop_desc": "\"3 R DANTAN - 92064\"",
+      "stop_lat": "48.843046818026124",
+      "stop_lon": "2.2218816775770205",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009380",
+      "stop_code": "",
+      "stop_name": "\"MUSEE DE SEVRES\"",
+      "stop_desc": "\"QUAI DE SEVRES - 92072\"",
+      "stop_lat": "48.82860707343412",
+      "stop_lon": "2.2253578108257597",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009398",
+      "stop_code": "",
+      "stop_name": "\"BRIMBORION\"",
+      "stop_desc": "\"CHEMIN DES LACETS - 92072\"",
+      "stop_lat": "48.82196200459944",
+      "stop_lon": "2.2317148741993775",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009383",
+      "stop_code": "",
+      "stop_name": "\"MEUDON SUR-SEINE\"",
+      "stop_desc": "\"SEN DESLANDES - 92048\"",
+      "stop_lat": "48.819235722798865",
+      "stop_lon": "2.2386888948067147",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009385",
+      "stop_code": "",
+      "stop_name": "\"LES MOULINEAUX\"",
+      "stop_desc": "\"R JEAN-JACQUES ROUSSEAU - 92040\"",
+      "stop_lat": "48.82155533833698",
+      "stop_lon": "2.2513018060643315",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009387",
+      "stop_code": "",
+      "stop_name": "\"JACQUES-HENRI LARTIGUE\"",
+      "stop_desc": "\"14 R JACQUES-HENRI LARTIGUE - 92040\"",
+      "stop_lat": "48.824788174246734",
+      "stop_lon": "2.260457165641521",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009389",
+      "stop_code": "",
+      "stop_name": "\"ISSY - VAL DE SEINE\"",
+      "stop_desc": "\"MAIL FELIX AMIOT - 92040\"",
+      "stop_lat": "48.82957110434357",
+      "stop_lon": "2.2628187515649514",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009391",
+      "stop_code": "",
+      "stop_name": "\"HENRI FARMAN\"",
+      "stop_desc": "\"CW / 15 - 75115\"",
+      "stop_lat": "48.83486087794618",
+      "stop_lon": "2.2714018491811037",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009393",
+      "stop_code": "",
+      "stop_name": "\"SUZANNE LENGLEN\"",
+      "stop_desc": "\"PL DES MARTYRS DE LA RESISTANCE DE LA PORTE DE SEVRES - 75115\"",
+      "stop_lat": "48.83359623031152",
+      "stop_lon": "2.276290904035924",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009395",
+      "stop_code": "",
+      "stop_name": "\"PORTE D'ISSY\"",
+      "stop_desc": "\"2 R D'ORADOUR-SUR-GLANE - 92040\"",
+      "stop_lat": "48.831729140204494",
+      "stop_lon": "2.281030622016106",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4009396",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE VERSAILLES\"",
+      "stop_desc": "\"FACE 3 AV ERNEST RENAN - 75115\"",
+      "stop_lat": "48.83220830468481",
+      "stop_lon": "2.2873604738640747",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

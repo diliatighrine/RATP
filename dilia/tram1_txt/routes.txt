@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2380201,100,"T1","((NOISY-LE-SEC) <-> ASNIERES - QUATRE ROUTES) - Aller",,0,,FFFFFF,000000
+2439858,100,"T1","(GARE DE NOISY-LE-SEC <-> ASNIERES - QUATRE ROUTES) - Aller",,0,,FFFFFF,000000
+2439859,100,"T1","(GARE DE NOISY-LE-SEC <-> ASNIERES - QUATRE ROUTES) - Retour",,0,,FFFFFF,000000
