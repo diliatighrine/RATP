@@ -1,0 +1,40 @@
+{
+  "stop_times": [
+    {
+      "trip_id": "10034267320651521",
+      "arrival_time": "15:31:00",
+      "departure_time": "15:31:00",
+      "stop_id": "1752",
+      "stop_sequence": "1",
+      "stop_headsign": "",
+      "shape_dist_traveled": ""
+    },
+    {
+      "trip_id": "10034267320651521",
+      "arrival_time": "15:33:00",
+      "departure_time": "15:33:00",
+      "stop_id": "1718",
+      "stop_sequence": "2",
+      "stop_headsign": "",
+      "shape_dist_traveled": ""
+    },
+    {
+      "trip_id": "10034267320651521",
+      "arrival_time": "15:34:00",
+      "departure_time": "15:34:00",
+      "stop_id": "1783",
+      "stop_sequence": "3",
+      "stop_headsign": "",
+      "shape_dist_traveled": ""
+    },
+    {
+      "trip_id": "10034267320651521",
+      "arrival_time": "15:35:00",
+      "departure_time": "15:35:00",
+      "stop_id": "1659",
+      "stop_sequence": "4",
+      "stop_headsign": "",
+      "shape_dist_traveled": ""
+    }
+  ]
+}

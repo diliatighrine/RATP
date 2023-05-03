@@ -1,0 +1,894 @@
+{
+  "stops": [
+    {
+      "stop_id": "2483",
+      "stop_code": "",
+      "stop_name": "\"Saint-Rémy-lès-Chevreuse\"",
+      "stop_desc": "\"2 rue Ditte - 78575\"",
+      "stop_lat": "48.70286868424979",
+      "stop_lon": "2.070600214521146",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1988",
+      "stop_code": "",
+      "stop_name": "\"Courcelle-sur-Yvette\"",
+      "stop_desc": "\"Rue de Madrid - 91272\"",
+      "stop_lat": "48.70093369048444",
+      "stop_lon": "2.099045428171641",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2078",
+      "stop_code": "",
+      "stop_name": "\"Gif-sur-Yvette\"",
+      "stop_desc": "\"Rue du Clos - 91272\"",
+      "stop_lat": "48.69819921027547",
+      "stop_lon": "2.136928899354758",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2239",
+      "stop_code": "",
+      "stop_name": "\"La Hacquinière\"",
+      "stop_desc": "\"Avenue des Tilleuls - 91122\"",
+      "stop_lat": "48.69506073208291",
+      "stop_lon": "2.1526641367708073",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2130",
+      "stop_code": "",
+      "stop_name": "\"Bures-sur-Yvette\"",
+      "stop_desc": "\"Impasse de la Station - 91122\"",
+      "stop_lat": "48.6957326504055",
+      "stop_lon": "2.163089675156206",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2381",
+      "stop_code": "",
+      "stop_name": "\"Orsay-Ville\"",
+      "stop_desc": "\"Faculté des Sciences - 91471\"",
+      "stop_lat": "48.69760164693814",
+      "stop_lon": "2.182079748545582",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1924",
+      "stop_code": "",
+      "stop_name": "\"Le Guichet\"",
+      "stop_desc": "\"Rue du Pont de Pierre - 91471\"",
+      "stop_lat": "48.70500236515563",
+      "stop_lon": "2.1916590395033873",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1865",
+      "stop_code": "",
+      "stop_name": "\"Lozère\"",
+      "stop_desc": "\"Rue Parmentier - 91477\"",
+      "stop_lat": "48.706049793049075",
+      "stop_lon": "2.2115654162223874",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2386",
+      "stop_code": "",
+      "stop_name": "\"Palaiseau Villebon\"",
+      "stop_desc": "\"Rue Antoine Arnault - 91477\"",
+      "stop_lat": "48.707745883014454",
+      "stop_lon": "2.237039533120401",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2385",
+      "stop_code": "",
+      "stop_name": "\"Palaiseau\"",
+      "stop_desc": "\"Place de la Gare - 91477\"",
+      "stop_lat": "48.71791943671647",
+      "stop_lon": "2.246501416326464",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2348",
+      "stop_code": "",
+      "stop_name": "\"Massy-Palaiseau\"",
+      "stop_desc": "\"av. Ramolfo Garnier - 91377\"",
+      "stop_lat": "48.72414852610061",
+      "stop_lon": "2.259342348954552",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2349",
+      "stop_code": "",
+      "stop_name": "\"Massy-Verrières\"",
+      "stop_desc": "\"Place Gabriel Brun - 91377\"",
+      "stop_lat": "48.7349524117336",
+      "stop_lon": "2.2743411603329524",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1853",
+      "stop_code": "",
+      "stop_name": "\"Les Baconnets\"",
+      "stop_desc": "\"Rue de Massy - 92002\"",
+      "stop_lat": "48.739677540827685",
+      "stop_lon": "2.2875987643958364",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2231",
+      "stop_code": "",
+      "stop_name": "\"Fontaine-Michalon\"",
+      "stop_desc": "\"Rue Mirabeau - 92002\"",
+      "stop_lat": "48.74332114096612",
+      "stop_lon": "2.2964154671011205",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2095",
+      "stop_code": "",
+      "stop_name": "\"Antony\"",
+      "stop_desc": "\"Rue Velpeau - 92002\"",
+      "stop_lat": "48.75482748503882",
+      "stop_lon": "2.3008650705983067",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2237",
+      "stop_code": "",
+      "stop_name": "\"La Croix-de-Berny\"",
+      "stop_desc": "\"Parc de Sceaux - 92002\"",
+      "stop_lat": "48.76254042207571",
+      "stop_lon": "2.3047207763689053",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2388",
+      "stop_code": "",
+      "stop_name": "\"Parc de Sceaux\"",
+      "stop_desc": "\"Avenue de la Duchesse du Maine - 92002\"",
+      "stop_lat": "48.770631071014726",
+      "stop_lon": "2.310222723494766",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2006",
+      "stop_code": "",
+      "stop_name": "\"Bourg-la-Reine\"",
+      "stop_desc": "\"Rue des Blagis - 92014\"",
+      "stop_lat": "48.78005093776892",
+      "stop_lon": "2.3121626259597874",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2059",
+      "stop_code": "",
+      "stop_name": "\"Bagneux\"",
+      "stop_desc": "\"Avenue Aristide Briand - 94016\"",
+      "stop_lat": "48.793228767976906",
+      "stop_lon": "2.3208488828224305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2097",
+      "stop_code": "",
+      "stop_name": "\"Arcueil-Cachan\"",
+      "stop_desc": "\"Rue de la Gare - 94016\"",
+      "stop_lat": "48.798442507735004",
+      "stop_lon": "2.328044198978203",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1921",
+      "stop_code": "",
+      "stop_name": "\"Laplace\"",
+      "stop_desc": "\"Maison des Examens - 94003\"",
+      "stop_lat": "48.8075834127928",
+      "stop_lon": "2.333349401533708",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1960",
+      "stop_code": "",
+      "stop_name": "\"Gentilly\"",
+      "stop_desc": "\"Romain Rolland - 94037\"",
+      "stop_lat": "48.81524997901088",
+      "stop_lon": "2.3409291775330954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2166",
+      "stop_code": "",
+      "stop_name": "\"Cité Universitaire\"",
+      "stop_desc": "\"24 boulevard Jourdan - 75114\"",
+      "stop_lat": "48.8207684717254",
+      "stop_lon": "2.339405170331693",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1998",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.833315185891436",
+      "stop_lon": "2.3334427638299853",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2530",
+      "stop_code": "",
+      "stop_name": "\"Port-Royal\"",
+      "stop_desc": "\"47 avenue de l' Observatoire - 75105\"",
+      "stop_lat": "48.83988516597736",
+      "stop_lon": "2.336873440890153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2333",
+      "stop_code": "",
+      "stop_name": "\"Luxembourg\"",
+      "stop_desc": "\"Rue de l'Abbé de l'Epée - 75105\"",
+      "stop_lat": "48.84677855902824",
+      "stop_lon": "2.3404411811761725",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1672",
+      "stop_code": "",
+      "stop_name": "\"Saint-Michel Notre-Dame\"",
+      "stop_desc": "\"Rue Xavier Privas - 75105\"",
+      "stop_lat": "48.85368078084504",
+      "stop_lon": "2.3442413996203175",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1968",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.861796247500266",
+      "stop_lon": "2.346803328707587",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2077",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.880839205836494",
+      "stop_lon": "2.3565770153513177",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2243",
+      "stop_code": "",
+      "stop_name": "\"La Plaine-Stade de France\"",
+      "stop_desc": "\"Avenue du Stade de France - 93066\"",
+      "stop_lat": "48.918116641116775",
+      "stop_lon": "2.3626045185666085",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2054",
+      "stop_code": "",
+      "stop_name": "\"La Courneuve-Aubervilliers\"",
+      "stop_desc": "\"Place de la Gare - 93001\"",
+      "stop_lat": "48.924023434909344",
+      "stop_lon": "2.3844006646895615",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2248",
+      "stop_code": "",
+      "stop_name": "\"Le Bourget\"",
+      "stop_desc": "\"Deportes (place des) - 93013\"",
+      "stop_lat": "48.93068622984963",
+      "stop_lon": "2.4256937696090213",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1999",
+      "stop_code": "",
+      "stop_name": "\"Drancy\"",
+      "stop_desc": "\"Anatole France (169 rue) - 93029\"",
+      "stop_lat": "48.932709809148555",
+      "stop_lon": "2.455105345174671",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2070",
+      "stop_code": "",
+      "stop_name": "\"Blanc-Mesnil\"",
+      "stop_desc": "\"Pierre Semart (rue) - 93007\"",
+      "stop_lat": "48.93220116999761",
+      "stop_lon": "2.4767508712199087",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2105",
+      "stop_code": "",
+      "stop_name": "\"Aulnay-sous-Bois\"",
+      "stop_desc": "\"General De Gaulle (5 place) - 93005\"",
+      "stop_lat": "48.93210876263909",
+      "stop_lon": "2.493309562581326",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1663",
+      "stop_code": "",
+      "stop_name": "\"Sevran-Beaudottes\"",
+      "stop_desc": "\"Dumon d'urville (rue) - 93071\"",
+      "stop_lat": "48.94773765113627",
+      "stop_lon": "2.524042278144985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1628",
+      "stop_code": "",
+      "stop_name": "\"Villepinte\"",
+      "stop_desc": "\"Gare (place de la) - 93078\"",
+      "stop_lat": "48.96316755011165",
+      "stop_lon": "2.5123878278590865",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2387",
+      "stop_code": "",
+      "stop_name": "\"Parc des Expositions\"",
+      "stop_desc": "\"Parc des expositions - 93078\"",
+      "stop_lat": "48.97352603245434",
+      "stop_lon": "2.5144841760344985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1706",
+      "stop_code": "",
+      "stop_name": "\"Aéroport Charles de Gaulle 1\"",
+      "stop_desc": "\"Aeroport de Roissy - 95527\"",
+      "stop_lat": "49.010399560630766",
+      "stop_lon": "2.5613573389778255",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "48431",
+      "stop_code": "",
+      "stop_name": "\"Aéroport Charles de Gaulle 2 TGV\"",
+      "stop_desc": "\"Gare de Roissy TGV - 95527\"",
+      "stop_lat": "49.00419858745406",
+      "stop_lon": "2.570946424019418",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1706",
+      "stop_code": "",
+      "stop_name": "\"Aéroport Charles de Gaulle 1\"",
+      "stop_desc": "\"Aeroport de Roissy - 95527\"",
+      "stop_lat": "49.010399560630766",
+      "stop_lon": "2.5613573389778255",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2387",
+      "stop_code": "",
+      "stop_name": "\"Parc des Expositions\"",
+      "stop_desc": "\"Parc des expositions - 93078\"",
+      "stop_lat": "48.97352603245434",
+      "stop_lon": "2.5144841760344985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1628",
+      "stop_code": "",
+      "stop_name": "\"Villepinte\"",
+      "stop_desc": "\"Gare (place de la) - 93078\"",
+      "stop_lat": "48.96316755011165",
+      "stop_lon": "2.5123878278590865",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1663",
+      "stop_code": "",
+      "stop_name": "\"Sevran-Beaudottes\"",
+      "stop_desc": "\"Dumon d'urville (rue) - 93071\"",
+      "stop_lat": "48.94773765113627",
+      "stop_lon": "2.524042278144985",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2105",
+      "stop_code": "",
+      "stop_name": "\"Aulnay-sous-Bois\"",
+      "stop_desc": "\"General De Gaulle (5 place) - 93005\"",
+      "stop_lat": "48.93210876263909",
+      "stop_lon": "2.493309562581326",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2070",
+      "stop_code": "",
+      "stop_name": "\"Blanc-Mesnil\"",
+      "stop_desc": "\"Pierre Semart (rue) - 93007\"",
+      "stop_lat": "48.93220116999761",
+      "stop_lon": "2.4767508712199087",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1999",
+      "stop_code": "",
+      "stop_name": "\"Drancy\"",
+      "stop_desc": "\"Anatole France (169 rue) - 93029\"",
+      "stop_lat": "48.932709809148555",
+      "stop_lon": "2.455105345174671",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2248",
+      "stop_code": "",
+      "stop_name": "\"Le Bourget\"",
+      "stop_desc": "\"Deportes (place des) - 93013\"",
+      "stop_lat": "48.93068622984963",
+      "stop_lon": "2.4256937696090213",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2054",
+      "stop_code": "",
+      "stop_name": "\"La Courneuve-Aubervilliers\"",
+      "stop_desc": "\"Place de la Gare - 93001\"",
+      "stop_lat": "48.924023434909344",
+      "stop_lon": "2.3844006646895615",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2243",
+      "stop_code": "",
+      "stop_name": "\"La Plaine-Stade de France\"",
+      "stop_desc": "\"Avenue du Stade de France - 93066\"",
+      "stop_lat": "48.918116641116775",
+      "stop_lon": "2.3626045185666085",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2077",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.880839205836494",
+      "stop_lon": "2.3565770153513177",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1968",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.861796247500266",
+      "stop_lon": "2.346803328707587",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1672",
+      "stop_code": "",
+      "stop_name": "\"Saint-Michel Notre-Dame\"",
+      "stop_desc": "\"Rue Xavier Privas - 75105\"",
+      "stop_lat": "48.85368078084504",
+      "stop_lon": "2.3442413996203175",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2333",
+      "stop_code": "",
+      "stop_name": "\"Luxembourg\"",
+      "stop_desc": "\"Rue de l'Abbé de l'Epée - 75105\"",
+      "stop_lat": "48.84677855902824",
+      "stop_lon": "2.3404411811761725",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2530",
+      "stop_code": "",
+      "stop_name": "\"Port-Royal\"",
+      "stop_desc": "\"47 avenue de l' Observatoire - 75105\"",
+      "stop_lat": "48.83988516597736",
+      "stop_lon": "2.336873440890153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1998",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.833315185891436",
+      "stop_lon": "2.3334427638299853",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2166",
+      "stop_code": "",
+      "stop_name": "\"Cité Universitaire\"",
+      "stop_desc": "\"24 boulevard Jourdan - 75114\"",
+      "stop_lat": "48.8207684717254",
+      "stop_lon": "2.339405170331693",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1960",
+      "stop_code": "",
+      "stop_name": "\"Gentilly\"",
+      "stop_desc": "\"Romain Rolland - 94037\"",
+      "stop_lat": "48.81524997901088",
+      "stop_lon": "2.3409291775330954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1921",
+      "stop_code": "",
+      "stop_name": "\"Laplace\"",
+      "stop_desc": "\"Maison des Examens - 94003\"",
+      "stop_lat": "48.8075834127928",
+      "stop_lon": "2.333349401533708",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2097",
+      "stop_code": "",
+      "stop_name": "\"Arcueil-Cachan\"",
+      "stop_desc": "\"Rue de la Gare - 94016\"",
+      "stop_lat": "48.798442507735004",
+      "stop_lon": "2.328044198978203",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2059",
+      "stop_code": "",
+      "stop_name": "\"Bagneux\"",
+      "stop_desc": "\"Avenue Aristide Briand - 94016\"",
+      "stop_lat": "48.793228767976906",
+      "stop_lon": "2.3208488828224305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2006",
+      "stop_code": "",
+      "stop_name": "\"Bourg-la-Reine\"",
+      "stop_desc": "\"Rue des Blagis - 92014\"",
+      "stop_lat": "48.78005093776892",
+      "stop_lon": "2.3121626259597874",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2540",
+      "stop_code": "",
+      "stop_name": "\"Sceaux\"",
+      "stop_desc": "\"Rue Jean-Louis Sinet - 92071\"",
+      "stop_lat": "48.78148494919581",
+      "stop_lon": "2.2972966908534893",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2197",
+      "stop_code": "",
+      "stop_name": "\"Fontenay-aux-Roses\"",
+      "stop_desc": "\"École Normale Supérieure - 92032\"",
+      "stop_lat": "48.787630847890284",
+      "stop_lon": "2.2920959929667464",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2450",
+      "stop_code": "",
+      "stop_name": "\"Robinson\"",
+      "stop_desc": "\"Gare (2 Avenue de la) - 92071\"",
+      "stop_lat": "48.78003132105507",
+      "stop_lon": "2.281059378471848",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2197",
+      "stop_code": "",
+      "stop_name": "\"Fontenay-aux-Roses\"",
+      "stop_desc": "\"École Normale Supérieure - 92032\"",
+      "stop_lat": "48.787630847890284",
+      "stop_lon": "2.2920959929667464",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2540",
+      "stop_code": "",
+      "stop_name": "\"Sceaux\"",
+      "stop_desc": "\"Rue Jean-Louis Sinet - 92071\"",
+      "stop_lat": "48.78148494919581",
+      "stop_lon": "2.2972966908534893",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2006",
+      "stop_code": "",
+      "stop_name": "\"Bourg-la-Reine\"",
+      "stop_desc": "\"Rue des Blagis - 92014\"",
+      "stop_lat": "48.78005093776892",
+      "stop_lon": "2.3121626259597874",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2059",
+      "stop_code": "",
+      "stop_name": "\"Bagneux\"",
+      "stop_desc": "\"Avenue Aristide Briand - 94016\"",
+      "stop_lat": "48.793228767976906",
+      "stop_lon": "2.3208488828224305",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2097",
+      "stop_code": "",
+      "stop_name": "\"Arcueil-Cachan\"",
+      "stop_desc": "\"Rue de la Gare - 94016\"",
+      "stop_lat": "48.798442507735004",
+      "stop_lon": "2.328044198978203",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1921",
+      "stop_code": "",
+      "stop_name": "\"Laplace\"",
+      "stop_desc": "\"Maison des Examens - 94003\"",
+      "stop_lat": "48.8075834127928",
+      "stop_lon": "2.333349401533708",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1960",
+      "stop_code": "",
+      "stop_name": "\"Gentilly\"",
+      "stop_desc": "\"Romain Rolland - 94037\"",
+      "stop_lat": "48.81524997901088",
+      "stop_lon": "2.3409291775330954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2166",
+      "stop_code": "",
+      "stop_name": "\"Cité Universitaire\"",
+      "stop_desc": "\"24 boulevard Jourdan - 75114\"",
+      "stop_lat": "48.8207684717254",
+      "stop_lon": "2.339405170331693",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1998",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.833315185891436",
+      "stop_lon": "2.3334427638299853",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2530",
+      "stop_code": "",
+      "stop_name": "\"Port-Royal\"",
+      "stop_desc": "\"47 avenue de l' Observatoire - 75105\"",
+      "stop_lat": "48.83988516597736",
+      "stop_lon": "2.336873440890153",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2333",
+      "stop_code": "",
+      "stop_name": "\"Luxembourg\"",
+      "stop_desc": "\"Rue de l'Abbé de l'Epée - 75105\"",
+      "stop_lat": "48.84677855902824",
+      "stop_lon": "2.3404411811761725",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1672",
+      "stop_code": "",
+      "stop_name": "\"Saint-Michel Notre-Dame\"",
+      "stop_desc": "\"Rue Xavier Privas - 75105\"",
+      "stop_lat": "48.85368078084504",
+      "stop_lon": "2.3442413996203175",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1968",
+      "stop_code": "",
+      "stop_name": "\"Châtelet-Les Halles\"",
+      "stop_desc": "\"Place Marguerite de Navarre - 75101\"",
+      "stop_lat": "48.861796247500266",
+      "stop_lon": "2.346803328707587",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2077",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.880839205836494",
+      "stop_lon": "2.3565770153513177",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2243",
+      "stop_code": "",
+      "stop_name": "\"La Plaine-Stade de France\"",
+      "stop_desc": "\"Avenue du Stade de France - 93066\"",
+      "stop_lat": "48.918116641116775",
+      "stop_lon": "2.3626045185666085",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2054",
+      "stop_code": "",
+      "stop_name": "\"La Courneuve-Aubervilliers\"",
+      "stop_desc": "\"Place de la Gare - 93001\"",
+      "stop_lat": "48.924023434909344",
+      "stop_lon": "2.3844006646895615",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2248",
+      "stop_code": "",
+      "stop_name": "\"Le Bourget\"",
+      "stop_desc": "\"Deportes (place des) - 93013\"",
+      "stop_lat": "48.93068622984963",
+      "stop_lon": "2.4256937696090213",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1999",
+      "stop_code": "",
+      "stop_name": "\"Drancy\"",
+      "stop_desc": "\"Anatole France (169 rue) - 93029\"",
+      "stop_lat": "48.932709809148555",
+      "stop_lon": "2.455105345174671",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2070",
+      "stop_code": "",
+      "stop_name": "\"Blanc-Mesnil\"",
+      "stop_desc": "\"Pierre Semart (rue) - 93007\"",
+      "stop_lat": "48.93220116999761",
+      "stop_lon": "2.4767508712199087",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2105",
+      "stop_code": "",
+      "stop_name": "\"Aulnay-sous-Bois\"",
+      "stop_desc": "\"General De Gaulle (5 place) - 93005\"",
+      "stop_lat": "48.93210876263909",
+      "stop_lon": "2.493309562581326",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1664",
+      "stop_code": "",
+      "stop_name": "\"Sevran Livry\"",
+      "stop_desc": "\"Gare (place de la) - 93071\"",
+      "stop_lat": "48.936262249020956",
+      "stop_lon": "2.534722783456677",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2503",
+      "stop_code": "",
+      "stop_name": "\"Vert-Galant\"",
+      "stop_desc": "\"Gare (place de la) - 93078\"",
+      "stop_lat": "48.94425695476604",
+      "stop_lon": "2.5668557510229473",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1697",
+      "stop_code": "",
+      "stop_name": "\"Villeparisis\"",
+      "stop_desc": "\"19 mars 1962 (2 place du) - 77514\"",
+      "stop_lat": "48.95316034963005",
+      "stop_lon": "2.6027285218819407",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1821",
+      "stop_code": "",
+      "stop_name": "\"Mitry-Claye\"",
+      "stop_desc": "\"Gare (place de la) - 77294\"",
+      "stop_lat": "48.97585585992235",
+      "stop_lon": "2.642366301900864",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

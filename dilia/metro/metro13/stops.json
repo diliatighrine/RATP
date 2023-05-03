@@ -1,0 +1,494 @@
+{
+  "stops": [
+    {
+      "stop_id": "140078",
+      "stop_code": "",
+      "stop_name": "\"Saint-Denis-Université\"",
+      "stop_desc": "\"Gare Routière - 93066\"",
+      "stop_lat": "48.94611087248738",
+      "stop_lon": "2.3620451929905992",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1716",
+      "stop_code": "",
+      "stop_name": "\"Basilique de Saint-Denis\"",
+      "stop_desc": "\"Place du Cacquet - 93066\"",
+      "stop_lat": "48.936477492650496",
+      "stop_lon": "2.3596397453045825",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1717",
+      "stop_code": "",
+      "stop_name": "\"Saint-Denis - Porte de Paris\"",
+      "stop_desc": "\"Stade de France - 93066\"",
+      "stop_lat": "48.92992666527093",
+      "stop_lon": "2.3561861491888694",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1692060",
+      "stop_code": "",
+      "stop_name": "\"Carrefour-Pleyel\"",
+      "stop_desc": "\"Centre Paris - Pleyel - 93066\"",
+      "stop_lat": "48.9199435050834",
+      "stop_lon": "2.3439094197858905",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1874",
+      "stop_code": "",
+      "stop_name": "\"Mairie de Saint-Ouen\"",
+      "stop_desc": "\"Place de la République - 93070\"",
+      "stop_lat": "48.91162168038383",
+      "stop_lon": "2.3337369648420916",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2214",
+      "stop_code": "",
+      "stop_name": "\"Garibaldi\"",
+      "stop_desc": "\"Avenue Gabriel Péri - 93070\"",
+      "stop_lat": "48.906382164226436",
+      "stop_lon": "2.3319104734589318",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2426",
+      "stop_code": "",
+      "stop_name": "\"Porte de Saint-Ouen\"",
+      "stop_desc": "\"Rue Liebniz - 75118\"",
+      "stop_lat": "48.89751173277147",
+      "stop_lon": "2.329021647212208",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2284",
+      "stop_code": "",
+      "stop_name": "\"Guy-Môquet\"",
+      "stop_desc": "\"86 avenue de Saint-Ouen - 75118\"",
+      "stop_lat": "48.893009056051206",
+      "stop_lon": "2.3274958394904894",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2536",
+      "stop_code": "",
+      "stop_name": "\"La Fourche\"",
+      "stop_desc": "\"Avenue de Clichy - 75117\"",
+      "stop_lat": "48.8874368425293",
+      "stop_lon": "2.3257252220174083",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2406",
+      "stop_code": "",
+      "stop_name": "\"Place de Clichy\"",
+      "stop_desc": "\"Terre-plein face au 7 place de Clichy - 75109\"",
+      "stop_lat": "48.883203999876585",
+      "stop_lon": "2.3272660246411383",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1858",
+      "stop_code": "",
+      "stop_name": "\"Liège\"",
+      "stop_desc": "\"Terre-plein face au 21 rue de Liège - 75108\"",
+      "stop_lat": "48.87953716638082",
+      "stop_lon": "2.3268579472729614",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1724",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.876067814352574",
+      "stop_lon": "2.324188100771013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1820",
+      "stop_code": "",
+      "stop_name": "\"Miromesnil\"",
+      "stop_desc": "\"29 rue de la Boétie - 75108\"",
+      "stop_lat": "48.87346032551137",
+      "stop_lon": "2.3160412889150637",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2144",
+      "stop_code": "",
+      "stop_name": "\"Champs-Elysées-Clémenceau\"",
+      "stop_desc": "\"Clémenceau (place) - 75108\"",
+      "stop_lat": "48.867366570469784",
+      "stop_lon": "2.3141910633936584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2293",
+      "stop_code": "",
+      "stop_name": "\"Invalides\"",
+      "stop_desc": "\"Rue de l' Université - 75107\"",
+      "stop_lat": "48.86085078966753",
+      "stop_lon": "2.314548112626649",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1638",
+      "stop_code": "",
+      "stop_name": "\"Varenne\"",
+      "stop_desc": "\"13 boulevard des Invalides - 75107\"",
+      "stop_lat": "48.85639306919846",
+      "stop_lon": "2.3147543648102884",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2464",
+      "stop_code": "",
+      "stop_name": "\"Saint-François-Xavier\"",
+      "stop_desc": "\"Avenue de Villars - 75107\"",
+      "stop_lat": "48.8509825598235",
+      "stop_lon": "2.31442986460027",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1928",
+      "stop_code": "",
+      "stop_name": "\"Duroc\"",
+      "stop_desc": "\"bd du Montparnasse - 75107\"",
+      "stop_lat": "48.84699250092279",
+      "stop_lon": "2.3165423447702307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1827",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place  SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.84207702018728",
+      "stop_lon": "2.321010449555117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2203",
+      "stop_code": "",
+      "stop_name": "\"Gaîté\"",
+      "stop_desc": "\"Rue de la Gaîté - 75114\"",
+      "stop_lat": "48.838751821388634",
+      "stop_lon": "2.322509186224712",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2397",
+      "stop_code": "",
+      "stop_name": "\"Pernety\"",
+      "stop_desc": "\"Rue Niepce - 75114\"",
+      "stop_lat": "48.833933819810916",
+      "stop_lon": "2.31790897216328",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2372",
+      "stop_code": "",
+      "stop_name": "\"Plaisance\"",
+      "stop_desc": "\"Rue Raymond Losserand - 75114\"",
+      "stop_lat": "48.83175809378841",
+      "stop_lon": "2.3138665498481625",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2427",
+      "stop_code": "",
+      "stop_name": "\"Porte de Vanves\"",
+      "stop_desc": "\"9 boulevard Brune - 75114\"",
+      "stop_lat": "48.82776532658967",
+      "stop_lon": "2.3043123507630607",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1879",
+      "stop_code": "",
+      "stop_name": "\"Malakoff-Plateau de Vanves\"",
+      "stop_desc": "\"r. Jean Bleuzen - 92020\"",
+      "stop_lat": "48.8224426939998",
+      "stop_lon": "2.2979321053287274",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1880",
+      "stop_code": "",
+      "stop_name": "\"Malakoff-Rue Etienne Dolet\"",
+      "stop_desc": "\"87 rue Guy Môquet - 92020\"",
+      "stop_lat": "48.81470406056698",
+      "stop_lon": "2.2972847301706394",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1969",
+      "stop_code": "",
+      "stop_name": "\"Châtillon Montrouge\"",
+      "stop_desc": "\"r. de l'Avenir - 92020\"",
+      "stop_lat": "48.810283363510756",
+      "stop_lon": "2.3012888709759522",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1880",
+      "stop_code": "",
+      "stop_name": "\"Malakoff-Rue Etienne Dolet\"",
+      "stop_desc": "\"87 rue Guy Môquet - 92020\"",
+      "stop_lat": "48.81470406056698",
+      "stop_lon": "2.2972847301706394",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1879",
+      "stop_code": "",
+      "stop_name": "\"Malakoff-Plateau de Vanves\"",
+      "stop_desc": "\"r. Jean Bleuzen - 92020\"",
+      "stop_lat": "48.8224426939998",
+      "stop_lon": "2.2979321053287274",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2427",
+      "stop_code": "",
+      "stop_name": "\"Porte de Vanves\"",
+      "stop_desc": "\"9 boulevard Brune - 75114\"",
+      "stop_lat": "48.82776532658967",
+      "stop_lon": "2.3043123507630607",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2372",
+      "stop_code": "",
+      "stop_name": "\"Plaisance\"",
+      "stop_desc": "\"Rue Raymond Losserand - 75114\"",
+      "stop_lat": "48.83175809378841",
+      "stop_lon": "2.3138665498481625",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2397",
+      "stop_code": "",
+      "stop_name": "\"Pernety\"",
+      "stop_desc": "\"Rue Niepce - 75114\"",
+      "stop_lat": "48.833933819810916",
+      "stop_lon": "2.31790897216328",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2203",
+      "stop_code": "",
+      "stop_name": "\"Gaîté\"",
+      "stop_desc": "\"Rue de la Gaîté - 75114\"",
+      "stop_lat": "48.838751821388634",
+      "stop_lon": "2.322509186224712",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1827",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place  SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.84207702018728",
+      "stop_lon": "2.321010449555117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1928",
+      "stop_code": "",
+      "stop_name": "\"Duroc\"",
+      "stop_desc": "\"bd du Montparnasse - 75107\"",
+      "stop_lat": "48.84699250092279",
+      "stop_lon": "2.3165423447702307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2464",
+      "stop_code": "",
+      "stop_name": "\"Saint-François-Xavier\"",
+      "stop_desc": "\"Avenue de Villars - 75107\"",
+      "stop_lat": "48.8509825598235",
+      "stop_lon": "2.31442986460027",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1638",
+      "stop_code": "",
+      "stop_name": "\"Varenne\"",
+      "stop_desc": "\"13 boulevard des Invalides - 75107\"",
+      "stop_lat": "48.85639306919846",
+      "stop_lon": "2.3147543648102884",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2293",
+      "stop_code": "",
+      "stop_name": "\"Invalides\"",
+      "stop_desc": "\"Rue de l' Université - 75107\"",
+      "stop_lat": "48.86085078966753",
+      "stop_lon": "2.314548112626649",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2144",
+      "stop_code": "",
+      "stop_name": "\"Champs-Elysées-Clémenceau\"",
+      "stop_desc": "\"Clémenceau (place) - 75108\"",
+      "stop_lat": "48.867366570469784",
+      "stop_lon": "2.3141910633936584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1820",
+      "stop_code": "",
+      "stop_name": "\"Miromesnil\"",
+      "stop_desc": "\"29 rue de la Boétie - 75108\"",
+      "stop_lat": "48.87346032551137",
+      "stop_lon": "2.3160412889150637",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1724",
+      "stop_code": "",
+      "stop_name": "\"Saint-Lazare\"",
+      "stop_desc": "\"Rue de l' Arcade - 75108\"",
+      "stop_lat": "48.876067814352574",
+      "stop_lon": "2.324188100771013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1858",
+      "stop_code": "",
+      "stop_name": "\"Liège\"",
+      "stop_desc": "\"Terre-plein face au 21 rue de Liège - 75108\"",
+      "stop_lat": "48.87953716638082",
+      "stop_lon": "2.3268579472729614",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2406",
+      "stop_code": "",
+      "stop_name": "\"Place de Clichy\"",
+      "stop_desc": "\"Terre-plein face au 7 place de Clichy - 75109\"",
+      "stop_lat": "48.883203999876585",
+      "stop_lon": "2.3272660246411383",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2536",
+      "stop_code": "",
+      "stop_name": "\"La Fourche\"",
+      "stop_desc": "\"Avenue de Clichy - 75117\"",
+      "stop_lat": "48.8874368425293",
+      "stop_lon": "2.3257252220174083",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2165",
+      "stop_code": "",
+      "stop_name": "\"Brochant\"",
+      "stop_desc": "\"Marché des Batignolles - 75117\"",
+      "stop_lat": "48.89062663302413",
+      "stop_lon": "2.320191121275328",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1741",
+      "stop_code": "",
+      "stop_name": "\"Porte de Clichy\"",
+      "stop_desc": "\"2 avenue de la Porte de Clichy - 75117\"",
+      "stop_lat": "48.894436060297956",
+      "stop_lon": "2.313565665465226",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1872",
+      "stop_code": "",
+      "stop_name": "\"Mairie de Clichy\"",
+      "stop_desc": "\"Hôpital Gouin - 92024\"",
+      "stop_lat": "48.90400543242958",
+      "stop_lon": "2.3053681208668606",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2202",
+      "stop_code": "",
+      "stop_name": "\"Gabriel-Péri\"",
+      "stop_desc": "\"Gare routière - 92004\"",
+      "stop_lat": "48.916574835983226",
+      "stop_lon": "2.2943289646870606",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1662795",
+      "stop_code": "",
+      "stop_name": "\"Les Agnettes\"",
+      "stop_desc": "\"Angle rue des Bas et Rue Louis Calmel - 92004\"",
+      "stop_lat": "48.92291633150906",
+      "stop_lon": "2.285963896576634",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1662797",
+      "stop_code": "",
+      "stop_name": "\"Asnières-Gennevilliers Les Courtilles\"",
+      "stop_desc": "\"Angle Boulevard Pierre de Coubertin / Avenue Lucien Lanternier - 92004\"",
+      "stop_lat": "48.93029362287076",
+      "stop_lon": "2.2837606331952487",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

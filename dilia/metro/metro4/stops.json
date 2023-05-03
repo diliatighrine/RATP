@@ -1,0 +1,534 @@
+{
+  "stops": [
+    {
+      "stop_id": "4028974",
+      "stop_code": "",
+      "stop_name": "\"Mairie de Montrouge\"",
+      "stop_desc": "\"Rue Louis Rolland - 92049\"",
+      "stop_lat": "48.81846633711334",
+      "stop_lon": "2.319643218617825",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1735",
+      "stop_code": "",
+      "stop_name": "\"Porte d'Orléans (Général Leclerc)\"",
+      "stop_desc": "\"Rue de la Légion Etrangère - 75114\"",
+      "stop_lat": "48.82281706023495",
+      "stop_lon": "2.325072625148001",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2159",
+      "stop_code": "",
+      "stop_name": "\"Alésia\"",
+      "stop_desc": "\"Place Victor et Hélène Basch - 75114\"",
+      "stop_lat": "48.82806601968645",
+      "stop_lon": "2.326827420050836",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1828",
+      "stop_code": "",
+      "stop_name": "\"Mouton-Duvernet\"",
+      "stop_desc": "\"42 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.832191599269656",
+      "stop_lon": "2.3304069926293205",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1996",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.83427681284463",
+      "stop_lon": "2.332203797304786",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2525",
+      "stop_code": "",
+      "stop_name": "\"Raspail\"",
+      "stop_desc": "\"Boulevard Edgard Quinet - 75114\"",
+      "stop_lat": "48.83915698149679",
+      "stop_lon": "2.330474151162931",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2502",
+      "stop_code": "",
+      "stop_name": "\"Vavin\"",
+      "stop_desc": "\"108 boulevard du Montparnasse - 75106\"",
+      "stop_lat": "48.84205985758205",
+      "stop_lon": "2.328867050437212",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1824",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.844189508526796",
+      "stop_lon": "2.324441232433701",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1731",
+      "stop_code": "",
+      "stop_name": "\"Saint-Placide\"",
+      "stop_desc": "\"Rue de Rennes - 75106\"",
+      "stop_lat": "48.84701184016864",
+      "stop_lon": "2.327055111355132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1733",
+      "stop_code": "",
+      "stop_name": "\"Saint-Sulpice\"",
+      "stop_desc": "\"Rue de Rennes - 75106\"",
+      "stop_lat": "48.8511463550549",
+      "stop_lon": "2.3309628563664644",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1721",
+      "stop_code": "",
+      "stop_name": "\"Saint-Germain des Prés\"",
+      "stop_desc": "\"Ecole des Beaux Arts - 75106\"",
+      "stop_lat": "48.85344723773834",
+      "stop_lon": "2.333046326044867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2312",
+      "stop_code": "",
+      "stop_name": "\"Odéon\"",
+      "stop_desc": "\"Carrefour de l' Odéon - 75106\"",
+      "stop_lat": "48.85219804523044",
+      "stop_lon": "2.33878000304498",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1729",
+      "stop_code": "",
+      "stop_name": "\"Saint-Michel\"",
+      "stop_desc": "\"Place Saint-Michel - 75105\"",
+      "stop_lat": "48.853599907885794",
+      "stop_lon": "2.3439962410940125",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2230",
+      "stop_code": "",
+      "stop_name": "\"Cité\"",
+      "stop_desc": "\"2 Place Louis Lepine - 75104\"",
+      "stop_lat": "48.85568485028629",
+      "stop_lon": "2.3462029295287157",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1964",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85830005598138",
+      "stop_lon": "2.347865087577108",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1855",
+      "stop_code": "",
+      "stop_name": "\"Les Halles\"",
+      "stop_desc": "\"Rue Turbigo - 75101\"",
+      "stop_lat": "48.862011970720516",
+      "stop_lon": "2.3464764519062062",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1934",
+      "stop_code": "",
+      "stop_name": "\"Etienne Marcel\"",
+      "stop_desc": "\"14 rue Turbigo - 75101\"",
+      "stop_lat": "48.86371036646956",
+      "stop_lon": "2.3489831961271017",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2374",
+      "stop_code": "",
+      "stop_name": "\"Réaumur-Sébastopol\"",
+      "stop_desc": "\"Square Emile Chantemps - 75102\"",
+      "stop_lat": "48.86604666963103",
+      "stop_lon": "2.352620954015186",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2487",
+      "stop_code": "",
+      "stop_name": "\"Strasbourg-Saint-Denis\"",
+      "stop_desc": "\"Porte Saint-Martin - 75102\"",
+      "stop_lat": "48.86963236518746",
+      "stop_lon": "2.35450206308924",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2153",
+      "stop_code": "",
+      "stop_name": "\"Château d'Eau\"",
+      "stop_desc": "\"Boulevard de Strasbourg - 75110\"",
+      "stop_lat": "48.8724541509199",
+      "stop_lon": "2.3560561681302907",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2208",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.87669583602489",
+      "stop_lon": "2.3579925105504023",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2212",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.87974306422535",
+      "stop_lon": "2.3546008104722334",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2061",
+      "stop_code": "",
+      "stop_name": "\"Barbès-Rochechouart\"",
+      "stop_desc": "\"Boulevard de la Chapelle - 75109\"",
+      "stop_lat": "48.883931769934414",
+      "stop_lon": "2.3493557085996466",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2152",
+      "stop_code": "",
+      "stop_name": "\"Château Rouge\"",
+      "stop_desc": "\"Rue Custine - 75118\"",
+      "stop_lat": "48.887086283050444",
+      "stop_lon": "2.3493700732513783",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2535",
+      "stop_code": "",
+      "stop_name": "\"Marcadet-Poissonniers\"",
+      "stop_desc": "\"88 boulevard Barbès - 75118\"",
+      "stop_lat": "48.891543930630554",
+      "stop_lon": "2.3493711153819112",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1668",
+      "stop_code": "",
+      "stop_name": "\"Simplon\"",
+      "stop_desc": "\"38 boulevard Ornano - 75118\"",
+      "stop_lat": "48.894042554516574",
+      "stop_lon": "2.3473135785509056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2420",
+      "stop_code": "",
+      "stop_name": "\"Porte de Clignancourt\"",
+      "stop_desc": "\"Rue Belliard - 75118\"",
+      "stop_lat": "48.89797017040717",
+      "stop_lon": "2.3439883834332904",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1668",
+      "stop_code": "",
+      "stop_name": "\"Simplon\"",
+      "stop_desc": "\"38 boulevard Ornano - 75118\"",
+      "stop_lat": "48.894042554516574",
+      "stop_lon": "2.3473135785509056",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2535",
+      "stop_code": "",
+      "stop_name": "\"Marcadet-Poissonniers\"",
+      "stop_desc": "\"88 boulevard Barbès - 75118\"",
+      "stop_lat": "48.891543930630554",
+      "stop_lon": "2.3493711153819112",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2152",
+      "stop_code": "",
+      "stop_name": "\"Château Rouge\"",
+      "stop_desc": "\"Rue Custine - 75118\"",
+      "stop_lat": "48.887086283050444",
+      "stop_lon": "2.3493700732513783",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2061",
+      "stop_code": "",
+      "stop_name": "\"Barbès-Rochechouart\"",
+      "stop_desc": "\"Boulevard de la Chapelle - 75109\"",
+      "stop_lat": "48.883931769934414",
+      "stop_lon": "2.3493557085996466",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2212",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.87974306422535",
+      "stop_lon": "2.3546008104722334",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2208",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.87669583602489",
+      "stop_lon": "2.3579925105504023",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2153",
+      "stop_code": "",
+      "stop_name": "\"Château d'Eau\"",
+      "stop_desc": "\"Boulevard de Strasbourg - 75110\"",
+      "stop_lat": "48.8724541509199",
+      "stop_lon": "2.3560561681302907",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2487",
+      "stop_code": "",
+      "stop_name": "\"Strasbourg-Saint-Denis\"",
+      "stop_desc": "\"Porte Saint-Martin - 75102\"",
+      "stop_lat": "48.86963236518746",
+      "stop_lon": "2.35450206308924",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2374",
+      "stop_code": "",
+      "stop_name": "\"Réaumur-Sébastopol\"",
+      "stop_desc": "\"Square Emile Chantemps - 75102\"",
+      "stop_lat": "48.86604666963103",
+      "stop_lon": "2.352620954015186",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1934",
+      "stop_code": "",
+      "stop_name": "\"Etienne Marcel\"",
+      "stop_desc": "\"14 rue Turbigo - 75101\"",
+      "stop_lat": "48.86371036646956",
+      "stop_lon": "2.3489831961271017",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1855",
+      "stop_code": "",
+      "stop_name": "\"Les Halles\"",
+      "stop_desc": "\"Rue Turbigo - 75101\"",
+      "stop_lat": "48.862011970720516",
+      "stop_lon": "2.3464764519062062",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1964",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85830005598138",
+      "stop_lon": "2.347865087577108",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2230",
+      "stop_code": "",
+      "stop_name": "\"Cité\"",
+      "stop_desc": "\"2 Place Louis Lepine - 75104\"",
+      "stop_lat": "48.85568485028629",
+      "stop_lon": "2.3462029295287157",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1729",
+      "stop_code": "",
+      "stop_name": "\"Saint-Michel\"",
+      "stop_desc": "\"Place Saint-Michel - 75105\"",
+      "stop_lat": "48.853599907885794",
+      "stop_lon": "2.3439962410940125",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2312",
+      "stop_code": "",
+      "stop_name": "\"Odéon\"",
+      "stop_desc": "\"Carrefour de l' Odéon - 75106\"",
+      "stop_lat": "48.85219804523044",
+      "stop_lon": "2.33878000304498",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1721",
+      "stop_code": "",
+      "stop_name": "\"Saint-Germain des Prés\"",
+      "stop_desc": "\"Ecole des Beaux Arts - 75106\"",
+      "stop_lat": "48.85344723773834",
+      "stop_lon": "2.333046326044867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1733",
+      "stop_code": "",
+      "stop_name": "\"Saint-Sulpice\"",
+      "stop_desc": "\"Rue de Rennes - 75106\"",
+      "stop_lat": "48.8511463550549",
+      "stop_lon": "2.3309628563664644",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1731",
+      "stop_code": "",
+      "stop_name": "\"Saint-Placide\"",
+      "stop_desc": "\"Rue de Rennes - 75106\"",
+      "stop_lat": "48.84701184016864",
+      "stop_lon": "2.327055111355132",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1824",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.844189508526796",
+      "stop_lon": "2.324441232433701",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2502",
+      "stop_code": "",
+      "stop_name": "\"Vavin\"",
+      "stop_desc": "\"108 boulevard du Montparnasse - 75106\"",
+      "stop_lat": "48.84205985758205",
+      "stop_lon": "2.328867050437212",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2525",
+      "stop_code": "",
+      "stop_name": "\"Raspail\"",
+      "stop_desc": "\"Boulevard Edgard Quinet - 75114\"",
+      "stop_lat": "48.83915698149679",
+      "stop_lon": "2.330474151162931",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1996",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.83427681284463",
+      "stop_lon": "2.332203797304786",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1828",
+      "stop_code": "",
+      "stop_name": "\"Mouton-Duvernet\"",
+      "stop_desc": "\"42 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.832191599269656",
+      "stop_lon": "2.3304069926293205",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2159",
+      "stop_code": "",
+      "stop_name": "\"Alésia\"",
+      "stop_desc": "\"Place Victor et Hélène Basch - 75114\"",
+      "stop_lat": "48.82806601968645",
+      "stop_lon": "2.326827420050836",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1735",
+      "stop_code": "",
+      "stop_name": "\"Porte d'Orléans (Général Leclerc)\"",
+      "stop_desc": "\"Rue de la Légion Etrangère - 75114\"",
+      "stop_lat": "48.82281706023495",
+      "stop_lon": "2.325072625148001",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4028974",
+      "stop_code": "",
+      "stop_name": "\"Mairie de Montrouge\"",
+      "stop_desc": "\"Rue Louis Rolland - 92049\"",
+      "stop_lat": "48.81846633711334",
+      "stop_lon": "2.319643218617825",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

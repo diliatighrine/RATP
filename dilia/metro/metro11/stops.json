@@ -1,0 +1,254 @@
+{
+  "stops": [
+    {
+      "stop_id": "2220",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.858857284381365",
+      "stop_lon": "2.347769856742684",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2289",
+      "stop_code": "",
+      "stop_name": "\"Hôtel de Ville\"",
+      "stop_desc": "\"Rue du Renard - 75104\"",
+      "stop_lat": "48.85780537313629",
+      "stop_lon": "2.351460776513565",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1761",
+      "stop_code": "",
+      "stop_name": "\"Rambuteau\"",
+      "stop_desc": "\"Centre Georges Pompidou - 75104\"",
+      "stop_lat": "48.86119339564163",
+      "stop_lon": "2.3532869598707133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2051",
+      "stop_code": "",
+      "stop_name": "\"Arts-et-Métiers\"",
+      "stop_desc": "\"Rue des Vertus - 75103\"",
+      "stop_lat": "48.86538117604685",
+      "stop_lon": "2.3556449312068772",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "967988",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.867240185361254",
+      "stop_lon": "2.3630564459452406",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2218",
+      "stop_code": "",
+      "stop_name": "\"Goncourt (Hôpital Saint-Louis)\"",
+      "stop_desc": "\"152 avenue Parmentier - 75110\"",
+      "stop_lat": "48.87001535524704",
+      "stop_lon": "2.3707687990214654",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2066",
+      "stop_code": "",
+      "stop_name": "\"Belleville\"",
+      "stop_desc": "\"Terre-plein face au 1 boulevard de la Villette - 75119\"",
+      "stop_lat": "48.87194579797485",
+      "stop_lon": "2.3767510413738",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1758",
+      "stop_code": "",
+      "stop_name": "\"Pyrénées\"",
+      "stop_desc": "\"401 rue des Pyrénées - 75120\"",
+      "stop_lat": "48.87382117233675",
+      "stop_lon": "2.384886372197903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1905",
+      "stop_code": "",
+      "stop_name": "\"Jourdain\"",
+      "stop_desc": "\"7 rue du Jourdain - 75120\"",
+      "stop_lat": "48.87524829462498",
+      "stop_lon": "2.389329434152641",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2408",
+      "stop_code": "",
+      "stop_name": "\"Place des Fêtes\"",
+      "stop_desc": "\"Rue de Crimée - 75119\"",
+      "stop_lat": "48.87672946890669",
+      "stop_lon": "2.393146031767842",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2492",
+      "stop_code": "",
+      "stop_name": "\"Télégraphe\"",
+      "stop_desc": "\"Rue de Belleville - 75120\"",
+      "stop_lat": "48.87552244924565",
+      "stop_lon": "2.3986765111449513",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2431",
+      "stop_code": "",
+      "stop_name": "\"Porte des Lilas\"",
+      "stop_desc": "\"Rue de Belleville - 75120\"",
+      "stop_lat": "48.87723471669558",
+      "stop_lon": "2.4065268430480917",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2271",
+      "stop_code": "",
+      "stop_name": "\"Mairie des Lilas\"",
+      "stop_desc": "\"Place du Colonel Fabien - 93045\"",
+      "stop_lat": "48.880051061772676",
+      "stop_lon": "2.415660206064229",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2431",
+      "stop_code": "",
+      "stop_name": "\"Porte des Lilas\"",
+      "stop_desc": "\"Rue de Belleville - 75120\"",
+      "stop_lat": "48.87723471669558",
+      "stop_lon": "2.4065268430480917",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2492",
+      "stop_code": "",
+      "stop_name": "\"Télégraphe\"",
+      "stop_desc": "\"Rue de Belleville - 75120\"",
+      "stop_lat": "48.87552244924565",
+      "stop_lon": "2.3986765111449513",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2408",
+      "stop_code": "",
+      "stop_name": "\"Place des Fêtes\"",
+      "stop_desc": "\"Rue de Crimée - 75119\"",
+      "stop_lat": "48.87672946890669",
+      "stop_lon": "2.393146031767842",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1905",
+      "stop_code": "",
+      "stop_name": "\"Jourdain\"",
+      "stop_desc": "\"7 rue du Jourdain - 75120\"",
+      "stop_lat": "48.87524829462498",
+      "stop_lon": "2.389329434152641",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1758",
+      "stop_code": "",
+      "stop_name": "\"Pyrénées\"",
+      "stop_desc": "\"401 rue des Pyrénées - 75120\"",
+      "stop_lat": "48.87382117233675",
+      "stop_lon": "2.384886372197903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2066",
+      "stop_code": "",
+      "stop_name": "\"Belleville\"",
+      "stop_desc": "\"Terre-plein face au 1 boulevard de la Villette - 75119\"",
+      "stop_lat": "48.87194579797485",
+      "stop_lon": "2.3767510413738",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2218",
+      "stop_code": "",
+      "stop_name": "\"Goncourt (Hôpital Saint-Louis)\"",
+      "stop_desc": "\"152 avenue Parmentier - 75110\"",
+      "stop_lat": "48.87001535524704",
+      "stop_lon": "2.3707687990214654",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "967988",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.867240185361254",
+      "stop_lon": "2.3630564459452406",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2051",
+      "stop_code": "",
+      "stop_name": "\"Arts-et-Métiers\"",
+      "stop_desc": "\"Rue des Vertus - 75103\"",
+      "stop_lat": "48.86538117604685",
+      "stop_lon": "2.3556449312068772",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1761",
+      "stop_code": "",
+      "stop_name": "\"Rambuteau\"",
+      "stop_desc": "\"Centre Georges Pompidou - 75104\"",
+      "stop_lat": "48.86119339564163",
+      "stop_lon": "2.3532869598707133",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2289",
+      "stop_code": "",
+      "stop_name": "\"Hôtel de Ville\"",
+      "stop_desc": "\"Rue du Renard - 75104\"",
+      "stop_lat": "48.85780537313629",
+      "stop_lon": "2.351460776513565",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2220",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.858857284381365",
+      "stop_lon": "2.347769856742684",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

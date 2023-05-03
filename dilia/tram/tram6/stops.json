@@ -1,0 +1,394 @@
+{
+  "stops": [
+    {
+      "stop_id": "6046775",
+      "stop_code": "",
+      "stop_name": "\"CHATILLON - MONTROUGE\"",
+      "stop_desc": "\"FACE 8 RUE DE L'AVENIR - 92020\"",
+      "stop_lat": "48.81036405003019",
+      "stop_lon": "2.300622024502954",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046777",
+      "stop_code": "",
+      "stop_name": "\"VAUBAN\"",
+      "stop_desc": "\"FACE 90 AVENUE DE PARIS - 92020\"",
+      "stop_lat": "48.807386925894036",
+      "stop_lon": "2.2941471022464484",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046779",
+      "stop_code": "",
+      "stop_name": "\"CENTRE DE CHATILLON\"",
+      "stop_desc": "\"AVENUE DE PARIS - 92020\"",
+      "stop_lat": "48.804293077197215",
+      "stop_lon": "2.2888295761075117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046781",
+      "stop_code": "",
+      "stop_name": "\"PARC ANDRE MALRAUX\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92020\"",
+      "stop_lat": "48.800344655032376",
+      "stop_lon": "2.282452350873194",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046783",
+      "stop_code": "",
+      "stop_name": "\"DIVISION LECLERC\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92020\"",
+      "stop_lat": "48.79472240380481",
+      "stop_lon": "2.2727995331580586",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046785",
+      "stop_code": "",
+      "stop_name": "\"SOLEIL LEVANT\"",
+      "stop_desc": "\"FACE 117 AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.79034870638296",
+      "stop_lon": "2.2632150365057453",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046787",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL BECLERE\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78699980386893",
+      "stop_lon": "2.255004290390715",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046790",
+      "stop_code": "",
+      "stop_name": "\"MAIL DE LA PLAINE\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78354280058734",
+      "stop_lon": "2.247230020871089",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046791",
+      "stop_code": "",
+      "stop_name": "\"PAVE BLANC (PARC NOVEOS)\"",
+      "stop_desc": "\"436 AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78093072867293",
+      "stop_lon": "2.2401624084492266",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046793",
+      "stop_code": "",
+      "stop_name": "\"GEORGES POMPIDOU\"",
+      "stop_desc": "\"RUE DE LA PORTE DE TRIVAUX - 92023\"",
+      "stop_lat": "48.78504458290174",
+      "stop_lon": "2.236985604688275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046796",
+      "stop_code": "",
+      "stop_name": "\"MEUDON-LA-FORET\"",
+      "stop_desc": "\"RUE DU PETIT CLAMART - 92048\"",
+      "stop_lat": "48.7835151718337",
+      "stop_lon": "2.2252781412703584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046798",
+      "stop_code": "",
+      "stop_name": "\"VELIZY 2\"",
+      "stop_desc": "\"AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.7850196042459",
+      "stop_lon": "2.219535130897101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046800",
+      "stop_code": "",
+      "stop_name": "\"DEWOITINE\"",
+      "stop_desc": "\"AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.78344057008095",
+      "stop_lon": "2.2134862950305427",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046802",
+      "stop_code": "",
+      "stop_name": "\"INOVEL PARC NORD\"",
+      "stop_desc": "\"7 AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.78154828594826",
+      "stop_lon": "2.2089482577333666",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046804",
+      "stop_code": "",
+      "stop_name": "\"LOUVOIS\"",
+      "stop_desc": "\"AVENUE DE L'EUROPE - 78640\"",
+      "stop_lat": "48.78023105200936",
+      "stop_lon": "2.1965890249373223",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046806",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE VELIZY\"",
+      "stop_desc": "\"70 AVENUE DE L'EUROPE - 78640\"",
+      "stop_lat": "48.78060270498228",
+      "stop_lon": "2.191732748882013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046808",
+      "stop_code": "",
+      "stop_name": "\"L'ONDE (MAISON DES ARTS)\"",
+      "stop_desc": "\"4 AVENUE LOUIS BREGUET - 78640\"",
+      "stop_lat": "48.782098728287224",
+      "stop_lon": "2.1807392815123343",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046810",
+      "stop_code": "",
+      "stop_name": "\"ROBERT WAGNER\"",
+      "stop_desc": "\"AVENUE ROBERT WAGNER - 78640\"",
+      "stop_lat": "48.78515236022436",
+      "stop_lon": "2.1790163043796027",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046813",
+      "stop_code": "",
+      "stop_name": "\"VIROFLAY - RIVE GAUCHE\"",
+      "stop_desc": "\"RUE RIEUSSEC - 78686\"",
+      "stop_lat": "48.80099637807135",
+      "stop_lon": "2.171199253908626",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046814",
+      "stop_code": "",
+      "stop_name": "\"VIROFLAY - RIVE DROITE\"",
+      "stop_desc": "\"RUE GABRIEL PERI - 78686\"",
+      "stop_lat": "48.805639799279135",
+      "stop_lon": "2.1688576460676927",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046813",
+      "stop_code": "",
+      "stop_name": "\"VIROFLAY - RIVE GAUCHE\"",
+      "stop_desc": "\"RUE RIEUSSEC - 78686\"",
+      "stop_lat": "48.80099637807135",
+      "stop_lon": "2.171199253908626",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046810",
+      "stop_code": "",
+      "stop_name": "\"ROBERT WAGNER\"",
+      "stop_desc": "\"AVENUE ROBERT WAGNER - 78640\"",
+      "stop_lat": "48.78515236022436",
+      "stop_lon": "2.1790163043796027",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046808",
+      "stop_code": "",
+      "stop_name": "\"L'ONDE (MAISON DES ARTS)\"",
+      "stop_desc": "\"4 AVENUE LOUIS BREGUET - 78640\"",
+      "stop_lat": "48.782098728287224",
+      "stop_lon": "2.1807392815123343",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046806",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE VELIZY\"",
+      "stop_desc": "\"70 AVENUE DE L'EUROPE - 78640\"",
+      "stop_lat": "48.78060270498228",
+      "stop_lon": "2.191732748882013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046804",
+      "stop_code": "",
+      "stop_name": "\"LOUVOIS\"",
+      "stop_desc": "\"AVENUE DE L'EUROPE - 78640\"",
+      "stop_lat": "48.78023105200936",
+      "stop_lon": "2.1965890249373223",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046802",
+      "stop_code": "",
+      "stop_name": "\"INOVEL PARC NORD\"",
+      "stop_desc": "\"7 AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.78154828594826",
+      "stop_lon": "2.2089482577333666",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046800",
+      "stop_code": "",
+      "stop_name": "\"DEWOITINE\"",
+      "stop_desc": "\"AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.78344057008095",
+      "stop_lon": "2.2134862950305427",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046798",
+      "stop_code": "",
+      "stop_name": "\"VELIZY 2\"",
+      "stop_desc": "\"AVENUE MORANE SAULNIER - 78640\"",
+      "stop_lat": "48.7850196042459",
+      "stop_lon": "2.219535130897101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046796",
+      "stop_code": "",
+      "stop_name": "\"MEUDON-LA-FORET\"",
+      "stop_desc": "\"RUE DU PETIT CLAMART - 92048\"",
+      "stop_lat": "48.7835151718337",
+      "stop_lon": "2.2252781412703584",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046793",
+      "stop_code": "",
+      "stop_name": "\"GEORGES POMPIDOU\"",
+      "stop_desc": "\"RUE DE LA PORTE DE TRIVAUX - 92023\"",
+      "stop_lat": "48.78504458290174",
+      "stop_lon": "2.236985604688275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046791",
+      "stop_code": "",
+      "stop_name": "\"PAVE BLANC (PARC NOVEOS)\"",
+      "stop_desc": "\"436 AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78093072867293",
+      "stop_lon": "2.2401624084492266",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046790",
+      "stop_code": "",
+      "stop_name": "\"MAIL DE LA PLAINE\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78354280058734",
+      "stop_lon": "2.247230020871089",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046787",
+      "stop_code": "",
+      "stop_name": "\"HOPITAL BECLERE\"",
+      "stop_desc": "\"AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.78699980386893",
+      "stop_lon": "2.255004290390715",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046785",
+      "stop_code": "",
+      "stop_name": "\"SOLEIL LEVANT\"",
+      "stop_desc": "\"FACE 117 AVENUE DU GENERAL DE GAULLE - 92023\"",
+      "stop_lat": "48.79034870638296",
+      "stop_lon": "2.2632150365057453",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046783",
+      "stop_code": "",
+      "stop_name": "\"DIVISION LECLERC\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92020\"",
+      "stop_lat": "48.79472240380481",
+      "stop_lon": "2.2727995331580586",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046781",
+      "stop_code": "",
+      "stop_name": "\"PARC ANDRE MALRAUX\"",
+      "stop_desc": "\"AVENUE DE VERDUN - 92020\"",
+      "stop_lat": "48.800344655032376",
+      "stop_lon": "2.282452350873194",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046779",
+      "stop_code": "",
+      "stop_name": "\"CENTRE DE CHATILLON\"",
+      "stop_desc": "\"AVENUE DE PARIS - 92020\"",
+      "stop_lat": "48.804293077197215",
+      "stop_lon": "2.2888295761075117",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046777",
+      "stop_code": "",
+      "stop_name": "\"VAUBAN\"",
+      "stop_desc": "\"FACE 90 AVENUE DE PARIS - 92020\"",
+      "stop_lat": "48.807386925894036",
+      "stop_lon": "2.2941471022464484",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "6046775",
+      "stop_code": "",
+      "stop_name": "\"CHATILLON - MONTROUGE\"",
+      "stop_desc": "\"FACE 8 RUE DE L'AVENIR - 92020\"",
+      "stop_lat": "48.81036405003019",
+      "stop_lon": "2.300622024502954",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

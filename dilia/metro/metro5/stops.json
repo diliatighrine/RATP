@@ -1,0 +1,434 @@
+{
+  "stops": [
+    {
+      "stop_id": "2403",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.8312826555064",
+      "stop_lon": "2.3554558703645068",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2017",
+      "stop_code": "",
+      "stop_name": "\"Campo-Formio\"",
+      "stop_desc": "\"106-112 boulevard de l' Hôpital - 75113\"",
+      "stop_lat": "48.835551216675434",
+      "stop_lon": "2.358752095191401",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1641",
+      "stop_code": "",
+      "stop_name": "\"Saint-Marcel\"",
+      "stop_desc": "\"La Pitié-Salpêtrière - 75113\"",
+      "stop_lat": "48.838516743515164",
+      "stop_lon": "2.360727550361784",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2206",
+      "stop_code": "",
+      "stop_name": "\"Gare d'Austerlitz\"",
+      "stop_desc": "\"SNCF/RER C grandes lignes et banlieue - 75113\"",
+      "stop_lat": "48.84341422414371",
+      "stop_lon": "2.3641883928676424",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1759",
+      "stop_code": "",
+      "stop_name": "\"Quai de la Rapée\"",
+      "stop_desc": "\"Quai de la Rapée - 75112\"",
+      "stop_lat": "48.84596603240645",
+      "stop_lon": "2.3669131797383116",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2063",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85338911229207",
+      "stop_lon": "2.3691646022087665",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2164",
+      "stop_code": "",
+      "stop_name": "\"Bréguet-Sabin\"",
+      "stop_desc": "\"Boulevard Richard Lenoir - 75111\"",
+      "stop_lat": "48.856803948960916",
+      "stop_lon": "2.3705968196318707",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2445",
+      "stop_code": "",
+      "stop_name": "\"Richard-Lenoir\"",
+      "stop_desc": "\"Boulevard Richar Lenoir - 75111\"",
+      "stop_lat": "48.860488412845775",
+      "stop_lon": "2.3719204375021397",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2310",
+      "stop_code": "",
+      "stop_name": "\"Oberkampf\"",
+      "stop_desc": "\"43 boulevard Voltaire - 75111\"",
+      "stop_lat": "48.86490241594044",
+      "stop_lon": "2.367537013481096",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2377",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86761748653104",
+      "stop_lon": "2.3638195214331654",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2294",
+      "stop_code": "",
+      "stop_name": "\"Jacques-Bonsergent\"",
+      "stop_desc": "\"bd de Magenta - 75110\"",
+      "stop_lat": "48.87070082326957",
+      "stop_lon": "2.3605786355872773",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2076",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.87681262539273",
+      "stop_lon": "2.3582514400829155",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2213",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.87938330261579",
+      "stop_lon": "2.356372081359306",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2485",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88415326312386",
+      "stop_lon": "2.3673574774663866",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1901",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88287621621258",
+      "stop_lon": "2.3705863361654225",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1922",
+      "stop_code": "",
+      "stop_name": "\"Laumière\"",
+      "stop_desc": "\"av. Jean Jaurès - 75119\"",
+      "stop_lat": "48.8849316105461",
+      "stop_lon": "2.379091246899838",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2382",
+      "stop_code": "",
+      "stop_name": "\"Ourcq\"",
+      "stop_desc": "\"161 avenue Jean Jaurès - 75119\"",
+      "stop_lat": "48.886923877470686",
+      "stop_lon": "2.3866564344034558",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2424",
+      "stop_code": "",
+      "stop_name": "\"Porte de Pantin\"",
+      "stop_desc": "\"Avenue Jean Jaurès - 75119\"",
+      "stop_lat": "48.888583980971895",
+      "stop_lon": "2.3924228757185415",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2287",
+      "stop_code": "",
+      "stop_name": "\"Hoche\"",
+      "stop_desc": "\"Centre Commercial - 93055\"",
+      "stop_lat": "48.891499383764256",
+      "stop_lon": "2.4031249606560765",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2257",
+      "stop_code": "",
+      "stop_name": "\"Eglise de Pantin\"",
+      "stop_desc": "\"Rue Charles Auffrey - 93055\"",
+      "stop_lat": "48.89363252797401",
+      "stop_lon": "2.41290026603005",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2072",
+      "stop_code": "",
+      "stop_name": "\"Bobigny-Pantin (Raymond Queneau)\"",
+      "stop_desc": "\"7 rue de Paris - 93008\"",
+      "stop_lat": "48.895799232549",
+      "stop_lon": "2.4248572983975945",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2089",
+      "stop_code": "",
+      "stop_name": "\"Bobigny-Pablo-Picasso\"",
+      "stop_desc": "\"Préfecture Trésorerie - 93008\"",
+      "stop_lat": "48.907147312551565",
+      "stop_lon": "2.44945750453114",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2072",
+      "stop_code": "",
+      "stop_name": "\"Bobigny-Pantin (Raymond Queneau)\"",
+      "stop_desc": "\"7 rue de Paris - 93008\"",
+      "stop_lat": "48.895799232549",
+      "stop_lon": "2.4248572983975945",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2257",
+      "stop_code": "",
+      "stop_name": "\"Eglise de Pantin\"",
+      "stop_desc": "\"Rue Charles Auffrey - 93055\"",
+      "stop_lat": "48.89363252797401",
+      "stop_lon": "2.41290026603005",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2287",
+      "stop_code": "",
+      "stop_name": "\"Hoche\"",
+      "stop_desc": "\"Centre Commercial - 93055\"",
+      "stop_lat": "48.891499383764256",
+      "stop_lon": "2.4031249606560765",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2424",
+      "stop_code": "",
+      "stop_name": "\"Porte de Pantin\"",
+      "stop_desc": "\"Avenue Jean Jaurès - 75119\"",
+      "stop_lat": "48.888583980971895",
+      "stop_lon": "2.3924228757185415",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2382",
+      "stop_code": "",
+      "stop_name": "\"Ourcq\"",
+      "stop_desc": "\"161 avenue Jean Jaurès - 75119\"",
+      "stop_lat": "48.886923877470686",
+      "stop_lon": "2.3866564344034558",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1922",
+      "stop_code": "",
+      "stop_name": "\"Laumière\"",
+      "stop_desc": "\"av. Jean Jaurès - 75119\"",
+      "stop_lat": "48.8849316105461",
+      "stop_lon": "2.379091246899838",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1901",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88287621621258",
+      "stop_lon": "2.3705863361654225",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2485",
+      "stop_code": "",
+      "stop_name": "\"Stalingrad\"",
+      "stop_desc": "\"Bassin de la Villette - 75119\"",
+      "stop_lat": "48.88415326312386",
+      "stop_lon": "2.3673574774663866",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2213",
+      "stop_code": "",
+      "stop_name": "\"Gare du Nord\"",
+      "stop_desc": "\"Rue du Faubourg St Denis - 75110\"",
+      "stop_lat": "48.87938330261579",
+      "stop_lon": "2.356372081359306",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2076",
+      "stop_code": "",
+      "stop_name": "\"Gare de l'Est (Verdun)\"",
+      "stop_desc": "\"Sortie - 75110\"",
+      "stop_lat": "48.87681262539273",
+      "stop_lon": "2.3582514400829155",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2294",
+      "stop_code": "",
+      "stop_name": "\"Jacques-Bonsergent\"",
+      "stop_desc": "\"bd de Magenta - 75110\"",
+      "stop_lat": "48.87070082326957",
+      "stop_lon": "2.3605786355872773",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2377",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86761748653104",
+      "stop_lon": "2.3638195214331654",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2310",
+      "stop_code": "",
+      "stop_name": "\"Oberkampf\"",
+      "stop_desc": "\"43 boulevard Voltaire - 75111\"",
+      "stop_lat": "48.86490241594044",
+      "stop_lon": "2.367537013481096",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2445",
+      "stop_code": "",
+      "stop_name": "\"Richard-Lenoir\"",
+      "stop_desc": "\"Boulevard Richar Lenoir - 75111\"",
+      "stop_lat": "48.860488412845775",
+      "stop_lon": "2.3719204375021397",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2164",
+      "stop_code": "",
+      "stop_name": "\"Bréguet-Sabin\"",
+      "stop_desc": "\"Boulevard Richard Lenoir - 75111\"",
+      "stop_lat": "48.856803948960916",
+      "stop_lon": "2.3705968196318707",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2063",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85338911229207",
+      "stop_lon": "2.3691646022087665",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1759",
+      "stop_code": "",
+      "stop_name": "\"Quai de la Rapée\"",
+      "stop_desc": "\"Quai de la Rapée - 75112\"",
+      "stop_lat": "48.84596603240645",
+      "stop_lon": "2.3669131797383116",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2206",
+      "stop_code": "",
+      "stop_name": "\"Gare d'Austerlitz\"",
+      "stop_desc": "\"SNCF/RER C grandes lignes et banlieue - 75113\"",
+      "stop_lat": "48.84341422414371",
+      "stop_lon": "2.3641883928676424",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1641",
+      "stop_code": "",
+      "stop_name": "\"Saint-Marcel\"",
+      "stop_desc": "\"La Pitié-Salpêtrière - 75113\"",
+      "stop_lat": "48.838516743515164",
+      "stop_lon": "2.360727550361784",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2017",
+      "stop_code": "",
+      "stop_name": "\"Campo-Formio\"",
+      "stop_desc": "\"106-112 boulevard de l' Hôpital - 75113\"",
+      "stop_lat": "48.835551216675434",
+      "stop_lon": "2.358752095191401",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2403",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.8312826555064",
+      "stop_lon": "2.3554558703645068",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

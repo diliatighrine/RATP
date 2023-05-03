@@ -1,0 +1,134 @@
+{
+  "stops": [
+    {
+      "stop_id": "2328",
+      "stop_code": "",
+      "stop_name": "\"Louis Blanc\"",
+      "stop_desc": "\"234 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.8814934288588",
+      "stop_lon": "2.3657752423496143",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1902",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88232802491925",
+      "stop_lon": "2.3704769687699216",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2075",
+      "stop_code": "",
+      "stop_name": "\"Bolivar\"",
+      "stop_desc": "\"125 avenue Simon Bolivar - 75119\"",
+      "stop_lat": "48.880790122828465",
+      "stop_lon": "2.374155126662647",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2132",
+      "stop_code": "",
+      "stop_name": "\"Buttes-Chaumont\"",
+      "stop_desc": "\"28 rue Botzaris - 75119\"",
+      "stop_lat": "48.877803956007845",
+      "stop_lon": "2.3812110997359883",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2002",
+      "stop_code": "",
+      "stop_name": "\"Botzaris\"",
+      "stop_desc": "\"80 rue Botzaris - 75119\"",
+      "stop_lat": "48.87960708893313",
+      "stop_lon": "2.389415569653207",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1797",
+      "stop_code": "",
+      "stop_name": "\"Place des Fêtes\"",
+      "stop_desc": "\"Rue de Crimée - 75119\"",
+      "stop_lat": "48.8772239477293",
+      "stop_lon": "2.392765050250897",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2434",
+      "stop_code": "",
+      "stop_name": "\"Pré-Saint-Gervais\"",
+      "stop_desc": "\"52 boulevard Serrurier - 75119\"",
+      "stop_lat": "48.88015993211241",
+      "stop_lon": "2.3985866218697662",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1635",
+      "stop_code": "",
+      "stop_name": "\"Danube\"",
+      "stop_desc": "\"9 place Rhin et Danube - 75119\"",
+      "stop_lat": "48.88195101817822",
+      "stop_lon": "2.3932606758573876",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2002",
+      "stop_code": "",
+      "stop_name": "\"Botzaris\"",
+      "stop_desc": "\"80 rue Botzaris - 75119\"",
+      "stop_lat": "48.87960708893313",
+      "stop_lon": "2.389415569653207",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2132",
+      "stop_code": "",
+      "stop_name": "\"Buttes-Chaumont\"",
+      "stop_desc": "\"28 rue Botzaris - 75119\"",
+      "stop_lat": "48.877803956007845",
+      "stop_lon": "2.3812110997359883",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2075",
+      "stop_code": "",
+      "stop_name": "\"Bolivar\"",
+      "stop_desc": "\"125 avenue Simon Bolivar - 75119\"",
+      "stop_lat": "48.880790122828465",
+      "stop_lon": "2.374155126662647",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1902",
+      "stop_code": "",
+      "stop_name": "\"Jaurès\"",
+      "stop_desc": "\"Face au 2 place de Stalingrad - 75119\"",
+      "stop_lat": "48.88232802491925",
+      "stop_lon": "2.3704769687699216",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2328",
+      "stop_code": "",
+      "stop_name": "\"Louis Blanc\"",
+      "stop_desc": "\"234 rue du Faubourg Saint-Martin - 75110\"",
+      "stop_lat": "48.8814934288588",
+      "stop_lon": "2.3657752423496143",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

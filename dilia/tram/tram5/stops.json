@@ -1,0 +1,314 @@
+{
+  "stops": [
+    {
+      "stop_id": "4146213",
+      "stop_code": "",
+      "stop_name": "\"GARGES-SARCELLES RER\"",
+      "stop_desc": "\"0 AVENUE DU GENERAL DE GAULLE - 95585\"",
+      "stop_lat": "48.97710526664575",
+      "stop_lon": "2.3910701690093417",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146215",
+      "stop_code": "",
+      "stop_name": "\"LOCHERES\"",
+      "stop_desc": "\"18 AVENUE PAUL VALERY - 95585\"",
+      "stop_lat": "48.978653755115054",
+      "stop_lon": "2.384436794369383",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146217",
+      "stop_code": "",
+      "stop_name": "\"PAUL VALERY\"",
+      "stop_desc": "\"44 AVENUE PAUL VALERY - 95585\"",
+      "stop_lat": "48.979311348566036",
+      "stop_lon": "2.380259757793963",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146219",
+      "stop_code": "",
+      "stop_name": "\"LES FLANADES\"",
+      "stop_desc": "\"10 AVENUE AUGUSTE PERRET - 95585\"",
+      "stop_lat": "48.97677817874377",
+      "stop_lon": "2.3772952252185626",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146221",
+      "stop_code": "",
+      "stop_name": "\"LES CHOLETTES\"",
+      "stop_desc": "\"24 AVENUE DU 8 MAI 1945 - 95585\"",
+      "stop_lat": "48.977696637028245",
+      "stop_lon": "2.3713982809506327",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146223",
+      "stop_code": "",
+      "stop_name": "\"BUTTE PINSON (PARC REGIONAL)\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.97360921588362",
+      "stop_lon": "2.3658533181493318",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146225",
+      "stop_code": "",
+      "stop_name": "\"JACQUES PREVERT\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.970859338551605",
+      "stop_lon": "2.365797197627149",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146227",
+      "stop_code": "",
+      "stop_name": "\"ALCIDE D'ORBIGNY\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.965405151761665",
+      "stop_lon": "2.3627914674676664",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146229",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE PIERREFITTE\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.96352753276374",
+      "stop_lon": "2.3598834656941707",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146231",
+      "stop_code": "",
+      "stop_name": "\"SUZANNE VALADON\"",
+      "stop_desc": "\"62 AV LENINE - 93059\"",
+      "stop_lat": "48.95892661445699",
+      "stop_lon": "2.3585303983960872",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146233",
+      "stop_code": "",
+      "stop_name": "\"JONCHEROLLES\"",
+      "stop_desc": "\"144 AVENUE LENINE - 93059\"",
+      "stop_lat": "48.954828771784285",
+      "stop_lon": "2.358037459933026",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146235",
+      "stop_code": "",
+      "stop_name": "\"PETIT PIERREFITTE\"",
+      "stop_desc": "\"178 AVENUE ELISEE RECLUS - 93059\"",
+      "stop_lat": "48.95232153573259",
+      "stop_lon": "2.357708966424503",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146237",
+      "stop_code": "",
+      "stop_name": "\"GUYNEMER (STADE AUGUSTE DELAUNE)\"",
+      "stop_desc": "\"32 AVENUE ROGER SEMAT - 93066\"",
+      "stop_lat": "48.948214677834336",
+      "stop_lon": "2.357229796608362",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146239",
+      "stop_code": "",
+      "stop_name": "\"ROGER SEMAT\"",
+      "stop_desc": "\"6 AVENUE ROGER SEMAT - 93066\"",
+      "stop_lat": "48.9447009090286",
+      "stop_lon": "2.3568873589349146",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146241",
+      "stop_code": "",
+      "stop_name": "\"BAUDELAIRE\"",
+      "stop_desc": "\"134 RUE GABRIEL PERI - 93066\"",
+      "stop_lat": "48.94213972325765",
+      "stop_lon": "2.3565862504717936",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146243",
+      "stop_code": "",
+      "stop_name": "\"MARCHE DE SAINT-DENIS\"",
+      "stop_desc": "\"RUE GABRIEL PERI - 93066\"",
+      "stop_lat": "48.939183115531854",
+      "stop_lon": "2.3562577428137623",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146241",
+      "stop_code": "",
+      "stop_name": "\"BAUDELAIRE\"",
+      "stop_desc": "\"134 RUE GABRIEL PERI - 93066\"",
+      "stop_lat": "48.94213972325765",
+      "stop_lon": "2.3565862504717936",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146239",
+      "stop_code": "",
+      "stop_name": "\"ROGER SEMAT\"",
+      "stop_desc": "\"6 AVENUE ROGER SEMAT - 93066\"",
+      "stop_lat": "48.9447009090286",
+      "stop_lon": "2.3568873589349146",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146237",
+      "stop_code": "",
+      "stop_name": "\"GUYNEMER (STADE AUGUSTE DELAUNE)\"",
+      "stop_desc": "\"32 AVENUE ROGER SEMAT - 93066\"",
+      "stop_lat": "48.948214677834336",
+      "stop_lon": "2.357229796608362",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146235",
+      "stop_code": "",
+      "stop_name": "\"PETIT PIERREFITTE\"",
+      "stop_desc": "\"178 AVENUE ELISEE RECLUS - 93059\"",
+      "stop_lat": "48.95232153573259",
+      "stop_lon": "2.357708966424503",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146233",
+      "stop_code": "",
+      "stop_name": "\"JONCHEROLLES\"",
+      "stop_desc": "\"144 AVENUE LENINE - 93059\"",
+      "stop_lat": "48.954828771784285",
+      "stop_lon": "2.358037459933026",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146231",
+      "stop_code": "",
+      "stop_name": "\"SUZANNE VALADON\"",
+      "stop_desc": "\"62 AV LENINE - 93059\"",
+      "stop_lat": "48.95892661445699",
+      "stop_lon": "2.3585303983960872",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146229",
+      "stop_code": "",
+      "stop_name": "\"MAIRIE DE PIERREFITTE\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.96352753276374",
+      "stop_lon": "2.3598834656941707",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146227",
+      "stop_code": "",
+      "stop_name": "\"ALCIDE D'ORBIGNY\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.965405151761665",
+      "stop_lon": "2.3627914674676664",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146225",
+      "stop_code": "",
+      "stop_name": "\"JACQUES PREVERT\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.970859338551605",
+      "stop_lon": "2.365797197627149",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146223",
+      "stop_code": "",
+      "stop_name": "\"BUTTE PINSON (PARC REGIONAL)\"",
+      "stop_desc": "\"BOULEVARD JEAN MERMOZ - 93059\"",
+      "stop_lat": "48.97360921588362",
+      "stop_lon": "2.3658533181493318",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146221",
+      "stop_code": "",
+      "stop_name": "\"LES CHOLETTES\"",
+      "stop_desc": "\"24 AVENUE DU 8 MAI 1945 - 95585\"",
+      "stop_lat": "48.977696637028245",
+      "stop_lon": "2.3713982809506327",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146219",
+      "stop_code": "",
+      "stop_name": "\"LES FLANADES\"",
+      "stop_desc": "\"10 AVENUE AUGUSTE PERRET - 95585\"",
+      "stop_lat": "48.97677817874377",
+      "stop_lon": "2.3772952252185626",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146217",
+      "stop_code": "",
+      "stop_name": "\"PAUL VALERY\"",
+      "stop_desc": "\"44 AVENUE PAUL VALERY - 95585\"",
+      "stop_lat": "48.979311348566036",
+      "stop_lon": "2.380259757793963",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146215",
+      "stop_code": "",
+      "stop_name": "\"LOCHERES\"",
+      "stop_desc": "\"18 AVENUE PAUL VALERY - 95585\"",
+      "stop_lat": "48.978653755115054",
+      "stop_lon": "2.384436794369383",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4146213",
+      "stop_code": "",
+      "stop_name": "\"GARGES-SARCELLES RER\"",
+      "stop_desc": "\"0 AVENUE DU GENERAL DE GAULLE - 95585\"",
+      "stop_lat": "48.97710526664575",
+      "stop_lon": "2.3910701690093417",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "stops": [
+    {
+      "stop_id": "2283",
+      "stop_code": "",
+      "stop_name": "\"La Défense (Grande Arche)\"",
+      "stop_desc": "\"Parvis de la Défense - 92062\"",
+      "stop_lat": "48.891826754836515",
+      "stop_lon": "2.237992043215619",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1933",
+      "stop_code": "",
+      "stop_name": "\"Esplanade de la Défense\"",
+      "stop_desc": "\"Quartier Saisons - 92062\"",
+      "stop_lat": "48.88835806016618",
+      "stop_lon": "2.249937212862802",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2342",
+      "stop_code": "",
+      "stop_name": "\"Pont de Neuilly\"",
+      "stop_desc": "\"209 avenue Charles de Gaulle - 92051\"",
+      "stop_lat": "48.88550610941816",
+      "stop_lon": "2.258527470197358",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1856",
+      "stop_code": "",
+      "stop_name": "\"Les Sablons (Jardin d'acclimatation)\"",
+      "stop_desc": "\"Jardin d'Acclimatation - 92051\"",
+      "stop_lat": "48.88129918549113",
+      "stop_lon": "2.2719151760177914",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2433",
+      "stop_code": "",
+      "stop_name": "\"Porte Maillot\"",
+      "stop_desc": "\"Palais des Congrès - 75117\"",
+      "stop_lat": "48.87800617627899",
+      "stop_lon": "2.2824656400013326",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2098",
+      "stop_code": "",
+      "stop_name": "\"Argentine\"",
+      "stop_desc": "\"Rue des Acacias - 75117\"",
+      "stop_lat": "48.87567248598795",
+      "stop_lon": "2.289444164481448",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2147",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.8739310942679",
+      "stop_lon": "2.295127251650101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1961",
+      "stop_code": "",
+      "stop_name": "\"George V\"",
+      "stop_desc": "\"118 avenue des Champs-Elysées - 75108\"",
+      "stop_lat": "48.87204561942636",
+      "stop_lon": "2.3007691856449535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2200",
+      "stop_code": "",
+      "stop_name": "\"Franklin-Roosevelt\"",
+      "stop_desc": "\"Palais de la Découverte - 75108\"",
+      "stop_lat": "48.869010427937624",
+      "stop_lon": "2.3102531808960265",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2544",
+      "stop_code": "",
+      "stop_name": "\"Champs-Elysées-Clémenceau\"",
+      "stop_desc": "\"Clémenceau (place) - 75108\"",
+      "stop_lat": "48.867744026068706",
+      "stop_lon": "2.3141227803741415",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2170",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.86567809641779",
+      "stop_lon": "2.321193771801867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1688",
+      "stop_code": "",
+      "stop_name": "\"Tuileries\"",
+      "stop_desc": "\"210 rue de Rivoli - 75101\"",
+      "stop_lat": "48.86478016250008",
+      "stop_lon": "2.3290949544294275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2383",
+      "stop_code": "",
+      "stop_name": "\"Palais-Royal (Musée du Louvre)\"",
+      "stop_desc": "\"Terre-plein face au 93 rue de Rivoli - 75101\"",
+      "stop_lat": "48.8623718215243",
+      "stop_lon": "2.3365736007364304",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2331",
+      "stop_code": "",
+      "stop_name": "\"Louvre-Rivoli\"",
+      "stop_desc": "\"Amiral de Coligny (8 rue de l') - 75101\"",
+      "stop_lat": "48.86087985759375",
+      "stop_lon": "2.340973275817903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2155",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85856967247972",
+      "stop_lon": "2.347933245835307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1892",
+      "stop_code": "",
+      "stop_name": "\"Hôtel de Ville\"",
+      "stop_desc": "\"Rue du Renard - 75104\"",
+      "stop_lat": "48.857355927169515",
+      "stop_lon": "2.3520735668587185",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1642",
+      "stop_code": "",
+      "stop_name": "\"Saint-Paul (Le Marais)\"",
+      "stop_desc": "\"Rivoli (terre plein face au 10 rue de) - 75104\"",
+      "stop_lat": "48.85513451823504",
+      "stop_lon": "2.3613343390676635",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2062",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85297567465423",
+      "stop_lon": "2.3692188244433434",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2210",
+      "stop_code": "",
+      "stop_name": "\"Gare de Lyon\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84555978708341",
+      "stop_lon": "2.37344920496318",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2443",
+      "stop_code": "",
+      "stop_name": "\"Reuilly-Diderot\"",
+      "stop_desc": "\"Boulevard Diderot - 75112\"",
+      "stop_lat": "48.8473528769588",
+      "stop_lon": "2.3858425400402448",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2371",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.84811123157566",
+      "stop_lon": "2.3980040127977436",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2429",
+      "stop_code": "",
+      "stop_name": "\"Porte de Vincennes\"",
+      "stop_desc": "\"99 Cours de Vincennes - 75120\"",
+      "stop_lat": "48.847016518419125",
+      "stop_lon": "2.410816882334764",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1725",
+      "stop_code": "",
+      "stop_name": "\"Saint-Mandé\"",
+      "stop_desc": "\"180 avenue Galliéni - 94067\"",
+      "stop_lat": "48.84623825662077",
+      "stop_lon": "2.418999828109256",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2116",
+      "stop_code": "",
+      "stop_name": "\"Bérault\"",
+      "stop_desc": "\"98 avenue de Paris - 94080\"",
+      "stop_lat": "48.84536875015732",
+      "stop_lon": "2.428244509620486",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2035",
+      "stop_code": "",
+      "stop_name": "\"Château de Vincennes\"",
+      "stop_desc": "\"Gare routière - 94080\"",
+      "stop_lat": "48.84432514436857",
+      "stop_lon": "2.440552346211822",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2116",
+      "stop_code": "",
+      "stop_name": "\"Bérault\"",
+      "stop_desc": "\"98 avenue de Paris - 94080\"",
+      "stop_lat": "48.84536875015732",
+      "stop_lon": "2.428244509620486",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1725",
+      "stop_code": "",
+      "stop_name": "\"Saint-Mandé\"",
+      "stop_desc": "\"180 avenue Galliéni - 94067\"",
+      "stop_lat": "48.84623825662077",
+      "stop_lon": "2.418999828109256",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2429",
+      "stop_code": "",
+      "stop_name": "\"Porte de Vincennes\"",
+      "stop_desc": "\"99 Cours de Vincennes - 75120\"",
+      "stop_lat": "48.847016518419125",
+      "stop_lon": "2.410816882334764",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2371",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.84811123157566",
+      "stop_lon": "2.3980040127977436",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2443",
+      "stop_code": "",
+      "stop_name": "\"Reuilly-Diderot\"",
+      "stop_desc": "\"Boulevard Diderot - 75112\"",
+      "stop_lat": "48.8473528769588",
+      "stop_lon": "2.3858425400402448",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2210",
+      "stop_code": "",
+      "stop_name": "\"Gare de Lyon\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84555978708341",
+      "stop_lon": "2.37344920496318",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2062",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85297567465423",
+      "stop_lon": "2.3692188244433434",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1642",
+      "stop_code": "",
+      "stop_name": "\"Saint-Paul (Le Marais)\"",
+      "stop_desc": "\"Rivoli (terre plein face au 10 rue de) - 75104\"",
+      "stop_lat": "48.85513451823504",
+      "stop_lon": "2.3613343390676635",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1892",
+      "stop_code": "",
+      "stop_name": "\"Hôtel de Ville\"",
+      "stop_desc": "\"Rue du Renard - 75104\"",
+      "stop_lat": "48.857355927169515",
+      "stop_lon": "2.3520735668587185",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2155",
+      "stop_code": "",
+      "stop_name": "\"Châtelet\"",
+      "stop_desc": "\"Théâtre du Châtelet - 75101\"",
+      "stop_lat": "48.85856967247972",
+      "stop_lon": "2.347933245835307",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2331",
+      "stop_code": "",
+      "stop_name": "\"Louvre-Rivoli\"",
+      "stop_desc": "\"Amiral de Coligny (8 rue de l') - 75101\"",
+      "stop_lat": "48.86087985759375",
+      "stop_lon": "2.340973275817903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2383",
+      "stop_code": "",
+      "stop_name": "\"Palais-Royal (Musée du Louvre)\"",
+      "stop_desc": "\"Terre-plein face au 93 rue de Rivoli - 75101\"",
+      "stop_lat": "48.8623718215243",
+      "stop_lon": "2.3365736007364304",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1688",
+      "stop_code": "",
+      "stop_name": "\"Tuileries\"",
+      "stop_desc": "\"210 rue de Rivoli - 75101\"",
+      "stop_lat": "48.86478016250008",
+      "stop_lon": "2.3290949544294275",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2170",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.86567809641779",
+      "stop_lon": "2.321193771801867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2544",
+      "stop_code": "",
+      "stop_name": "\"Champs-Elysées-Clémenceau\"",
+      "stop_desc": "\"Clémenceau (place) - 75108\"",
+      "stop_lat": "48.867744026068706",
+      "stop_lon": "2.3141227803741415",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2200",
+      "stop_code": "",
+      "stop_name": "\"Franklin-Roosevelt\"",
+      "stop_desc": "\"Palais de la Découverte - 75108\"",
+      "stop_lat": "48.869010427937624",
+      "stop_lon": "2.3102531808960265",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1961",
+      "stop_code": "",
+      "stop_name": "\"George V\"",
+      "stop_desc": "\"118 avenue des Champs-Elysées - 75108\"",
+      "stop_lat": "48.87204561942636",
+      "stop_lon": "2.3007691856449535",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2147",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.8739310942679",
+      "stop_lon": "2.295127251650101",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2098",
+      "stop_code": "",
+      "stop_name": "\"Argentine\"",
+      "stop_desc": "\"Rue des Acacias - 75117\"",
+      "stop_lat": "48.87567248598795",
+      "stop_lon": "2.289444164481448",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2433",
+      "stop_code": "",
+      "stop_name": "\"Porte Maillot\"",
+      "stop_desc": "\"Palais des Congrès - 75117\"",
+      "stop_lat": "48.87800617627899",
+      "stop_lon": "2.2824656400013326",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1856",
+      "stop_code": "",
+      "stop_name": "\"Les Sablons (Jardin d'acclimatation)\"",
+      "stop_desc": "\"Jardin d'Acclimatation - 92051\"",
+      "stop_lat": "48.88129918549113",
+      "stop_lon": "2.2719151760177914",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2342",
+      "stop_code": "",
+      "stop_name": "\"Pont de Neuilly\"",
+      "stop_desc": "\"209 avenue Charles de Gaulle - 92051\"",
+      "stop_lat": "48.88550610941816",
+      "stop_lon": "2.258527470197358",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1933",
+      "stop_code": "",
+      "stop_name": "\"Esplanade de la Défense\"",
+      "stop_desc": "\"Quartier Saisons - 92062\"",
+      "stop_lat": "48.88835806016618",
+      "stop_lon": "2.249937212862802",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2283",
+      "stop_code": "",
+      "stop_name": "\"La Défense (Grande Arche)\"",
+      "stop_desc": "\"Parvis de la Défense - 92062\"",
+      "stop_lat": "48.891826754836515",
+      "stop_lon": "2.237992043215619",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

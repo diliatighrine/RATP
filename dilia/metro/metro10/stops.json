@@ -1,0 +1,394 @@
+{
+  "stops": [
+    {
+      "stop_id": "2207",
+      "stop_code": "",
+      "stop_name": "\"Gare d'Austerlitz\"",
+      "stop_desc": "\"SNCF/RER C grandes lignes et banlieue - 75113\"",
+      "stop_lat": "48.84371986136062",
+      "stop_lon": "2.3639162171627124",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2233",
+      "stop_code": "",
+      "stop_name": "\"Jussieu\"",
+      "stop_desc": "\"39 rue Liné - 75105\"",
+      "stop_lat": "48.84576175731147",
+      "stop_lon": "2.354548594906739",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2018",
+      "stop_code": "",
+      "stop_name": "\"Cardinal-Lemoine\"",
+      "stop_desc": "\"55 rue du Cardinal Lemoine - 75105\"",
+      "stop_lat": "48.84670586906026",
+      "stop_lon": "2.351335178972595",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2350",
+      "stop_code": "",
+      "stop_name": "\"Maubert-Mutualité\"",
+      "stop_desc": "\"Panthéon - 75105\"",
+      "stop_lat": "48.849716940163574",
+      "stop_lon": "2.348925558491872",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2167",
+      "stop_code": "",
+      "stop_name": "\"Cluny-La Sorbonne\"",
+      "stop_desc": "\"Rue Saint Jacques - 75105\"",
+      "stop_lat": "48.85079575570429",
+      "stop_lon": "2.3450308883652258",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1653",
+      "stop_code": "",
+      "stop_name": "\"Odéon\"",
+      "stop_desc": "\"Carrefour de l' Odéon - 75106\"",
+      "stop_lat": "48.85231488119486",
+      "stop_lon": "2.338861720336335",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2334",
+      "stop_code": "",
+      "stop_name": "\"Mabillon\"",
+      "stop_desc": "\"Place d' Arcadie - 75106\"",
+      "stop_lat": "48.85284513365445",
+      "stop_lon": "2.335143718516068",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1666",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Babylone\"",
+      "stop_desc": "\"Square Boucicaut - 75107\"",
+      "stop_lat": "48.85093928843075",
+      "stop_lon": "2.3261146548222844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2500",
+      "stop_code": "",
+      "stop_name": "\"Vaneau\"",
+      "stop_desc": "\"97 rue de Sèvres - 75107\"",
+      "stop_lat": "48.84870084962003",
+      "stop_lon": "2.321239881938573",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2252",
+      "stop_code": "",
+      "stop_name": "\"Duroc\"",
+      "stop_desc": "\"bd du Montparnasse - 75107\"",
+      "stop_lat": "48.846848768895974",
+      "stop_lon": "2.3169373108340854",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2541",
+      "stop_code": "",
+      "stop_name": "\"Ségur\"",
+      "stop_desc": "\"UNESCO - Miollis - 75115\"",
+      "stop_lat": "48.84686470206919",
+      "stop_lon": "2.307268847578926",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1916",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.84882126668606",
+      "stop_lon": "2.2979529640251917",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2057",
+      "stop_code": "",
+      "stop_name": "\"Avenue Emile-Zola\"",
+      "stop_desc": "\"Rue du Commerce - 75115\"",
+      "stop_lat": "48.846852151949776",
+      "stop_lon": "2.2954488279344742",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2031",
+      "stop_code": "",
+      "stop_name": "\"Charles Michels\"",
+      "stop_desc": "\"36 rue des Entrepreneurs - 75115\"",
+      "stop_lat": "48.8463629755008",
+      "stop_lon": "2.2856310658828742",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1903",
+      "stop_code": "",
+      "stop_name": "\"Javel-André-Citroen\"",
+      "stop_desc": "\"Rue de la Convention - 75115\"",
+      "stop_lat": "48.84596388048408",
+      "stop_lon": "2.2778151263537714",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2256",
+      "stop_code": "",
+      "stop_name": "\"Eglise d'Auteuil\"",
+      "stop_desc": "\"20 rue Wilhem - 75116\"",
+      "stop_lat": "48.84753224211661",
+      "stop_lon": "2.2694792821877074",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2354",
+      "stop_code": "",
+      "stop_name": "\"Michel-Ange-Auteuil\"",
+      "stop_desc": "\"55 rue d' Auteuil - 75116\"",
+      "stop_lat": "48.847933946139044",
+      "stop_lon": "2.2648350771736747",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "8433",
+      "stop_code": "",
+      "stop_name": "\"Porte d'Auteuil\"",
+      "stop_desc": "\"Route des Lacs - 75116\"",
+      "stop_lat": "48.84822598041119",
+      "stop_lon": "2.257698885660922",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2004",
+      "stop_code": "",
+      "stop_name": "\"Boulogne-Jean-Jaurès\"",
+      "stop_desc": "\"Rue du Chateau - 92012\"",
+      "stop_lat": "48.84228014352973",
+      "stop_lon": "2.238862975367271",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2005",
+      "stop_code": "",
+      "stop_name": "\"Boulogne Pont de Saint-Cloud\"",
+      "stop_desc": "\"Musée Albert Kahn - 92012\"",
+      "stop_lat": "48.84068016312195",
+      "stop_lon": "2.228313661724341",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2004",
+      "stop_code": "",
+      "stop_name": "\"Boulogne-Jean-Jaurès\"",
+      "stop_desc": "\"Rue du Chateau - 92012\"",
+      "stop_lat": "48.84228014352973",
+      "stop_lon": "2.238862975367271",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1817",
+      "stop_code": "",
+      "stop_name": "\"Michel-Ange-Molitor\"",
+      "stop_desc": "\"34 rue Molitor - 75116\"",
+      "stop_lat": "48.84498448667992",
+      "stop_lon": "2.26232003903747",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2026",
+      "stop_code": "",
+      "stop_name": "\"Chardon-Lagache\"",
+      "stop_desc": "\"11 rue Chardon Lagache - 75116\"",
+      "stop_lat": "48.845104139567006",
+      "stop_lon": "2.266936059032254",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1818",
+      "stop_code": "",
+      "stop_name": "\"Mirabeau\"",
+      "stop_desc": "\"63 avenue de Versailles - 75116\"",
+      "stop_lat": "48.847084858904864",
+      "stop_lon": "2.273074914922012",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1903",
+      "stop_code": "",
+      "stop_name": "\"Javel-André-Citroen\"",
+      "stop_desc": "\"Rue de la Convention - 75115\"",
+      "stop_lat": "48.84596388048408",
+      "stop_lon": "2.2778151263537714",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2031",
+      "stop_code": "",
+      "stop_name": "\"Charles Michels\"",
+      "stop_desc": "\"36 rue des Entrepreneurs - 75115\"",
+      "stop_lat": "48.8463629755008",
+      "stop_lon": "2.2856310658828742",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2057",
+      "stop_code": "",
+      "stop_name": "\"Avenue Emile-Zola\"",
+      "stop_desc": "\"Rue du Commerce - 75115\"",
+      "stop_lat": "48.846852151949776",
+      "stop_lon": "2.2954488279344742",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1916",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.84882126668606",
+      "stop_lon": "2.2979529640251917",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2541",
+      "stop_code": "",
+      "stop_name": "\"Ségur\"",
+      "stop_desc": "\"UNESCO - Miollis - 75115\"",
+      "stop_lat": "48.84686470206919",
+      "stop_lon": "2.307268847578926",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2252",
+      "stop_code": "",
+      "stop_name": "\"Duroc\"",
+      "stop_desc": "\"bd du Montparnasse - 75107\"",
+      "stop_lat": "48.846848768895974",
+      "stop_lon": "2.3169373108340854",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2500",
+      "stop_code": "",
+      "stop_name": "\"Vaneau\"",
+      "stop_desc": "\"97 rue de Sèvres - 75107\"",
+      "stop_lat": "48.84870084962003",
+      "stop_lon": "2.321239881938573",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1666",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Babylone\"",
+      "stop_desc": "\"Square Boucicaut - 75107\"",
+      "stop_lat": "48.85093928843075",
+      "stop_lon": "2.3261146548222844",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2334",
+      "stop_code": "",
+      "stop_name": "\"Mabillon\"",
+      "stop_desc": "\"Place d' Arcadie - 75106\"",
+      "stop_lat": "48.85284513365445",
+      "stop_lon": "2.335143718516068",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1653",
+      "stop_code": "",
+      "stop_name": "\"Odéon\"",
+      "stop_desc": "\"Carrefour de l' Odéon - 75106\"",
+      "stop_lat": "48.85231488119486",
+      "stop_lon": "2.338861720336335",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2167",
+      "stop_code": "",
+      "stop_name": "\"Cluny-La Sorbonne\"",
+      "stop_desc": "\"Rue Saint Jacques - 75105\"",
+      "stop_lat": "48.85079575570429",
+      "stop_lon": "2.3450308883652258",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2350",
+      "stop_code": "",
+      "stop_name": "\"Maubert-Mutualité\"",
+      "stop_desc": "\"Panthéon - 75105\"",
+      "stop_lat": "48.849716940163574",
+      "stop_lon": "2.348925558491872",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2018",
+      "stop_code": "",
+      "stop_name": "\"Cardinal-Lemoine\"",
+      "stop_desc": "\"55 rue du Cardinal Lemoine - 75105\"",
+      "stop_lat": "48.84670586906026",
+      "stop_lon": "2.351335178972595",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2233",
+      "stop_code": "",
+      "stop_name": "\"Jussieu\"",
+      "stop_desc": "\"39 rue Liné - 75105\"",
+      "stop_lat": "48.84576175731147",
+      "stop_lon": "2.354548594906739",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2207",
+      "stop_code": "",
+      "stop_name": "\"Gare d'Austerlitz\"",
+      "stop_desc": "\"SNCF/RER C grandes lignes et banlieue - 75113\"",
+      "stop_lat": "48.84371986136062",
+      "stop_lon": "2.3639162171627124",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

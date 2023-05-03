@@ -1,0 +1,354 @@
+{
+  "stops": [
+    {
+      "stop_id": "4284930",
+      "stop_code": "",
+      "stop_name": "\"VILLEJUIF - LOUIS ARAGON\"",
+      "stop_desc": "\"19 AVENUE DE STALINGRAD - 94076\"",
+      "stop_lat": "48.787536899371986",
+      "stop_lon": "2.3667301884492553",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284928",
+      "stop_code": "",
+      "stop_name": "\"LAMARTINE\"",
+      "stop_desc": "\"AVENUE DE STALINGRAD - 94076\"",
+      "stop_lat": "48.78314174692833",
+      "stop_lon": "2.366918105804903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284925",
+      "stop_code": "",
+      "stop_name": "\"DOMAINE CHERIOUX\"",
+      "stop_desc": "\"ROUTE DE FONTAINEBLEAU - 94021\"",
+      "stop_lat": "48.77906104165432",
+      "stop_lon": "2.367568564265934",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284923",
+      "stop_code": "",
+      "stop_name": "\"MOULIN VERT\"",
+      "stop_desc": "\"ROUTE DE FONTAINEBLEAU - 94081\"",
+      "stop_lat": "48.77177164960806",
+      "stop_lon": "2.3679994421847956",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284922",
+      "stop_code": "",
+      "stop_name": "\"BRETAGNE\"",
+      "stop_desc": "\"AVENUE DE FONTAINEBLEAU - 94073\"",
+      "stop_lat": "48.76827524044231",
+      "stop_lon": "2.36821492418055",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284921",
+      "stop_code": "",
+      "stop_name": "\"AUGUSTE PERRET (CIMETIERE PARISIEN)\"",
+      "stop_desc": "\"20 AVENUE DE LA REPUBLIQUE - 94021\"",
+      "stop_lat": "48.763296055485625",
+      "stop_lon": "2.367382622887771",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284919",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE THIAIS (MARCHE INTERNATIONAL)\"",
+      "stop_desc": "\"AVENUE DE LA CITE - 94021\"",
+      "stop_lat": "48.75971904378714",
+      "stop_lon": "2.3663473510391806",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284917",
+      "stop_code": "",
+      "stop_name": "\"LA BELLE EPINE\"",
+      "stop_desc": "\"RUE LATERALE - 94065\"",
+      "stop_lat": "48.755862583370366",
+      "stop_lon": "2.368506590138602",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284915",
+      "stop_code": "",
+      "stop_name": "\"PLACE DE LA LOGISTIQUE (PLATEFORME SOGARIS)\"",
+      "stop_desc": "\"NR - 94065\"",
+      "stop_lat": "48.75297897855814",
+      "stop_lon": "2.3616947906418555",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284913",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE RUNGIS\"",
+      "stop_desc": "\"PLACE DU RELAIS - 94065\"",
+      "stop_lat": "48.752674551430026",
+      "stop_lon": "2.3551157008751726",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284911",
+      "stop_code": "",
+      "stop_name": "\"SAARINEN (PARC SILIC NORD)\"",
+      "stop_desc": "\"RUE SAARINEN - 94065\"",
+      "stop_lat": "48.750202953452586",
+      "stop_lon": "2.35406825057595",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284909",
+      "stop_code": "",
+      "stop_name": "\"ROBERT SCHUMAN (PARC SILIC CENTRE)\"",
+      "stop_desc": "\"6 RUE TRAVERSIERE - 94065\"",
+      "stop_lat": "48.74658088759913",
+      "stop_lon": "2.3527351341785154",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284907",
+      "stop_code": "",
+      "stop_name": "\"LA FRATERNELLE\"",
+      "stop_desc": "\"RUE DES ALPES - 94065\"",
+      "stop_lat": "48.741376679157604",
+      "stop_lon": "2.352883073130392",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284905",
+      "stop_code": "",
+      "stop_name": "\"HELENE BOUCHER (ORLYTECH)\"",
+      "stop_desc": "\"2 ALLEE HELENE BOUCHER - 91479\"",
+      "stop_lat": "48.73961387407147",
+      "stop_lon": "2.3597723941125155",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284903",
+      "stop_code": "",
+      "stop_name": "\"CAROLINE AIGLE (ORLYFRET)\"",
+      "stop_desc": "\"AVENUE DU MARECHAL DEVAUX - 94054\"",
+      "stop_lat": "48.738847617809775",
+      "stop_lon": "2.369542732850051",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284901",
+      "stop_code": "",
+      "stop_name": "\"COEUR D'ORLY\"",
+      "stop_desc": "\"AVENUE DE L'UNION - 94054\"",
+      "stop_lat": "48.733795814597535",
+      "stop_lon": "2.3709255641386013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284899",
+      "stop_code": "",
+      "stop_name": "\"AEROPORT D'ORLY\"",
+      "stop_desc": "\"RUE DU MUSEE - 91479\"",
+      "stop_lat": "48.72963508042285",
+      "stop_lon": "2.3677435484138623",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284897",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE L'ESSONNE\"",
+      "stop_desc": "\"AVENUE FRANCOIS MITTERRAND - 91027\"",
+      "stop_lat": "48.71441671764615",
+      "stop_lon": "2.3714834979674135",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284899",
+      "stop_code": "",
+      "stop_name": "\"AEROPORT D'ORLY\"",
+      "stop_desc": "\"RUE DU MUSEE - 91479\"",
+      "stop_lat": "48.72963508042285",
+      "stop_lon": "2.3677435484138623",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284901",
+      "stop_code": "",
+      "stop_name": "\"COEUR D'ORLY\"",
+      "stop_desc": "\"AVENUE DE L'UNION - 94054\"",
+      "stop_lat": "48.733795814597535",
+      "stop_lon": "2.3709255641386013",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284903",
+      "stop_code": "",
+      "stop_name": "\"CAROLINE AIGLE (ORLYFRET)\"",
+      "stop_desc": "\"AVENUE DU MARECHAL DEVAUX - 94054\"",
+      "stop_lat": "48.738847617809775",
+      "stop_lon": "2.369542732850051",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284905",
+      "stop_code": "",
+      "stop_name": "\"HELENE BOUCHER (ORLYTECH)\"",
+      "stop_desc": "\"2 ALLEE HELENE BOUCHER - 91479\"",
+      "stop_lat": "48.73961387407147",
+      "stop_lon": "2.3597723941125155",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284907",
+      "stop_code": "",
+      "stop_name": "\"LA FRATERNELLE\"",
+      "stop_desc": "\"RUE DES ALPES - 94065\"",
+      "stop_lat": "48.741376679157604",
+      "stop_lon": "2.352883073130392",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284909",
+      "stop_code": "",
+      "stop_name": "\"ROBERT SCHUMAN (PARC SILIC CENTRE)\"",
+      "stop_desc": "\"6 RUE TRAVERSIERE - 94065\"",
+      "stop_lat": "48.74658088759913",
+      "stop_lon": "2.3527351341785154",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284911",
+      "stop_code": "",
+      "stop_name": "\"SAARINEN (PARC SILIC NORD)\"",
+      "stop_desc": "\"RUE SAARINEN - 94065\"",
+      "stop_lat": "48.750202953452586",
+      "stop_lon": "2.35406825057595",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284913",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE RUNGIS\"",
+      "stop_desc": "\"PLACE DU RELAIS - 94065\"",
+      "stop_lat": "48.752674551430026",
+      "stop_lon": "2.3551157008751726",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284915",
+      "stop_code": "",
+      "stop_name": "\"PLACE DE LA LOGISTIQUE (PLATEFORME SOGARIS)\"",
+      "stop_desc": "\"NR - 94065\"",
+      "stop_lat": "48.75297897855814",
+      "stop_lon": "2.3616947906418555",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284917",
+      "stop_code": "",
+      "stop_name": "\"LA BELLE EPINE\"",
+      "stop_desc": "\"RUE LATERALE - 94065\"",
+      "stop_lat": "48.755862583370366",
+      "stop_lon": "2.368506590138602",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284919",
+      "stop_code": "",
+      "stop_name": "\"PORTE DE THIAIS (MARCHE INTERNATIONAL)\"",
+      "stop_desc": "\"AVENUE DE LA CITE - 94021\"",
+      "stop_lat": "48.75971904378714",
+      "stop_lon": "2.3663473510391806",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284921",
+      "stop_code": "",
+      "stop_name": "\"AUGUSTE PERRET (CIMETIERE PARISIEN)\"",
+      "stop_desc": "\"20 AVENUE DE LA REPUBLIQUE - 94021\"",
+      "stop_lat": "48.763296055485625",
+      "stop_lon": "2.367382622887771",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284922",
+      "stop_code": "",
+      "stop_name": "\"BRETAGNE\"",
+      "stop_desc": "\"AVENUE DE FONTAINEBLEAU - 94073\"",
+      "stop_lat": "48.76827524044231",
+      "stop_lon": "2.36821492418055",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284923",
+      "stop_code": "",
+      "stop_name": "\"MOULIN VERT\"",
+      "stop_desc": "\"ROUTE DE FONTAINEBLEAU - 94081\"",
+      "stop_lat": "48.77177164960806",
+      "stop_lon": "2.3679994421847956",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284925",
+      "stop_code": "",
+      "stop_name": "\"DOMAINE CHERIOUX\"",
+      "stop_desc": "\"ROUTE DE FONTAINEBLEAU - 94021\"",
+      "stop_lat": "48.77906104165432",
+      "stop_lon": "2.367568564265934",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284928",
+      "stop_code": "",
+      "stop_name": "\"LAMARTINE\"",
+      "stop_desc": "\"AVENUE DE STALINGRAD - 94076\"",
+      "stop_lat": "48.78314174692833",
+      "stop_lon": "2.366918105804903",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "4284930",
+      "stop_code": "",
+      "stop_name": "\"VILLEJUIF - LOUIS ARAGON\"",
+      "stop_desc": "\"19 AVENUE DE STALINGRAD - 94076\"",
+      "stop_lat": "48.787536899371986",
+      "stop_lon": "2.3667301884492553",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

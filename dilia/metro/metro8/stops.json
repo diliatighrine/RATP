@@ -1,0 +1,754 @@
+{
+  "stops": [
+    {
+      "stop_id": "3343334",
+      "stop_code": "",
+      "stop_name": "\"Balard\"",
+      "stop_desc": "\"Rue Louis Armand - 75115\"",
+      "stop_lat": "48.836814988805976",
+      "stop_lon": "2.2786833464502703",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343337",
+      "stop_code": "",
+      "stop_name": "\"Lourmel\"",
+      "stop_desc": "\"Avenue Felix Faure - 75115\"",
+      "stop_lat": "48.83866812903008",
+      "stop_lon": "2.2822484883840986",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343339",
+      "stop_code": "",
+      "stop_name": "\"Boucicaut\"",
+      "stop_desc": "\"Rue Félix Faure - 75115\"",
+      "stop_lat": "48.84102535532167",
+      "stop_lon": "2.287923867330867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343752",
+      "stop_code": "",
+      "stop_name": "\"Félix Faure\"",
+      "stop_desc": "\"Place Félix Faure - 75115\"",
+      "stop_lat": "48.84282456767407",
+      "stop_lon": "2.2922249662205156",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343754",
+      "stop_code": "",
+      "stop_name": "\"Commerce\"",
+      "stop_desc": "\"21 place du Commerce - 75115\"",
+      "stop_lat": "48.84461367199405",
+      "stop_lon": "2.293802980169146",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343756",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.848803206044934",
+      "stop_lon": "2.29769423466391",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343758",
+      "stop_code": "",
+      "stop_name": "\"Ecole Militaire\"",
+      "stop_desc": "\"Avenue Duquesne - 75107\"",
+      "stop_lat": "48.85426092155411",
+      "stop_lon": "2.305439560539011",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343759",
+      "stop_code": "",
+      "stop_name": "\"La Tour-Maubourg\"",
+      "stop_desc": "\"Les Invalides Tombeau de l'Empereur - Musée de l'Armée - 75107\"",
+      "stop_lat": "48.85722786064964",
+      "stop_lon": "2.3097962258273563",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343761",
+      "stop_code": "",
+      "stop_name": "\"Invalides\"",
+      "stop_desc": "\"Rue de l' Université - 75107\"",
+      "stop_lat": "48.86109346762053",
+      "stop_lon": "2.3146433553464374",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343763",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.865507221530486",
+      "stop_lon": "2.3203628558611284",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343765",
+      "stop_code": "",
+      "stop_name": "\"Madeleine\"",
+      "stop_desc": "\"Rue De Sèze - 75108\"",
+      "stop_lat": "48.86950712762907",
+      "stop_lon": "2.324680199591515",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343768",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.87063108014849",
+      "stop_lon": "2.331737048361137",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343770",
+      "stop_code": "",
+      "stop_name": "\"Richelieu-Drouot\"",
+      "stop_desc": "\"Rue Marivaux - 75109\"",
+      "stop_lat": "48.87200623896137",
+      "stop_lon": "2.339911390610416",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343771",
+      "stop_code": "",
+      "stop_name": "\"Grands Boulevards\"",
+      "stop_desc": "\"Musée Grévin - 75109\"",
+      "stop_lat": "48.87157474359305",
+      "stop_lon": "2.3428950319846593",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343773",
+      "stop_code": "",
+      "stop_name": "\"Bonne Nouvelle\"",
+      "stop_desc": "\"Boulevard de Bonne Nouvelle - 75109\"",
+      "stop_lat": "48.87057675358199",
+      "stop_lon": "2.348494293710928",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343776",
+      "stop_code": "",
+      "stop_name": "\"Strasbourg-Saint-Denis\"",
+      "stop_desc": "\"Porte Saint-Martin - 75102\"",
+      "stop_lat": "48.869380780106006",
+      "stop_lon": "2.3540796521963494",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343778",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86767151899055",
+      "stop_lon": "2.363329120776082",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343780",
+      "stop_code": "",
+      "stop_name": "\"Filles du Calvaire\"",
+      "stop_desc": "\"Musée Picasso - 75103\"",
+      "stop_lat": "48.86307817635541",
+      "stop_lon": "2.36674588358473",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343781",
+      "stop_code": "",
+      "stop_name": "\"Saint-Sébastien-Froissart\"",
+      "stop_desc": "\"Rue Froissart - 75103\"",
+      "stop_lat": "48.86097499718719",
+      "stop_lon": "2.3672622950229414",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343783",
+      "stop_code": "",
+      "stop_name": "\"Chemin Vert\"",
+      "stop_desc": "\"Place des Vosges - 75103\"",
+      "stop_lat": "48.85758654446453",
+      "stop_lon": "2.3680366949483758",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343785",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85373962301297",
+      "stop_lon": "2.3691648178618325",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343787",
+      "stop_code": "",
+      "stop_name": "\"Ledru-Rollin\"",
+      "stop_desc": "\"Rue Traversière - 75112\"",
+      "stop_lat": "48.85119416536367",
+      "stop_lon": "2.3759317370128947",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343790",
+      "stop_code": "",
+      "stop_name": "\"Faidherbe-Chaligny\"",
+      "stop_desc": "\"Hôpital St-Antoine - 75111\"",
+      "stop_lat": "48.85006766800271",
+      "stop_lon": "2.3844287707416316",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343792",
+      "stop_code": "",
+      "stop_name": "\"Reuilly-Diderot\"",
+      "stop_desc": "\"Boulevard Diderot - 75112\"",
+      "stop_lat": "48.84721750107955",
+      "stop_lon": "2.387204177213597",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343794",
+      "stop_code": "",
+      "stop_name": "\"Montgallet\"",
+      "stop_desc": "\"68 rue de Reuilly - 75112\"",
+      "stop_lat": "48.844403092096876",
+      "stop_lon": "2.39025165315774",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343795",
+      "stop_code": "",
+      "stop_name": "\"Daumesnil (Félix Eboué)\"",
+      "stop_desc": "\"Place Félix Eboué - 75112\"",
+      "stop_lat": "48.83968214020875",
+      "stop_lon": "2.3955841703466554",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343797",
+      "stop_code": "",
+      "stop_name": "\"Michel Bizot\"",
+      "stop_desc": "\"Avenue Daumesnil - 75112\"",
+      "stop_lat": "48.836991037652965",
+      "stop_lon": "2.402919606870042",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343799",
+      "stop_code": "",
+      "stop_name": "\"Porte Dorée\"",
+      "stop_desc": "\"Place Edouard Renard - 75112\"",
+      "stop_lat": "48.83549725282465",
+      "stop_lon": "2.4061852122149348",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343801",
+      "stop_code": "",
+      "stop_name": "\"Porte de Charenton\"",
+      "stop_desc": "\"68 Boulevard Poniatowsky - 75112\"",
+      "stop_lat": "48.83266034648216",
+      "stop_lon": "2.4004636384497804",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343803",
+      "stop_code": "",
+      "stop_name": "\"Liberté\"",
+      "stop_desc": "\"Rue de Paris - 94018\"",
+      "stop_lat": "48.82563711172796",
+      "stop_lon": "2.4074108054261223",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343806",
+      "stop_code": "",
+      "stop_name": "\"Charenton-Ecoles\"",
+      "stop_desc": "\"Rue de Paris - 94018\"",
+      "stop_lat": "48.821489819145576",
+      "stop_lon": "2.4138567623311062",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343807",
+      "stop_code": "",
+      "stop_name": "\"Ecole Vétérinaire de Maisons-Alfort\"",
+      "stop_desc": "\"Musée Fragonard - 94046\"",
+      "stop_lat": "48.81507632012976",
+      "stop_lon": "2.4216317667306635",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343809",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Alfort-Stade\"",
+      "stop_desc": "\"26-28 avenue du Général Leclerc - 94046\"",
+      "stop_lat": "48.808225347352376",
+      "stop_lon": "2.4362758210511313",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343811",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Alfort-Les Juilliottes\"",
+      "stop_desc": "\"Avenue du Général Leclerc - 94046\"",
+      "stop_lat": "48.80250044183061",
+      "stop_lon": "2.4461836185594534",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343814",
+      "stop_code": "",
+      "stop_name": "\"Créteil-L'Echat (Hôpital Henri Mondor)\"",
+      "stop_desc": "\"Voie Félix Eboué - 94028\"",
+      "stop_lat": "48.79660129757846",
+      "stop_lon": "2.4495315243760767",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343815",
+      "stop_code": "",
+      "stop_name": "\"Créteil-Université\"",
+      "stop_desc": "\"Rue Ferdinand de Lesseps - 94028\"",
+      "stop_lat": "48.78972431608003",
+      "stop_lon": "2.450836106390663",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343817",
+      "stop_code": "",
+      "stop_name": "\"Créteil-Préfecture (Hôtel de Ville)\"",
+      "stop_desc": "\"Le Mont-Mesly - 94028\"",
+      "stop_lat": "48.779757257844594",
+      "stop_lon": "2.4593142910788286",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343825",
+      "stop_code": "",
+      "stop_name": "\"Pointe du Lac\"",
+      "stop_desc": "\"avenue François Mitterrand - 94028\"",
+      "stop_lat": "48.76876863574218",
+      "stop_lon": "2.464319398948263",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343817",
+      "stop_code": "",
+      "stop_name": "\"Créteil-Préfecture (Hôtel de Ville)\"",
+      "stop_desc": "\"Le Mont-Mesly - 94028\"",
+      "stop_lat": "48.779757257844594",
+      "stop_lon": "2.4593142910788286",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343815",
+      "stop_code": "",
+      "stop_name": "\"Créteil-Université\"",
+      "stop_desc": "\"Rue Ferdinand de Lesseps - 94028\"",
+      "stop_lat": "48.78972431608003",
+      "stop_lon": "2.450836106390663",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343814",
+      "stop_code": "",
+      "stop_name": "\"Créteil-L'Echat (Hôpital Henri Mondor)\"",
+      "stop_desc": "\"Voie Félix Eboué - 94028\"",
+      "stop_lat": "48.79660129757846",
+      "stop_lon": "2.4495315243760767",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343811",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Alfort-Les Juilliottes\"",
+      "stop_desc": "\"Avenue du Général Leclerc - 94046\"",
+      "stop_lat": "48.80250044183061",
+      "stop_lon": "2.4461836185594534",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343809",
+      "stop_code": "",
+      "stop_name": "\"Maisons-Alfort-Stade\"",
+      "stop_desc": "\"26-28 avenue du Général Leclerc - 94046\"",
+      "stop_lat": "48.808225347352376",
+      "stop_lon": "2.4362758210511313",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343807",
+      "stop_code": "",
+      "stop_name": "\"Ecole Vétérinaire de Maisons-Alfort\"",
+      "stop_desc": "\"Musée Fragonard - 94046\"",
+      "stop_lat": "48.81507632012976",
+      "stop_lon": "2.4216317667306635",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343806",
+      "stop_code": "",
+      "stop_name": "\"Charenton-Ecoles\"",
+      "stop_desc": "\"Rue de Paris - 94018\"",
+      "stop_lat": "48.821489819145576",
+      "stop_lon": "2.4138567623311062",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343803",
+      "stop_code": "",
+      "stop_name": "\"Liberté\"",
+      "stop_desc": "\"Rue de Paris - 94018\"",
+      "stop_lat": "48.82563711172796",
+      "stop_lon": "2.4074108054261223",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343801",
+      "stop_code": "",
+      "stop_name": "\"Porte de Charenton\"",
+      "stop_desc": "\"68 Boulevard Poniatowsky - 75112\"",
+      "stop_lat": "48.83266034648216",
+      "stop_lon": "2.4004636384497804",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343799",
+      "stop_code": "",
+      "stop_name": "\"Porte Dorée\"",
+      "stop_desc": "\"Place Edouard Renard - 75112\"",
+      "stop_lat": "48.83549725282465",
+      "stop_lon": "2.4061852122149348",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343797",
+      "stop_code": "",
+      "stop_name": "\"Michel Bizot\"",
+      "stop_desc": "\"Avenue Daumesnil - 75112\"",
+      "stop_lat": "48.836991037652965",
+      "stop_lon": "2.402919606870042",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343795",
+      "stop_code": "",
+      "stop_name": "\"Daumesnil (Félix Eboué)\"",
+      "stop_desc": "\"Place Félix Eboué - 75112\"",
+      "stop_lat": "48.83968214020875",
+      "stop_lon": "2.3955841703466554",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343794",
+      "stop_code": "",
+      "stop_name": "\"Montgallet\"",
+      "stop_desc": "\"68 rue de Reuilly - 75112\"",
+      "stop_lat": "48.844403092096876",
+      "stop_lon": "2.39025165315774",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343792",
+      "stop_code": "",
+      "stop_name": "\"Reuilly-Diderot\"",
+      "stop_desc": "\"Boulevard Diderot - 75112\"",
+      "stop_lat": "48.84721750107955",
+      "stop_lon": "2.387204177213597",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343790",
+      "stop_code": "",
+      "stop_name": "\"Faidherbe-Chaligny\"",
+      "stop_desc": "\"Hôpital St-Antoine - 75111\"",
+      "stop_lat": "48.85006766800271",
+      "stop_lon": "2.3844287707416316",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343787",
+      "stop_code": "",
+      "stop_name": "\"Ledru-Rollin\"",
+      "stop_desc": "\"Rue Traversière - 75112\"",
+      "stop_lat": "48.85119416536367",
+      "stop_lon": "2.3759317370128947",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343785",
+      "stop_code": "",
+      "stop_name": "\"Bastille\"",
+      "stop_desc": "\"Rue de la Roquette - 75104\"",
+      "stop_lat": "48.85373962301297",
+      "stop_lon": "2.3691648178618325",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343783",
+      "stop_code": "",
+      "stop_name": "\"Chemin Vert\"",
+      "stop_desc": "\"Place des Vosges - 75103\"",
+      "stop_lat": "48.85758654446453",
+      "stop_lon": "2.3680366949483758",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343781",
+      "stop_code": "",
+      "stop_name": "\"Saint-Sébastien-Froissart\"",
+      "stop_desc": "\"Rue Froissart - 75103\"",
+      "stop_lat": "48.86097499718719",
+      "stop_lon": "2.3672622950229414",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343780",
+      "stop_code": "",
+      "stop_name": "\"Filles du Calvaire\"",
+      "stop_desc": "\"Musée Picasso - 75103\"",
+      "stop_lat": "48.86307817635541",
+      "stop_lon": "2.36674588358473",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343778",
+      "stop_code": "",
+      "stop_name": "\"République\"",
+      "stop_desc": "\"Av de la République - 75111\"",
+      "stop_lat": "48.86767151899055",
+      "stop_lon": "2.363329120776082",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343776",
+      "stop_code": "",
+      "stop_name": "\"Strasbourg-Saint-Denis\"",
+      "stop_desc": "\"Porte Saint-Martin - 75102\"",
+      "stop_lat": "48.869380780106006",
+      "stop_lon": "2.3540796521963494",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343773",
+      "stop_code": "",
+      "stop_name": "\"Bonne Nouvelle\"",
+      "stop_desc": "\"Boulevard de Bonne Nouvelle - 75109\"",
+      "stop_lat": "48.87057675358199",
+      "stop_lon": "2.348494293710928",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343771",
+      "stop_code": "",
+      "stop_name": "\"Grands Boulevards\"",
+      "stop_desc": "\"Musée Grévin - 75109\"",
+      "stop_lat": "48.87157474359305",
+      "stop_lon": "2.3428950319846593",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343770",
+      "stop_code": "",
+      "stop_name": "\"Richelieu-Drouot\"",
+      "stop_desc": "\"Rue Marivaux - 75109\"",
+      "stop_lat": "48.87200623896137",
+      "stop_lon": "2.339911390610416",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343768",
+      "stop_code": "",
+      "stop_name": "\"Opéra\"",
+      "stop_desc": "\"Théâtre National de l'Opéra - 75109\"",
+      "stop_lat": "48.87063108014849",
+      "stop_lon": "2.331737048361137",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343765",
+      "stop_code": "",
+      "stop_name": "\"Madeleine\"",
+      "stop_desc": "\"Rue De Sèze - 75108\"",
+      "stop_lat": "48.86950712762907",
+      "stop_lon": "2.324680199591515",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343763",
+      "stop_code": "",
+      "stop_name": "\"Concorde\"",
+      "stop_desc": "\"Place de la Concorde - 75108\"",
+      "stop_lat": "48.865507221530486",
+      "stop_lon": "2.3203628558611284",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343761",
+      "stop_code": "",
+      "stop_name": "\"Invalides\"",
+      "stop_desc": "\"Rue de l' Université - 75107\"",
+      "stop_lat": "48.86109346762053",
+      "stop_lon": "2.3146433553464374",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343759",
+      "stop_code": "",
+      "stop_name": "\"La Tour-Maubourg\"",
+      "stop_desc": "\"Les Invalides Tombeau de l'Empereur - Musée de l'Armée - 75107\"",
+      "stop_lat": "48.85722786064964",
+      "stop_lon": "2.3097962258273563",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343758",
+      "stop_code": "",
+      "stop_name": "\"Ecole Militaire\"",
+      "stop_desc": "\"Avenue Duquesne - 75107\"",
+      "stop_lat": "48.85426092155411",
+      "stop_lon": "2.305439560539011",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343756",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.848803206044934",
+      "stop_lon": "2.29769423466391",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343754",
+      "stop_code": "",
+      "stop_name": "\"Commerce\"",
+      "stop_desc": "\"21 place du Commerce - 75115\"",
+      "stop_lat": "48.84461367199405",
+      "stop_lon": "2.293802980169146",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343752",
+      "stop_code": "",
+      "stop_name": "\"Félix Faure\"",
+      "stop_desc": "\"Place Félix Faure - 75115\"",
+      "stop_lat": "48.84282456767407",
+      "stop_lon": "2.2922249662205156",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343339",
+      "stop_code": "",
+      "stop_name": "\"Boucicaut\"",
+      "stop_desc": "\"Rue Félix Faure - 75115\"",
+      "stop_lat": "48.84102535532167",
+      "stop_lon": "2.287923867330867",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343337",
+      "stop_code": "",
+      "stop_name": "\"Lourmel\"",
+      "stop_desc": "\"Avenue Felix Faure - 75115\"",
+      "stop_lat": "48.83866812903008",
+      "stop_lon": "2.2822484883840986",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "3343334",
+      "stop_code": "",
+      "stop_name": "\"Balard\"",
+      "stop_desc": "\"Rue Louis Armand - 75115\"",
+      "stop_lat": "48.836814988805976",
+      "stop_lon": "2.2786833464502703",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}

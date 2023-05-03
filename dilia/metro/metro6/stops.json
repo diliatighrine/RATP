@@ -1,0 +1,554 @@
+{
+  "stops": [
+    {
+      "stop_id": "2149",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.87371526831065",
+      "stop_lon": "2.294759562849878",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2234",
+      "stop_code": "",
+      "stop_name": "\"Kléber\"",
+      "stop_desc": "\"15 avenue Kléber - 75116\"",
+      "stop_lat": "48.87130614908782",
+      "stop_lon": "2.2933310208962174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2073",
+      "stop_code": "",
+      "stop_name": "\"Boissière\"",
+      "stop_desc": "\"57 avenue Kléber - 75116\"",
+      "stop_lat": "48.86685615476034",
+      "stop_lon": "2.2900380734450088",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1687",
+      "stop_code": "",
+      "stop_name": "\"Trocadéro\"",
+      "stop_desc": "\"Place du Trocédéro - 75116\"",
+      "stop_lat": "48.862666905879294",
+      "stop_lon": "2.2872630615532628",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2390",
+      "stop_code": "",
+      "stop_name": "\"Passy\"",
+      "stop_desc": "\"pl. du Costa Rica - 75116\"",
+      "stop_lat": "48.857534382513876",
+      "stop_lon": "2.28559270581709",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2069",
+      "stop_code": "",
+      "stop_name": "\"Bir-Hakeim (Grenelle)\"",
+      "stop_desc": "\"Tour Eiffel - 75115\"",
+      "stop_lat": "48.854327218552356",
+      "stop_lon": "2.2888101037361173",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1926",
+      "stop_code": "",
+      "stop_name": "\"Dupleix\"",
+      "stop_desc": "\"Boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.85039257831968",
+      "stop_lon": "2.2936483362305387",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2537",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.849018928349764",
+      "stop_lon": "2.297762160707931",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2135",
+      "stop_code": "",
+      "stop_name": "\"Cambronne\"",
+      "stop_desc": "\"2 Boulevard Garibaldi Côté des N° pairs - 75115\"",
+      "stop_lat": "48.8476991081708",
+      "stop_lon": "2.302039143669263",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1665",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Lecourbe\"",
+      "stop_desc": "\"Terre-plein face au 94 boulevard Garibaldi - 75115\"",
+      "stop_lat": "48.84499615085685",
+      "stop_lon": "2.310864830044154",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1781",
+      "stop_code": "",
+      "stop_name": "\"Pasteur\"",
+      "stop_desc": "\"183 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.842012804057696",
+      "stop_lon": "2.3132900438354906",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1825",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (place SNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.84187033630407",
+      "stop_lon": "2.3212283740035646",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1930",
+      "stop_code": "",
+      "stop_name": "\"Edgar-Quinet\"",
+      "stop_desc": "\"Place Edgar Quinet) - 75114\"",
+      "stop_lat": "48.84056772620437",
+      "stop_lon": "2.326402815222764",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1763",
+      "stop_code": "",
+      "stop_name": "\"Raspail\"",
+      "stop_desc": "\"Boulevard Edgard Quinet - 75114\"",
+      "stop_lat": "48.838878378565504",
+      "stop_lon": "2.330678419288263",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1997",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.833998236748336",
+      "stop_lon": "2.333238501158801",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1640",
+      "stop_code": "",
+      "stop_name": "\"Saint-Jacques\"",
+      "stop_desc": "\"Terre-plein face au 46 boulevard Saint-Jacques - 75114\"",
+      "stop_lat": "48.83299169177581",
+      "stop_lon": "2.3366828966443496",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1962",
+      "stop_code": "",
+      "stop_name": "\"Glacière\"",
+      "stop_desc": "\"Face au 124 boulevard Auguste Blanqui - 75113\"",
+      "stop_lat": "48.8312479519874",
+      "stop_lon": "2.343122075822986",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1987",
+      "stop_code": "",
+      "stop_name": "\"Corvisart\"",
+      "stop_desc": "\"Boulevard Auguste Blanqui - 75113\"",
+      "stop_lat": "48.829863252112794",
+      "stop_lon": "2.3506227279320897",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2404",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.831111838257115",
+      "stop_lon": "2.3557961457130645",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1836",
+      "stop_code": "",
+      "stop_name": "\"Nationale\"",
+      "stop_desc": "\"Terre-plein face au 124-143 boulevard Vincent Auriol - 75113\"",
+      "stop_lat": "48.832881288678834",
+      "stop_lon": "2.3619094080161975",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1974",
+      "stop_code": "",
+      "stop_name": "\"Chevaleret\"",
+      "stop_desc": "\"Terre-plein face au 79 boulevard Vincent Auriol - 75113\"",
+      "stop_lat": "48.83496497071995",
+      "stop_lon": "2.3680913458793973",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2524",
+      "stop_code": "",
+      "stop_name": "\"Quai de la Gare\"",
+      "stop_desc": "\"Quai de la Gare - 75113\"",
+      "stop_lat": "48.83761467578531",
+      "stop_lon": "2.373852115680497",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2068",
+      "stop_code": "",
+      "stop_name": "\"Bercy\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84019224440348",
+      "stop_lon": "2.3794772572660587",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2543",
+      "stop_code": "",
+      "stop_name": "\"Dugommier\"",
+      "stop_desc": "\"3 boulevard de Reuilly - 75112\"",
+      "stop_lat": "48.83887615167852",
+      "stop_lon": "2.3893473875702935",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2094",
+      "stop_code": "",
+      "stop_name": "\"Daumesnil (Félix Eboué)\"",
+      "stop_desc": "\"Place Félix Eboué - 75112\"",
+      "stop_lat": "48.83937646312499",
+      "stop_lon": "2.3957880604156494",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2065",
+      "stop_code": "",
+      "stop_name": "\"Bel-Air\"",
+      "stop_desc": "\"34 boulevard de Picpus - 75112\"",
+      "stop_lat": "48.84143200664826",
+      "stop_lon": "2.4008691933800934",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2399",
+      "stop_code": "",
+      "stop_name": "\"Picpus\"",
+      "stop_desc": "\"46 avenue de Saint-Mandé - 75112\"",
+      "stop_lat": "48.84532311461395",
+      "stop_lon": "2.4017863137606863",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2339",
+      "stop_code": "",
+      "stop_name": "\"Nation\"",
+      "stop_desc": "\"Terre-plein face au 3 place de la Nation - 75112\"",
+      "stop_lat": "48.8474552623419",
+      "stop_lon": "2.3977717436108956",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2399",
+      "stop_code": "",
+      "stop_name": "\"Picpus\"",
+      "stop_desc": "\"46 avenue de Saint-Mandé - 75112\"",
+      "stop_lat": "48.84532311461395",
+      "stop_lon": "2.4017863137606863",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2065",
+      "stop_code": "",
+      "stop_name": "\"Bel-Air\"",
+      "stop_desc": "\"34 boulevard de Picpus - 75112\"",
+      "stop_lat": "48.84143200664826",
+      "stop_lon": "2.4008691933800934",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2094",
+      "stop_code": "",
+      "stop_name": "\"Daumesnil (Félix Eboué)\"",
+      "stop_desc": "\"Place Félix Eboué - 75112\"",
+      "stop_lat": "48.83937646312499",
+      "stop_lon": "2.3957880604156494",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2543",
+      "stop_code": "",
+      "stop_name": "\"Dugommier\"",
+      "stop_desc": "\"3 boulevard de Reuilly - 75112\"",
+      "stop_lat": "48.83887615167852",
+      "stop_lon": "2.3893473875702935",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2068",
+      "stop_code": "",
+      "stop_name": "\"Bercy\"",
+      "stop_desc": "\"Rue de Bercy - 75112\"",
+      "stop_lat": "48.84019224440348",
+      "stop_lon": "2.3794772572660587",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2524",
+      "stop_code": "",
+      "stop_name": "\"Quai de la Gare\"",
+      "stop_desc": "\"Quai de la Gare - 75113\"",
+      "stop_lat": "48.83761467578531",
+      "stop_lon": "2.373852115680497",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1974",
+      "stop_code": "",
+      "stop_name": "\"Chevaleret\"",
+      "stop_desc": "\"Terre-plein face au 79 boulevard Vincent Auriol - 75113\"",
+      "stop_lat": "48.83496497071995",
+      "stop_lon": "2.3680913458793973",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1836",
+      "stop_code": "",
+      "stop_name": "\"Nationale\"",
+      "stop_desc": "\"Terre-plein face au 124-143 boulevard Vincent Auriol - 75113\"",
+      "stop_lat": "48.832881288678834",
+      "stop_lon": "2.3619094080161975",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2404",
+      "stop_code": "",
+      "stop_name": "\"Place d'Italie\"",
+      "stop_desc": "\"Place d' Italie - 75113\"",
+      "stop_lat": "48.831111838257115",
+      "stop_lon": "2.3557961457130645",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1987",
+      "stop_code": "",
+      "stop_name": "\"Corvisart\"",
+      "stop_desc": "\"Boulevard Auguste Blanqui - 75113\"",
+      "stop_lat": "48.829863252112794",
+      "stop_lon": "2.3506227279320897",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1962",
+      "stop_code": "",
+      "stop_name": "\"Glacière\"",
+      "stop_desc": "\"Face au 124 boulevard Auguste Blanqui - 75113\"",
+      "stop_lat": "48.8312479519874",
+      "stop_lon": "2.343122075822986",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1640",
+      "stop_code": "",
+      "stop_name": "\"Saint-Jacques\"",
+      "stop_desc": "\"Terre-plein face au 46 boulevard Saint-Jacques - 75114\"",
+      "stop_lat": "48.83299169177581",
+      "stop_lon": "2.3366828966443496",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1997",
+      "stop_code": "",
+      "stop_name": "\"Denfert-Rochereau\"",
+      "stop_desc": "\"2 avenue du Général Leclerc - 75114\"",
+      "stop_lat": "48.833998236748336",
+      "stop_lon": "2.333238501158801",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1763",
+      "stop_code": "",
+      "stop_name": "\"Raspail\"",
+      "stop_desc": "\"Boulevard Edgard Quinet - 75114\"",
+      "stop_lat": "48.838878378565504",
+      "stop_lon": "2.330678419288263",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1930",
+      "stop_code": "",
+      "stop_name": "\"Edgar-Quinet\"",
+      "stop_desc": "\"Place Edgar Quinet) - 75114\"",
+      "stop_lat": "48.84056772620437",
+      "stop_lon": "2.326402815222764",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1825",
+      "stop_code": "",
+      "stop_name": "\"Montparnasse-Bienvenue\"",
+      "stop_desc": "\"Raoul Dautry (placeSNCF Montparnasse) - 75114\"",
+      "stop_lat": "48.84187033630407 ",
+      "stop_lon": "2.3212283740035646",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1781",
+      "stop_code": "",
+      "stop_name": "\"Pasteur\"",
+      "stop_desc": "\"183 rue de Vaugirard - 75115\"",
+      "stop_lat": "48.842012804057696",
+      "stop_lon": "2.3132900438354906",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1665",
+      "stop_code": "",
+      "stop_name": "\"Sèvres-Lecourbe\"",
+      "stop_desc": "\"Terre-plein face au 94 boulevard Garibaldi - 75115\"",
+      "stop_lat": "48.84499615085685",
+      "stop_lon": "2.310864830044154",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2135",
+      "stop_code": "",
+      "stop_name": "\"Cambronne\"",
+      "stop_desc": "\"2 Boulevard Garibaldi Côté des N° pairs - 75115\"",
+      "stop_lat": "48.8476991081708",
+      "stop_lon": "2.302039143669263",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2537",
+      "stop_code": "",
+      "stop_name": "\"La Motte-Picquet-Grenelle\"",
+      "stop_desc": "\"Face au 130-113 boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.849018928349764",
+      "stop_lon": "2.297762160707931",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1926",
+      "stop_code": "",
+      "stop_name": "\"Dupleix\"",
+      "stop_desc": "\"Boulevard de Grenelle - 75115\"",
+      "stop_lat": "48.85039257831968",
+      "stop_lon": "2.2936483362305387",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2069",
+      "stop_code": "",
+      "stop_name": "\"Bir-Hakeim (Grenelle)\"",
+      "stop_desc": "\"Tour Eiffel - 75115\"",
+      "stop_lat": "48.854327218552356",
+      "stop_lon": "2.2888101037361173",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2390",
+      "stop_code": "",
+      "stop_name": "\"Passy\"",
+      "stop_desc": "\"pl. du Costa Rica - 75116\"",
+      "stop_lat": "48.857534382513876",
+      "stop_lon": "2.28559270581709",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "1687",
+      "stop_code": "",
+      "stop_name": "\"Trocadéro\"",
+      "stop_desc": "\"Place du Trocédéro - 75116\"",
+      "stop_lat": "48.862666905879294",
+      "stop_lon": "2.2872630615532628",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2073",
+      "stop_code": "",
+      "stop_name": "\"Boissière\"",
+      "stop_desc": "\"57 avenue Kléber - 75116\"",
+      "stop_lat": "48.86685615476034",
+      "stop_lon": "2.2900380734450088",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2234",
+      "stop_code": "",
+      "stop_name": "\"Kléber\"",
+      "stop_desc": "\"15 avenue Kléber - 75116\"",
+      "stop_lat": "48.87130614908782",
+      "stop_lon": "2.2933310208962174",
+      "location_type": "0",
+      "parent_station": ""
+    },
+    {
+      "stop_id": "2149",
+      "stop_code": "",
+      "stop_name": "\"Charles de Gaulle-Etoile\"",
+      "stop_desc": "\"Place Charles de Gaulle - 75108\"",
+      "stop_lat": "48.87371526831065",
+      "stop_lon": "2.294759562849878",
+      "location_type": "0",
+      "parent_station": ""
+    }
+  ]
+}
